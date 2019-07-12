@@ -9,7 +9,8 @@ HFSP Long-Term Fellowships (propose a project in the life sciences which is sign
 ~~Sloan Foundation https://sloan.org/grants/apply#tab-letters-of-inquiry~~ \
 **AMP tomorrow fund (27 May 2019)** https://www.ampstomorrowfund.com.au/faqs/ \
 **Welcome Open Research Fund  £50k (17 June 2019)** https://wellcome.ac.uk/funding/open-research-fund \
-Digital Science (30 June 2019) https://www.digital-science.com/investment/catalyst-grant/ \
+**Digital Science (30 June 2019) https://www.digital-science.com/investment/catalyst-grant/** \
+https://schmidtsciencefellows.org (12 August 2019, need to be nominated)
 ORION Call for Collaborative Co-Creation Projects (30 Sept 2019) \
 Arcadia (anytime) https://www.arcadiafund.org.uk/ \
 Mozilla Open Source Support Track II $10-250k (anytime) https://www.mozilla.org/en-US/moss/mission-partners/ \
