@@ -10,6 +10,7 @@ Language: Python
 Method: TBD, see #1
 
 Housekeeping:
-- Join the mailing list to stay in the loop! www.freeourknowledge.org
+- Join the platform to stay in the loop! http://freeourknowledge.org
 - Prior discussion at https://gitlab.com/publishing-reform/discussion/issues/78
 - Twitter: @projectFOK
+- Facebook: https://www.facebook.com/projectFOK/
