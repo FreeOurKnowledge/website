@@ -8,7 +8,7 @@ HFSP Long-Term Fellowships (propose a project in the life sciences which is sign
 ### Grants (bold = applied, strikethrough = rejected)
 ~~Sloan Foundation https://sloan.org/grants/apply#tab-letters-of-inquiry~~ \
 **AMP tomorrow fund (27 May 2019)** https://www.ampstomorrowfund.com.au/faqs/ \
-**Welcome Open Research Fund  £50k (17 June 2019)** https://wellcome.ac.uk/funding/open-research-fund \
+**Welcome Open Research Fund, Full Application £50k (3 September 2019)** https://wellcome.ac.uk/funding/open-research-fund \
 **Digital Science (30 June 2019) https://www.digital-science.com/investment/catalyst-grant/** \
 https://schmidtsciencefellows.org (12 August 2019, need to be nominated)
 ORION Call for Collaborative Co-Creation Projects (30 Sept 2019) \
@@ -38,5 +38,5 @@ Register non profit, put donations link on page \
 **GoFundMe.com** \
 
 ### Other
-**eLife innovation sprint 4-5 Sept (2 June 2019)** \
-Mozfest 21-27 Oct (1 August 2019, travel support due 3 July)
+Mozfest 21-27 Oct (1 August 2019, travel support due 3 July) \
+~~eLife innovation sprint 4-5 Sept (2 June 2019)~~ \
