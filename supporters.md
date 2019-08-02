@@ -1,10 +1,12 @@
 #### Partner Initiatives (display logo on website)
+Centre for Open Science? \
 OSMOOC \
-IGDORE (awaiting confirmation from global board) \
 PREreview \
 Access2perspectives \
-BLiSS (might need to register as not-for-profit first)
+BLiSS (might need to be a not-for-profit to partner officially) \
 
+#### Partner Institutions (display logo on website)
+IGDORE \
 
 #### Individual Supporters (list name on website)
 Name | Institution | Research Field/s | Website
