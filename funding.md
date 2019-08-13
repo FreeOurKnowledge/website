@@ -17,7 +17,7 @@ Mozilla Open Source Support Track II $10-250k (anytime) https://www.mozilla.org/
 John Templeton small <$230k / large >230k (30 August, 2019) https://templeton.org/grants/grant-calendar \
 Research Council UK?? \
 EPFL Open Science Fund (Sept 2019) https://www.epfl.ch/research/open-science/in-practice/open-science-fund/ \
-ARC Discovery Early Career Researcher Award (13 March 2019)
+ARC Discovery Early Career Researcher Award (13 March 2019) \
 Chan Zuckerberg initiative (cannot find a portal for letters of enquiry!) \
 Gates Foundation ("We do not make grants outside our funding priorities. In general, we directly invite proposals by directly contacting organizations") \
 Arnold Foundation ("LJAF reviews all inquiries but does not accept unsolicited grant applications") \
