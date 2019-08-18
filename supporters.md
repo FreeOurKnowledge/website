@@ -6,10 +6,10 @@ PREreview \
 Access2perspectives \
 BLiSS (might need to be a not-for-profit to partner officially) \
 Bullied Into Bad Science \
-Transpose \
+Transpose
 
 #### Partner Institutions (display logo on website)
-IGDORE \
+IGDORE
 
 #### Individual Supporters (list name on website)
 Name | Institution | Research Field/s | Website
