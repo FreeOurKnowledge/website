@@ -1,5 +1,6 @@
 #### Partner Initiatives (display logo on website)
-Centre for Open Science? \
+Centre for Open Science \
+UK Research Network \
 OSMOOC \
 PREreview \
 Access2perspectives \
