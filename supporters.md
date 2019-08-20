@@ -1,4 +1,4 @@
-#### Partner Initiatives (display logo on website)
+#### Partners (display logo on website)
 IGDORE \
 Centre for Open Science \
 UK Research Network \
@@ -7,8 +7,12 @@ OSMOOC \
 PREreview \
 Access2perspectives \
 BLiSS (might need to be a not-for-profit to partner officially) \
-Bullied Into Bad Science \
 Transpose
+
+#### Network (for promotion)
+EMCR Forum Australia EMCR@science.org.au \
+DORA (via Ginny Barbour) \
+Bullied Into Bad Science \
 
 #### Individual Supporters (list name on website)
 Name | Institution | Research Field/s | Website
