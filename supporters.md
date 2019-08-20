@@ -1,15 +1,14 @@
 #### Partner Initiatives (display logo on website)
+IGDORE \
 Centre for Open Science \
 UK Research Network \
+BITSS \
 OSMOOC \
 PREreview \
 Access2perspectives \
 BLiSS (might need to be a not-for-profit to partner officially) \
 Bullied Into Bad Science \
 Transpose
-
-#### Partner Institutions (display logo on website)
-IGDORE
 
 #### Individual Supporters (list name on website)
 Name | Institution | Research Field/s | Website
