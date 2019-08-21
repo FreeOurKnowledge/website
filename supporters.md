@@ -1,6 +1,7 @@
 #### Partners (display logo on website)
 IGDORE \
 Centre for Open Science \
+ASAPbio \
 UK Research Network \
 BITSS \
 OSMOOC \
