@@ -7,13 +7,13 @@ BITSS \
 OSMOOC \
 PREreview \
 Access2perspectives \
+Bullied Into Bad Science \
+BLiSS (might need to be a not-for-profit to partner officially) \
 Transpose
 
 #### Network (for promotion)
 EMCR Forum Australia EMCR@science.org.au \
 DORA (via Ginny Barbour) \
-Bullied Into Bad Science \
-BLiSS (might need to be a not-for-profit to partner officially) \
 
 #### Individual Supporters (list name on website)
 Name | Institution | Research Field/s | Website
