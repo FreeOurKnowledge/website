@@ -1,12 +1,12 @@
 #### Partners (display logo on website)
 IGDORE \
 Centre for Open Science \
-ASAPbio \
 UK Research Network \
 BITSS \
+Access2perspectives \
+ASAPbio \
 OSMOOC \
 PREreview \
-Access2perspectives \
 Bullied Into Bad Science \
 BLiSS (might need to be a not-for-profit to partner officially) \
 Transpose
