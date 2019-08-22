@@ -29,3 +29,10 @@ reviewer 2 must be stopped \
 
 #### Other
 Open Knowledge Maps \
+https://gitlab.com/publishing-reform/discussion/blob/master/Fair%20Open%20Access/List%20of%20supporters%20of%20Fair%20Open%20Access.md \
+http://www.openaccesspledge.com/?page_id=2 \
+https://opennessinitiative.org/signatories/ \
+http://thecostofknowledge.com/ \
+http://www.nodealnoreview.org/ \
+Liste des échos du RISC (ask Claire) \
+https://www.budapestopenaccessinitiative.org/list_signatures
