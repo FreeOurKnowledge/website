@@ -13,7 +13,7 @@ Note: refer to [Open Scholarship Communication Strategy](https://github.com/Open
 ### Facebook Groups
 * ACNS ECRs
 
-### Slack workspaces (not covered by communication strategy)
+### Slack workspaces
 * SIPS2019 
 * Creative Commons 
 
