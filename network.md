@@ -17,6 +17,16 @@ EMCR Forum Australia EMCR@science.org.au \
 DORA (via Ginny Barbour) \
 UQ cog neuro \
 Donders
+Fair Open Access supporters: https://gitlab.com/publishing-reform/discussion/blob/master/Fair%20Open%20Access/List%20of%20supporters%20of%20Fair%20Open%20Access.md \
+http://www.openaccesspledge.com/?page_id=2 \
+https://opennessinitiative.org/signatories/ \
+http://thecostofknowledge.com/ \ 
+http://www.nodealnoreview.org/ \
+Liste des échos du RISC (ask Claire) \
+https://www.budapestopenaccessinitiative.org/list_signatures \
+Donders mailing list (follow-up talk given at BBM) \
+australian_oa_community@mailman.anu.edu.au \
+open-science@lists.okfn.org \
 
 #### Slack workspaces (not covered by above)
 SIPS2019 \
@@ -29,10 +39,3 @@ reviewer 2 must be stopped \
 
 #### Other
 Open Knowledge Maps \
-https://gitlab.com/publishing-reform/discussion/blob/master/Fair%20Open%20Access/List%20of%20supporters%20of%20Fair%20Open%20Access.md \
-http://www.openaccesspledge.com/?page_id=2 \
-https://opennessinitiative.org/signatories/ \
-http://thecostofknowledge.com/ \
-http://www.nodealnoreview.org/ \
-Liste des échos du RISC (ask Claire) \
-https://www.budapestopenaccessinitiative.org/list_signatures
