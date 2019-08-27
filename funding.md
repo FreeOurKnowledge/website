@@ -1,6 +1,8 @@
 ### Fellowships (bold = applied, strikethrough = rejected)
 ~~Mercatus Emergent Ventures (open now, deadline unclear, 1500 wds) https://www.mercatus.org/emergentventures)~~ \
 ~~Endeavour Research Fellowship (cancelled by Australian Govt)~~ \
+**https://schmidtsciencefellows.org (1 October 2019, passed UQ nomination round)** \
+Mozilla Fellowship (~March 2020?) \
 ARC/NHMRC? \
 HFSP Long-Term Fellowships (propose a project in the life sciences which is significantly different from previous work) http://www.hfsp.org/funding/postdoctoral-fellowships (8 August, 2019) \
 ~~Open Society Fellowship $80-100k (4 Feb 2019, 1-2 pages)~~ \
@@ -10,7 +12,6 @@ HFSP Long-Term Fellowships (propose a project in the life sciences which is sign
 **AMP tomorrow fund (27 May 2019)** https://www.ampstomorrowfund.com.au/faqs/ \
 **Welcome Open Research Fund, Full Application £50k (3 September 2019)** https://wellcome.ac.uk/funding/open-research-fund \
 **Digital Science (30 June 2019) https://www.digital-science.com/investment/catalyst-grant/** \
-https://schmidtsciencefellows.org (12 August 2019, need to be nominated) \
 ORION Call for Collaborative Co-Creation Projects (30 Sept 2019) \
 https://eosc-hub.eu/eosc-early-adopter-programme \
 https://www.eoscsecretariat.eu/node/377 \
