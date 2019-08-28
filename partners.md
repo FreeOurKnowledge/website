@@ -1,6 +1,6 @@
 * [Institute for Globally Distributed Open Research and Education](https://igdore.org/)
 * [Centre for Open Science](https://cos.io/)
-* UK Research Network
+* [UK Research Network](http://www.dcn.ed.ac.uk/camarades/ukrn/)
 * [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/)
 * [Access2perspectives](http://access2perspectives.com/)
 * [ASAPbio](https://asapbio.org/)
