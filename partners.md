@@ -1,11 +1,11 @@
-* IGDORE
-* Centre for Open Science
+* [Institute for Globally Distributed Open Research and Education](https://igdore.org/)
+* [Centre for Open Science](https://cos.io/)
 * UK Research Network
-* BITSS
-* Access2perspectives
-* ASAPbio
-* OSMOOC
-* PREreview
-* Bullied Into Bad Science
-* BLiSS (might need to be a not-for-profit to partner officially)
-* Transpose
+* [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/)
+* [Access2perspectives](http://access2perspectives.com/)
+* [ASAPbio](https://asapbio.org/)
+* [Open Science MOOC](https://opensciencemooc.eu/)
+* [PREreview](https://prereview.org/)
+* [Bullied Into Bad Science](http://bulliedintobadscience.org/)
+* [BLiSS](http://www.bliss-ecr.org/) (will partner officially when we become not-for-profit)
+* [Transpose](https://transpose-publishing.github.io/)
