@@ -43,3 +43,7 @@ Register non profit, put donations link on page \
 ### Other
 Mozfest 21-27 Oct (1 August 2019, travel support due 3 July) \
 ~~eLife innovation sprint 4-5 Sept (2 June 2019)~~ \
+
+### To look into
+https://www.openphilanthropy.org/
+https://www.arcadiafund.org.uk/
