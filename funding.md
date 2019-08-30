@@ -47,3 +47,8 @@ Mozfest 21-27 Oct (1 August 2019, travel support due 3 July) \
 ### Funders to look into
 https://www.openphilanthropy.org/ \
 https://www.arcadiafund.org.uk/
+
+### Long-term funding options
+* charge organisations and non-researchers to use platform (suggested in Wellcome proposal)
+* seek small amounts of funding from academic unions, universities etc.
+* charge a fee to users who want more detailed information on pledge data, e.g. country of pledge origin, career level
