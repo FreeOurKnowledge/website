@@ -2,6 +2,7 @@
 ~~Mercatus Emergent Ventures (open now, deadline unclear, 1500 wds) https://www.mercatus.org/emergentventures)~~ \
 ~~Endeavour Research Fellowship (cancelled by Australian Govt)~~ \
 **https://schmidtsciencefellows.org (1 October 2019, passed UQ nomination round)** \
+https://basselkhartabil.org/ (28 Sept 2019) \
 Mozilla Fellowship (~March 2020?) \
 ARC/NHMRC? \
 HFSP Long-Term Fellowships (propose a project in the life sciences which is significantly different from previous work) http://www.hfsp.org/funding/postdoctoral-fellowships (8 August, 2019) \
