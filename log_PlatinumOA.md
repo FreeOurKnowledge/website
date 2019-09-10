@@ -2,4 +2,6 @@
 Publicly-funded research should be free to read, reuse and free for authors to publish (“Diamond” or “Platinum Open Access”). In many fields, Platinum Open Access journals already exist but do not receive many submissions due to their relatively low impact factors. The academic community creates nearly all of the value that determines journal 'prestige', however, and as such a widespread and simultaneous statement of exclusive support for the Platinum Open Access model would bolster the reputation of these journals, decrease the incentive to publish in non-compliant subscription or author-pays journals, and allow the community to transition the value we provide to more efficient and cost-effective journals with minimal risk to individual researchers.
 
 **Criteria** \
-By joining this campaign, you pledge to exclusively publish in, and review for, journals listed in the Directory of Open Access Journals that do not charge publication fees (DOI registration costs are permissible). Note that this pledge permits publishing in more progressive journals that are community-owned and run (e.g. Fair Open Access, Genuine Open Access).
+* Exclusively publish in, and review for, Open Access journals that do not charge publication fees (listed in the Directory of Open Access Journals).
+
+Note that this pledge permits publishing in progressive community-owned journals (e.g. Fair Open Access, Genuine Open Access) and journals that charge only DOI-registration costs.
