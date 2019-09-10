@@ -5,4 +5,5 @@ Researchers should be able to share their findings with the community as soon as
 Your pledge:
 * Every time you publish, deposit the final peer-reviewed preprint (i.e., 'post-print') in an indexed repository without embargo
 * Every time you review, only review for journals that allow post-prints to be shared without embargo (i.e., 'Green' journals on Sherpa/Romeo)
+
 Remember: You will only have to act on your pledge when the level of support in your community reaches a specific threshold (chosen by you).
