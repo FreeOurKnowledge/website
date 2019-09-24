@@ -7,6 +7,9 @@ Note: refer to [Open Scholarship Communication Strategy](https://github.com/Open
 * UQ cog neuro
 * Donders 
 
+### Media
+Michael Schulson (michael at undark.org)
+
 ### Podcasts
 * QBI
 
