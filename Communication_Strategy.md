@@ -8,7 +8,7 @@ Note: refer to [Open Scholarship Communication Strategy](https://github.com/Open
 * Donders 
 
 ### Media
-Michael Schulson (michael at undark.org)
+* Michael Schulson (michael at undark.org)
 
 ### Podcasts
 * QBI
