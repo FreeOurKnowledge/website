@@ -16,7 +16,8 @@ HFSP Long-Term Fellowships (propose a project in the life sciences which is sign
 ORION Call for Collaborative Co-Creation Projects (30 Sept 2019) \
 https://eosc-hub.eu/eosc-early-adopter-programme \
 https://www.eoscsecretariat.eu/node/377 \
-**Arcadia (anytime) https://www.arcadiafund.org.uk/ emailed Ross Mounce** \
+**Arcadia https://www.arcadiafund.org.uk/, emailed Ross Mounce 6 Sept** \
+**Open Philanthropy https://www.openphilanthropy.org/giving/current-priorities#Scientific_research, cold-emailed 25 Sept** \
 Grant for the Web (web monetization) (first call 2020) https://www.grantfortheweb.org/faq \
 Mozilla Open Source Support Track II $10-250k (anytime) https://www.mozilla.org/en-US/moss/mission-partners/ \
 John Templeton small <$230k / large >230k (30 August, 2019) https://templeton.org/grants/grant-calendar \
@@ -40,15 +41,11 @@ Shuttleworth grant (applications closed until further notice)  \
 
 ### Crowdfunding (bold = initiated)
 Register non profit, put donations link on page \
-**GoFundMe.com** \
+**GoFundMe.com, https://www.gofundme.com/f/rpjkz-test ** \
 
 ### Other
-Mozfest 21-27 Oct (1 August 2019, travel support due 3 July) \
+~~Mozfest 21-27 Oct (1 August 2019, travel support due 3 July)~~ \
 ~~eLife innovation sprint 4-5 Sept (2 June 2019)~~ \
-
-### Funders to look into
-https://www.openphilanthropy.org/ \
-https://www.arcadiafund.org.uk/
 
 ### Long-term funding options
 * charge organisations and non-researchers to use platform (suggested in Wellcome proposal)
