@@ -1,5 +1,5 @@
 **Rationale** \
-Preprints are a fast and cost-effective way to make findings openly available ('Green Open Access'). Some publishers discourage preprints by delaying their sharing ('embargoes') or forbidding their updating after peer-review ('post-print' or 'author accepted manuscript'). If a critical mass of researchers were to unanimously declare their intention to share pre- and post-prints, however, publishers would be compelled to endorse these practices or lose the value donated to them by the research community. 
+Postprints are the preprint (author-formatted article) that has been updated with changes made during the peer-review process. Postprints are a cost-effective way to enable access to the latest research ('Green Open Access’), but some publishers place embargoes on postprints or deny their use altogether. If a critical mass of researchers were to unanimously declare their intention to share pre- and post-prints, however, publishers would be compelled to endorse these practices or lose the value donated to them by the research community.
 
 **Criteria** \
 * Every time you publish an article closed access (i.e., in a paywalled journal), deposit the final peer-reviewed preprint (i.e., 'postprint') in an indexed repository immediately (i.e., without embargo)
