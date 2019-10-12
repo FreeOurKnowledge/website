@@ -9,3 +9,4 @@
 * [Bullied Into Bad Science](http://bulliedintobadscience.org/)
 * [BLiSS](http://www.bliss-ecr.org/) (will partner officially when we become not-for-profit)
 * [Transpose](https://transpose-publishing.github.io/)
+* [Future of Research](https://www.futureofresearch.org/)
