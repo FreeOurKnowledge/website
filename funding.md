@@ -14,21 +14,21 @@ HFSP Long-Term Fellowships (propose a project in the life sciences which is sign
 ~~Welcome Open Research Fund, Full Application £50k (3 September 2019) https://wellcome.ac.uk/funding/open-research-fund~~ \
 ~~Digital Science (30 June 2019) https://www.digital-science.com/investment/catalyst-grant/~~ \
 **Arcadia https://www.arcadiafund.org.uk/, emailed Ross Mounce 6 Sept** \
-**Open Philanthropy https://www.openphilanthropy.org/giving/current-priorities#Scientific_research, emailed 25 Sept** \
+**Open Philanthropy https://www.openphilanthropy.org/giving/current-priorities#Scientific_research, emailed 25/9/18** \
 Grant for the Web (web monetization) (first call 2020) https://www.grantfortheweb.org/faq \
 Mozilla Open Source Support Track II $10-250k (anytime) https://www.mozilla.org/en-US/moss/mission-partners/ \
-John Templeton small <$230k / large >230k (30 August, 2019) https://templeton.org/grants/grant-calendar \
+[John Templeton small <$230k / large >230k](https://templeton.org/grants/grant-calendar) (30 August, 2019)  \
 Research Council UK?? \
-EPFL Open Science Fund (Sept 2019) https://www.epfl.ch/research/open-science/in-practice/open-science-fund/ \
+[EPFL Open Science Fund](https://www.epfl.ch/research/open-science/in-practice/open-science-fund/) (6 Dec 2019) - applications restricted to EPFL members \
 ARC Discovery Early Career Researcher Award (13 March 2019) \
 Chan Zuckerberg initiative (cannot find a portal for letters of enquiry!) \
-Gates Foundation ("We do not make grants outside our funding priorities. In general, we directly invite proposals by directly contacting organizations") \
+[Gates Foundation](https://www.gatesfoundation.org/How-We-Work/General-Information/Grantseeker-FAQ) (Don't seem to have any appropriate avenues - "We do not make grants outside our funding priorities. In general, we directly invite proposals by directly contacting organizations") \
 Arnold Foundation ("LJAF reviews all inquiries but does not accept unsolicited grant applications") \
 Gordon and Betty Moore Foundation? \
 National Science Foundation (US)? \
 Thiel Foundation? http://www.thielfoundation.org/ \
 Figshare? \
-Shuttleworth flash grant $5k (May / November, nominations by Fellows) https://www.shuttleworthfoundation.org/fellows/flash-grants/ \ 
+**[Shuttleworth flash grant $5k](https://www.shuttleworthfoundation.org/fellows/flash-grants/) (May / November, nominations by Fellows) - emailed Chris Hartgerink 29/10/18**  \ 
 Shuttleworth grant (applications closed until further notice)  \
 ~~SCOSS (31 October 2018) https://docs.google.com/forms/d/e/1FAIpQLSdsRiVAKvM85RIFvVqxVi0AOCgWpP8B-nvp5QojBfLiGUkp_A/viewform~~ \
 ~~Awesome foundation $1k (monthly)~~ \
@@ -38,6 +38,7 @@ Shuttleworth grant (applications closed until further notice)  \
 
 ### Crowdfunding (bold = initiated)
 Register non profit, put donations link on page \
+https://lets-fund.org/better-science/ (Chris Chambers used them for Registered Reports) \
 **GoFundMe.com, https://www.gofundme.com/f/rpjkz-test ** \
 
 ### Other
@@ -45,7 +46,7 @@ Register non profit, put donations link on page \
 ~~eLife innovation sprint 4-5 Sept (2 June 2019)~~ \
 
 ### Long-term funding options
-* charge organisations and non-researchers to use platform (suggested in Wellcome proposal)
+* charge organisations and non-researchers to use platform
 * seek small amounts of funding from academic unions, universities etc.
 * charge a fee to users who want more detailed information on pledge data, e.g. country of pledge origin, career level
 * charge a hosting fee for campaigns that include a crowdfunding component
