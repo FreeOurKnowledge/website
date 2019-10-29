@@ -28,8 +28,8 @@ Gordon and Betty Moore Foundation? \
 National Science Foundation (US)? \
 Thiel Foundation? http://www.thielfoundation.org/ \
 Figshare? \
-**[Shuttleworth flash grant $5k](https://www.shuttleworthfoundation.org/fellows/flash-grants/) (May / November, nominations by Fellows) - emailed Chris Hartgerink 29/10/18**  \ 
-Shuttleworth grant (applications closed until further notice)  \
+**[Shuttleworth flash grant $5k](https://www.shuttleworthfoundation.org/fellows/flash-grants/) (May / November, nominations by Fellows) - emailed Chris Hartgerink 29/10/18** \
+Shuttleworth grant (applications closed until further notice) \
 ~~SCOSS (31 October 2018) https://docs.google.com/forms/d/e/1FAIpQLSdsRiVAKvM85RIFvVqxVi0AOCgWpP8B-nvp5QojBfLiGUkp_A/viewform~~ \
 ~~Awesome foundation $1k (monthly)~~ \
 ~~Creative Commons Community Activities Fund $1000 (anytime)~~ \
