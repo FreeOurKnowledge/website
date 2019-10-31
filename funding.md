@@ -2,10 +2,11 @@
 * ~~Mercatus Emergent Ventures (open now, deadline unclear, 1500 wds) https://www.mercatus.org/emergentventures)~~ \
 * ~~Endeavour Research Fellowship (cancelled by Australian Govt)~~ \
 * **https://schmidtsciencefellows.org (1 October 2019, passed UQ nomination round)** \
-* https://basselkhartabil.org/ (28 Sept 2019) \
+* **https://basselkhartabil.org/ (28 Sept 2019)** \
 * Mozilla Fellowship (~March 2020?) \
 * ARC/NHMRC? \
 * [HFSP Long-Term Fellowships](http://www.hfsp.org/funding/postdoctoral-fellowships) (propose a project in the life sciences which is significantly different from previous work)  (8 August, 2019) \
+* Shuttleworth Fellowship (applications closed until further notice) \
 * ~~Open Society Fellowship $80-100k (4 Feb 2019, 1-2 pages)~~ \
 
 ### Grants (bold = applied, strikethrough = rejected)
@@ -29,7 +30,6 @@
 * Thiel Foundation? http://www.thielfoundation.org/ \
 * Figshare? \
 * **[Shuttleworth flash grant $5k](https://www.shuttleworthfoundation.org/fellows/flash-grants/) (May / November, nominations by Fellows) - emailed Chris Hartgerink 29/10/18** \
-* Shuttleworth grant (applications closed until further notice) \
 * ~~SCOSS (31 October 2018) https://docs.google.com/forms/d/e/1FAIpQLSdsRiVAKvM85RIFvVqxVi0AOCgWpP8B-nvp5QojBfLiGUkp_A/viewform~~ \
 * ~~Awesome foundation $1k (monthly)~~ \
 * ~~Creative Commons Community Activities Fund $1000 (anytime)~~ \
