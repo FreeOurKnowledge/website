@@ -6,7 +6,7 @@
 * Mozilla Fellowship (~March 2020?) \
 * ARC/NHMRC? \
 * [HFSP Long-Term Fellowships](http://www.hfsp.org/funding/postdoctoral-fellowships) (propose a project in the life sciences which is significantly different from previous work)  (8 August, 2019) \
-* Shuttleworth Fellowship (applications closed until further notice) \
+* Shuttleworth Fellowship (3 Nov 2019) \
 * ~~Open Society Fellowship $80-100k (4 Feb 2019, 1-2 pages)~~ \
 
 ### Grants (bold = applied, strikethrough = rejected)
