@@ -46,7 +46,8 @@
 * ~~eLife innovation sprint 4-5 Sept (2 June 2019)~~ \
 
 ### Long-term funding options
-* charge organisations and non-researchers to use platform
+* charge organisations to host campaigns on platform (briefly mentioned in Wellcome application - feedback said could have had more information on long-term sustainability)
 * seek small amounts of funding from academic unions, universities etc.
-* charge a fee to users who want more detailed information on pledge data, e.g. country of pledge origin, career level
-* charge a hosting fee for campaigns that include a crowdfunding component
+* charge a fee to users/organisations who want more detailed information on pledge data, e.g. country of pledge origin, career level
+* charge a platform fee for campaigns that include a crowdfunding component
+* charge users monthly fee
