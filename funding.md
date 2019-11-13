@@ -1,22 +1,19 @@
 ### Fellowships (bold = applied, strikethrough = rejected)
-* ~~Mercatus Emergent Ventures (open now, deadline unclear, 1500 wds) https://www.mercatus.org/emergentventures)~~ \
-* ~~Endeavour Research Fellowship (cancelled by Australian Govt)~~ \
-* **https://schmidtsciencefellows.org (1 October 2019, passed UQ nomination round)** \
-* **Shuttleworth foundation** \
-* **https://basselkhartabil.org/ (28 Sept 2019)** \
+* **Schmidt Science Fellows** \
+* **Shuttleworth Fellowship** \
+* **Bassel Khartabil** \
 * Mozilla Fellowship (~March 2020?) \
 * ARC/NHMRC? \
 * [HFSP Long-Term Fellowships](http://www.hfsp.org/funding/postdoctoral-fellowships) (propose a project in the life sciences which is significantly different from previous work)  (8 August, 2019) \
-* Shuttleworth Fellowship (3 Nov 2019) \
 * ~~Open Society Fellowship $80-100k (4 Feb 2019, 1-2 pages)~~ \
+* ~~Mercatus Emergent Ventures (open now, deadline unclear, 1500 wds) https://www.mercatus.org/emergentventures)~~ \
+* ~~Endeavour Research Fellowship (cancelled by Australian Govt)~~
 
 ### Grants (bold = applied, strikethrough = rejected)
-* ~~Sloan Foundation https://sloan.org/grants/apply#tab-letters-of-inquiry~~ \
-* ~~AMP tomorrow fund (27 May 2019)** https://www.ampstomorrowfund.com.au/faqs/~~ \
-* ~~Welcome Open Research Fund, Full Application £50k (3 September 2019) https://wellcome.ac.uk/funding/open-research-fund~~ \
-* ~~Digital Science (30 June 2019) https://www.digital-science.com/investment/catalyst-grant/~~ \
 * **Arcadia https://www.arcadiafund.org.uk/, emailed Ross Mounce 6 Sept** \
 * **Open Philanthropy https://www.openphilanthropy.org/giving/current-priorities#Scientific_research, emailed 25/9/18** \
+* Thiel Foundation? http://www.thielfoundation.org/ \
+* Mellon Foundation (applied previously, but could try again with new experiment proposal) \
 * Grant for the Web (web monetization) (first call 2020) https://www.grantfortheweb.org/faq \
 * Mozilla Open Source Support Track II $10-250k (anytime) https://www.mozilla.org/en-US/moss/mission-partners/ \
 * [John Templeton small <$230k / large >230k](https://templeton.org/grants/grant-calendar) (30 August, 2019)  \
@@ -28,14 +25,16 @@
 * Arnold Foundation ("LJAF reviews all inquiries but does not accept unsolicited grant applications") \
 * Gordon and Betty Moore Foundation? \
 * National Science Foundation (US)? \
-* Thiel Foundation? http://www.thielfoundation.org/ \
 * Figshare? \
-* **[Shuttleworth flash grant $5k](https://www.shuttleworthfoundation.org/fellows/flash-grants/) (May / November, nominations by Fellows) - emailed Chris Hartgerink 29/10/18** \
+* ~~[Shuttleworth flash grant $5k](https://www.shuttleworthfoundation.org/fellows/flash-grants/) (May / November, nominations by Fellows) - (emailed Chris Hartgerink 29/10/18)~~ \
 * ~~SCOSS (31 October 2018) https://docs.google.com/forms/d/e/1FAIpQLSdsRiVAKvM85RIFvVqxVi0AOCgWpP8B-nvp5QojBfLiGUkp_A/viewform~~ \
 * ~~Awesome foundation $1k (monthly)~~ \
 * ~~Creative Commons Community Activities Fund $1000 (anytime)~~ \
 * ~~Mozilla research grant? <$50k (opening Sept/Oct) - req's specific themes~~ \
-* ~~Mellon Foundation~~ --- try again with new project proposal \
+* ~~Sloan Foundation https://sloan.org/grants/apply#tab-letters-of-inquiry~~ \
+* ~~AMP tomorrow fund (27 May 2019)** https://www.ampstomorrowfund.com.au/faqs/~~ \
+* ~~Welcome Open Research Fund, Full Application £50k (3 September 2019) https://wellcome.ac.uk/funding/open-research-fund~~ \
+* ~~Digital Science (30 June 2019) https://www.digital-science.com/investment/catalyst-grant/~~ \
 
 ### Crowdfunding (bold = initiated)
 * Register non profit, put donations link on page \
