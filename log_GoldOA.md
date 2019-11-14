@@ -3,5 +3,5 @@ Many journals place publicly-funded research behind expensive paywalls, costing 
 
 By signing this campaign, you will pledge to exclusively support Open Access journals. Your pledge will only go into effect if a critical mass of peers in your field sign the same pledge (choose your own threshold when you pledge, according to your circumstances).
 
-**Criteria**\
+**Criteria**
 * Exclusively publish in, and review for, Open Access journals (listed in the Directory of Open Access Journals). "Author pays" journals are compliant with this pledge (see the Platinum Open Access campaign to support "fee-free" journals).
