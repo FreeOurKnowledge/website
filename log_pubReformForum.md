@@ -1,4 +1,4 @@
-**Initial post september 2018**
+**Initial post on [Gitlab forum](https://gitlab.com/publishing-reform/discussion/issues/78) september 2018**
 
 Hi all,
 Long time listener first time caller :) Some colleagues (@Protohedgehog, plus others I'll link in a later comment - not sure of their handles just now) and I have been developing an idea I had for how we might collectively organise a grassroots syndicated boycott of commercial publishers, while mitigating risk to individual researchers. A colleague (Eelke Spaak) liked the idea enough to turn it into a website, which we soft launched at a talk this week to develop interest and hopefully find more people interested in collaborating.
