@@ -42,10 +42,6 @@
 * Register non profit, put donations link on page 
 * https://lets-fund.org/better-science/ (Chris Chambers used them for Registered Reports)
 
-### Other
-* ~~Mozfest 21-27 Oct (1 August 2019, travel support due 3 July)~~ 
-* ~~eLife innovation sprint 4-5 Sept (2 June 2019)~~ 
-
 ### Long-term funding options
 * charge organisations to host campaigns on platform (briefly mentioned in Wellcome application - feedback said could have had more information on long-term sustainability)
 * seek small amounts of funding from academic unions, universities etc.
@@ -58,3 +54,5 @@
 * Mozilla Open Leaders (apply June 2020)
 * Open Life Science (8 Dec 2019)
 * eLife Innovation Leaders (8 Dec 2019)
+* ~~Mozfest 21-27 Oct (1 August 2019, travel support due 3 July)~~ 
+* ~~eLife innovation sprint 4-5 Sept (2 June 2019)~~ 
