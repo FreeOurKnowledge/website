@@ -53,3 +53,8 @@
 * charge a platform fee for campaigns that include a crowdfunding component
 * charge users monthly fee
 * merchandise (badges/stickers/reusable cups) could sell to start off then use that to pay back cost of printing to them have items for giveaways at workshops. Propose this to potential founders = advert opportunity if they gold star support we stick their logo on our stickers... 
+
+### Project support
+* Mozilla Open Leaders (apply June 2020)
+* Open Life Science (8 Dec 2019)
+* eLife Innovation Leaders (8 Dec 2019)
