@@ -12,6 +12,7 @@ Note: refer to [Open Scholarship Communication Strategy](https://github.com/Open
 
 ### Podcasts
 * QBI
+* http://www.openscienceradio.org/
 
 ### Facebook Groups
 * ACNS ECRs
