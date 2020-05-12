@@ -23,3 +23,4 @@ Note: refer to [Open Scholarship Communication Strategy](https://github.com/Open
 
 ### Other
 * Open Knowledge Maps 
+* United Nations University
