@@ -41,6 +41,7 @@
 * **GoFundMe.com, https://www.gofundme.com/f/rpjkz-test**
 * Register non profit, put donations link on page 
 * https://lets-fund.org/better-science/ (Chris Chambers used them for Registered Reports)
+* https://startsomegood.com/
 
 ### Long-term funding options
 * charge organisations to host campaigns on platform (briefly mentioned in Wellcome application - feedback said could have had more information on long-term sustainability)
