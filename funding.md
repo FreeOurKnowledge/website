@@ -1,8 +1,8 @@
 
 ### Fellowships (bold = applied, strikethrough = rejected)
-* **Schmidt Science Fellows** 
-* **Shuttleworth Fellowship** 
-* **Bassel Khartabil** 
+* ~~Schmidt Science Fellows~~ 
+* ~~Shuttleworth Fellowship~~ 
+* ~~Bassel Khartabil~~ 
 * Mozilla Fellowship (~March 2020?) 
 * ARC/NHMRC? 
 * [HFSP Long-Term Fellowships](http://www.hfsp.org/funding/postdoctoral-fellowships) (propose a project in the life sciences which is significantly different from previous work)  (8 August, 2019) 
@@ -11,7 +11,7 @@
 * ~~Endeavour Research Fellowship (cancelled by Australian Govt)~~
 
 ### Grants (bold = applied, strikethrough = rejected)
-* **Arcadia https://www.arcadiafund.org.uk/, emailed Ross Mounce 6 Sept** 
+* ~~Arcadia https://www.arcadiafund.org.uk/, emailed Ross Mounce 6 Sept~~ 
 * **Open Philanthropy https://www.openphilanthropy.org/giving/current-priorities#Scientific_research, emailed 25/9/18** 
 * Thiel Foundation? http://www.thielfoundation.org/ 
 * Mellon Foundation (applied previously, but could try again with new experiment proposal) 
