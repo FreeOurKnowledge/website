@@ -1,7 +1,7 @@
 Petitions
 * [No-fee science](https://docs.google.com/forms/d/e/1FAIpQLSeGl9IgTZcVDcyinQbosTKhrZVTTVhQ8fUg5Yc9K860AHeDpw/viewform)
 * [Freeing sciences (petition to researchers to change practices)](https://journauxscientifiqueslibres.wesign.it/en)
-* [Right to share publications (petition to APA with threat of collective action](https://www.change.org/p/american-psychological-association-right-to-share-publications?recruiter=11934790&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition&utm_term=Search%3ESAP%3EUS%3ENonBrand%3EExact&use_react=false)
+* [Right to share publications (petition to APA with threat of collective action)](https://www.change.org/p/american-psychological-association-right-to-share-publications?recruiter=11934790&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition&utm_term=Search%3ESAP%3EUS%3ENonBrand%3EExact&use_react=false)
 
 
 Non-collective action pledges
