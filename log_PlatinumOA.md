@@ -7,4 +7,4 @@ Publicly-funded research should be free to read, reuse and free for authors to p
 By signing this campaign, you will pledge to exclusively support fee-free Open Access journals. Your pledge will only go into effect if a critical mass of peers in your field sign the same pledge (choose your own threshold when you pledge, according to your circumstances).
 
 **Criteria**\
-* Exclusively publish in, and review for, Open Access scholarly communication venues that don't charge publication fees. Venues that charge only DOI-registration costs are permitted under this pledge.
+Exclusively publish in, and review for, Open Access scholarly communication venues that don't charge publication fees. Venues that charge only DOI-registration costs are permitted under this pledge.
