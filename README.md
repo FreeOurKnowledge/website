@@ -3,7 +3,7 @@ This repository serves two functions: (1) Storing files and information relating
 
 #### Support us
 If you're new to the project, please help us by doing the following:
-* Log in to the [website](https://www.freeourknowledge.org/) so that we have you on the mailing list
+* Log in to the [website](https://www.freeourknowledge.org/) using ORCID so that we have you on the mailing list (or email info [at] freeourknowledge.org)
 * Pledge to any [campaigns](https://www.freeourknowledge.org/#campaigns) that you feel comfortable supporting
 * Follow + retweet on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)
 
@@ -21,6 +21,5 @@ If you'd like to propose a new collective action campaign for the platform, open
 - React to comments by clicking the little emoji
 - Format text using [this guide](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-#### Get in touch
-- Email: info [at] freeourknowledge.org
+#### Other info
 - Prior discussion at https://gitlab.com/publishing-reform/discussion/issues/78
