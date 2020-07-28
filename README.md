@@ -1,5 +1,5 @@
 # documentation
-This repository serves two functions: (1) Storing files and information relating to [Project Free Our Knowledge](https://www.freeourknowledge.org/) and (2) Organising and discussing campaigns (via Github Issues). \
+This repository serves two functions: (1) Storing files and information relating to [Project Free Our Knowledge](https://www.freeourknowledge.org/) and (2) Organising and discussing campaigns (via Github Issues). 
 
 #### Support us
 If you're new to the project, please help us by doing the following:
