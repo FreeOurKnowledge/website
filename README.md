@@ -5,7 +5,7 @@ This repository serves two functions: (1) Storing files and information relating
 If you're new to the project, please help us by doing the following:
 * Log in to the [website](https://www.freeourknowledge.org/) so that we have you on the mailing list
 * Pledge to any [campaigns](https://www.freeourknowledge.org/#campaigns) that you feel comfortable supporting
-* Follow us on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)
+* Follow + retweet on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)
 
 #### Propose a campaign
 If you'd like to propose a new collective action campaign for the platform, open a [New Issue](https://github.com/FreeOurKnowledge/documentation/issues/new/choose) and give it a descriptive title along the lines of "Campaign: Insert Descriptive Title Here". For your first comment, use the following template to orient people to what it is you're trying to achieve and any other parameters you've already considered:
