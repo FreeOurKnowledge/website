@@ -1,7 +1,7 @@
 # documentation
 This repository serves two functions: (1) Storing files and information relating to [Project Free Our Knowledge](https://www.freeourknowledge.org/) and (2) Organising and discussing campaigns (via Github Issues). 
-
-##### Support us
+\
+#### Support us
 If you're new to the project, please help us by doing the following:
 * Log in to the [website](https://www.freeourknowledge.org/) so that we have you on the mailing list
 * Pledge to any [campaigns](https://www.freeourknowledge.org/#campaigns) that you feel comfortable supporting
@@ -20,6 +20,6 @@ Tips for using R-markdown in Github Issues:
 - React to comments by clicking the little emoji
 - Format text using [this guide](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-###### Get in touch
+##### Get in touch
 - Email: info [at] freeourknowledge.org
 - Prior discussion at https://gitlab.com/publishing-reform/discussion/issues/78
