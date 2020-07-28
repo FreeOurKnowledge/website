@@ -21,6 +21,6 @@ If you'd like to propose a new collective action campaign for the platform, open
 - React to comments by clicking the little emoji
 - Format text using [this guide](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-##### Get in touch
+#### Get in touch
 - Email: info [at] freeourknowledge.org
 - Prior discussion at https://gitlab.com/publishing-reform/discussion/issues/78
