@@ -14,7 +14,7 @@ If you'd like to propose a new collective action campaign for the platform, open
 * Threshold: When will pledges activate (e.g. when 100 researchers have signed the pledge)? *-- this also needs to be measurable!*
 * Eligibility: Are there any constraints on who can sign the pledge (e.g. only psychology researchers, or those who have previously performed a peer-review)?
 * Anonymity: Will pledges be public, private, or optional? *-- anonymity will be optional by default, unless you specify otherwise*
-* Pledge duration (optional): Is there a time limit on how long the pledge will last (e.g. for a period of 2 years after the pledge activates)? *-- in many cases this will be irrelevant as the pledge will simply expire after the action is carried out once*
+* Pledge duration (optional): Is there a time limit on how long the person will be asked to carry out the new action (e.g. for a period of 2 years after the pledge activates)? *-- in many cases this will be irrelevant as the pledge will simply expire after the action is carried out once*
 * Campaign expiration (optional): Will the campaign expire if the required number of pledges is not achieved within a certain time frame (e.g. 1 year)?
 
 *Tips for using R-markdown in Github Issues:*
