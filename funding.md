@@ -11,7 +11,8 @@
 * ~~Endeavour Research Fellowship (cancelled by Australian Govt)~~
 
 ### Grants (bold = applied, strikethrough = rejected)
-* ~~Arcadia https://www.arcadiafund.org.uk/, emailed Ross Mounce 6 Sept~~ 
+* https://www.reset.tech/open-calls/ -- disinformation pitch
+* https://fordfoundation.forms.fm/2020-digital-infrastructure-research-rfp/forms/8103 (partnership with Sloan) -- look at current projects to get idea of possibilities
 * **Open Philanthropy https://www.openphilanthropy.org/giving/current-priorities#Scientific_research, emailed 25/9/18** 
 * Thiel Foundation? http://www.thielfoundation.org/ 
 * Mellon Foundation (applied previously, but could try again with new experiment proposal) 
@@ -27,6 +28,7 @@
 * Gordon and Betty Moore Foundation? 
 * National Science Foundation (US)? 
 * Figshare? 
+* ~~Arcadia https://www.arcadiafund.org.uk/, emailed Ross Mounce 6 Sept~~ 
 * ~~[Shuttleworth flash grant $5k](https://www.shuttleworthfoundation.org/fellows/flash-grants/) (May / November, nominations by Fellows - emailed Chris Hartgerink 29/10/18)~~ 
 * ~~SCOSS (31 October 2018) https://docs.google.com/forms/d/e/1FAIpQLSdsRiVAKvM85RIFvVqxVi0AOCgWpP8B-nvp5QojBfLiGUkp_A/viewform~~ 
 * ~~Awesome foundation $1k (monthly)~~ 
