@@ -1,12 +1,16 @@
 # documentation
-This repository serves two functions: (1) Storing files and information relating to [Project Free Our Knowledge](https://www.freeourknowledge.org/) and (2) Discussing new collective action campaigns to be hosted on the [platform](https://github.com/FreeOurKnowledge/platform) (via Github Issues). 
+This repository serves two functions: 
+* (1) Proposing and discussing collective action campaigns for [Project Free Our Knowledge](https://www.freeourknowledge.org/) (via Github Issues, see below). 
+* (2) Storing documents and information relating to the project
 
-#### Support us
+Note that the open source platform code can be found [here](https://github.com/FreeOurKnowledge/platform).
+
+#### Support Project FOK
 If you're new to the project, please help us by doing the following:
 * Watch/star this repository
 * Log in to the [website](https://www.freeourknowledge.org/) using ORCID so that we have you on the mailing list (or email info [at] freeourknowledge.org)
 * Pledge to any [campaigns](https://www.freeourknowledge.org/#campaigns) that you feel comfortable supporting
-* Follow + retweet on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)
+* Follow + retweet on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)  
 
 #### Propose a campaign
 If you'd like to propose a new collective action campaign for the platform, open a [New Issue](https://github.com/FreeOurKnowledge/documentation/issues/new/choose) and give it a descriptive title along the lines of "Campaign: Insert Descriptive Title Here". Generally speaking, campaigns should conform to the following format: "When X researchers have signed this campaign, they will all do Y together", where X is a specific number of researchers (e.g., 100), and Y is a specific action that the signatories plan to take (e.g., post a preprint, or stop reviewing for journals XYZ). In your first comment, fill out the following template to describe what it is you're trying to achieve and your initial thoughts on the campaign design (it's ok if you don't have all the answers!):
