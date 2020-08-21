@@ -1,3 +1,5 @@
+Document purpose: collect a list of other campaigns with similar goals but not on FOK
+
 Petitions
 * [No-fee science](https://docs.google.com/forms/d/e/1FAIpQLSeGl9IgTZcVDcyinQbosTKhrZVTTVhQ8fUg5Yc9K860AHeDpw/viewform)
 * [Freeing sciences (petition to researchers to change practices)](https://journauxscientifiqueslibres.wesign.it/en)
