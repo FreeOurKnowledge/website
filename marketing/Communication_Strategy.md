@@ -1,26 +1,114 @@
-Note: refer to [Open Scholarship Communication Strategy](https://github.com/Open-Scholarship-Strategy/site/edit/master/Communication_Strategy.md) for primary network, additional avenues listed here
+---
+title: "Communication Strategy"
+---
+
+If you share this strategy online or in person, please feel free to add details here, including links where needed. Anyone can contribute to this to help build a global picture of how this Strategy is being shared. This framework can also be used as the basis for future 'open'-related projects. Much of this list was developed by Jon Tennant @protohedgehog for the [Open Scholarship Communication Strategy](https://github.com/Open-Scholarship-Strategy/site/edit/master/Communication_Strategy.md). May his hard work and passion for opening science live on through this project.
+
+## Communication outlets
+
+### Slack spaces
+* [OSMOOC](https://join.slack.com/t/openmooc-ers/shared_invite/zt-ed38jij8-ui8S_LUaCvN5Xmf4Ivtvrw)
+* [ANZORN](https://app.slack.com/client/TECNVNQHK/C018L79MW9X/thread/C018L79MW9X-1599112813.000600)
+* SIPS2019/2020 
+* Creative Commons 
+* ASAPbio
+* OS Community Netherlands
+* Open Life Science
+
+### Organisations to contact
+* [LIBER](https://twitter.com/LIBEReurope)
+* [EIFL](https://twitter.com/EIFLnet)
+* [SPARC NA](https://twitter.com/sparc_na)
+* [SPARC EU](https://twitter.com/sparc_eu)
+* [R2RC](https://twitter.com/R2RC)
+* [FORCE11](https://twitter.com/force11rescomm)
+* [OpenAire](https://twitter.com/OpenAIRE_eu)
+* [OpenUP](https://twitter.com/projectopenup)
+* [The Carpentries](https://twitter.com/thecarpentries) (went out in their [August newsletter](https://twitter.com/thecarpentries/status/1024180602805932032))
+* [Creative Commons](https://twitter.com/creativecommons)
+* [FOSTER](https://twitter.com/fosterscience)
+* [Mozilla Open Leaders](https://twitter.com/mozopenleaders)
+* [OpenCon](https://twitter.com/open_con)
+* [Open Knowledge International](https://twitter.com/OKFN)
+* [Global Open Science Hardware Community](https://twitter.com/GOSHCommunity)
+* [SIPS] (https://twitter.com/improvingpsych)
+* [OSI] (https://twitter.com/OSIUnited)
+* [COPE] (https://twitter.com/@C0PE)
+* [TriangleSCI] (https://twitter.com/TriangleSCI)
+* [SCOAP3] (https://scoap3.org/)
+* [Open Library of the Humanities] (https://www.openlibhums.org/)
+* Open Scholarship Initiative
+* Open Knowledge Maps 
+* United Nations University
+
+### 'Influential' individuals to contact
 
 ### Mailing lists
-* EMCR Forum Australia EMCR@science.org.au
-* Liste des échos du RISC (ask Claire)
-* Donders mailing list (follow-up talk given at BBM)
-* UQ cog neuro
-* Donders 
 
-### Media
-* Michael Schulson (michael at undark.org)
+* [Schol Comm](mailto:scholcomm@lists.ala.org) (Jon) - DONE
+* [Open Science](mailto:open-science@lists.okfn.org) (Jon)- DONE
+* [GOAL](http://mailman.ecs.soton.ac.uk/pipermail/goal/) (Lisa) - DONE
+* [FORCE11](mailto:f11discussion@force11.org) (Jeroen)
+* [RadicalOA](mailto:RADICALOPENACCESS@JISCMAIL.AC.UK) (Jon) - DONE
+* OpenScience-NL (Jeroen)
+* OpenScience-DE
+* [Open Science Göttingen](https://listserv.gwdg.de/mailman/listinfo/openscience) (Lisa) - DONE
+* [OpenCon](https://groups.google.com/group/opencon-discussion-list) (Jon) - DONE
+* [LIS bibliometrics](mailto:LIS-BIBLIOMETRICS@JISCMAIL.AC.UK) (Jon) - DONE
+* [PSCI COMM](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=psci-com) (Jon) - DONE (4294 recipients)
+* [OpenAccess at Wikimedia](https://lists.wikimedia.org/mailman/listinfo/openaccess)
+* [Network of open science grassroots networks](network-of-open-science-grassroots-networks@cos.io)
+* [Australian_OA_Community](australian_oa_community@mailman.anu.edu.au)
+* [EMCR Forum Australia](EMCR@science.org.au)
+* Liste des échos du RISC (ask Claire)
+* Donders mailing list
+* UQ cog neuro
+
+### Facebook groups
+* [Reviewer 2 must be stopped](https://www.facebook.com/groups/reviewer2/)
+* [Psychological Methods Discussion Group](https://www.facebook.com/groups/853552931365745/)
+* [ACNS ECRs](https://www.facebook.com/groups/acns.ecr.group/)
 
 ### Podcasts
+* Everything Hertz 
+* Road 2 Open Access 
+* Blackgoat
+* [PhD career stories](https://phdcareerstories.com/) 
 * QBI
 * http://www.openscienceradio.org/
 
-### Facebook Groups
-* ACNS ECRs
+### Blogs / forums
+* eLife labs blog
+* Scholarly Communications @ Duke blog, Kevin Smith
+* https://science20.wordpress.com/
+* LSE Impact blog
+* The Scholarly Kitchen
+* The Conversation
+* Undark
+* the-scientist.com
+* Learned Publishing
+* UKSG
+* LQ
+* forum.igdore.org
 
-### Slack workspaces
-* SIPS2019 
-* Creative Commons 
+### Petitions
+* [DORA](https://sfdora.org/signers/) \
+* [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/list_signatures) 
+* [Fair Open Access supporters](https://gitlab.com/publishing-reform/discussion/blob/master/Fair%20Open%20Access/List%20of%20supporters%20of%20Fair%20Open%20Access.md)
 
-### Other
-* Open Knowledge Maps 
-* United Nations University
+### Pledge sites
+* http://www.openaccesspledge.com/?page_id=2
+* https://opennessinitiative.org/signatories/
+* http://thecostofknowledge.com/
+* http://www.nodealnoreview.org/
+* http://www.researchwithoutwalls.org/
+* http://www.openaccesspledge.com/
+* https://emckiernan.wordpress.com/pledge/
+
+### Other channels
+
+## Conferences discussed at 
+* see https://www.freeourknowledge.org/pages/news/
+
+### Media contacts
+* Michael Schulson (michael_at_undark.org) -- contacted and Skyped in Sept 2019
