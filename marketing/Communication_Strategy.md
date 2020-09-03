@@ -2,9 +2,19 @@
 title: "Communication Strategy"
 ---
 
-If you share this strategy online or in person, please feel free to add details here, including links where needed. Anyone can contribute to this to help build a global picture of how this Strategy is being shared. This framework can also be used as the basis for future 'open'-related projects. Much of this list was developed by Jon Tennant @protohedgehog for the [Open Scholarship Communication Strategy](https://github.com/Open-Scholarship-Strategy/site/edit/master/Communication_Strategy.md). May his hard work and passion for opening science live on through this project.
+If you share this strategy online or in person, please feel free to add details here, including links where needed. Anyone can contribute to this to help build a global picture of how this Strategy is being shared. This framework can also be used as the basis for future 'open'-related projects. 
 
-## Communication outlets
+## Internal communication channels (FOK)
+* [Twitter](https://twitter.com/projectfok)
+* Mailing list (for ~monthly newsletters, but only one directional)
+* [Github Issues](https://github.com/FreeOurKnowledge/discussion/issues) (for discussing campaigns)
+* Trello (for organising tasks, but currently just used by Cooper)
+* Project email (info_at_freeourknowledge.org)
+* ~~[Slack](https://join.slack.com/t/freeourknowledge/shared_invite/zt-5vknfa01-8d6ytqNM92X9NwaptisVyg)~~ (pretty much defunct due to inactivity)
+* ~~[Google doc](https://docs.google.com/document/d/1imcjyJzcxlP2CGag7jj7tx06Vs1bSoxJ4rdJwkLsuZU/edit)~~ (for discussing campaigns, now superceded by Github)
+
+## Outgoing Communication channels
+Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Open Scholarship Communication Strategy](https://github.com/Open-Scholarship-Strategy/site/edit/master/Communication_Strategy.md). May his hard work and passion for open science live on through this project.
 
 ### Slack spaces
 * [OSMOOC](https://join.slack.com/t/openmooc-ers/shared_invite/zt-ed38jij8-ui8S_LUaCvN5Xmf4Ivtvrw)
