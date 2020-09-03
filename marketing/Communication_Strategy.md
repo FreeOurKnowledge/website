@@ -51,7 +51,10 @@ Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Ope
 * Open Knowledge Maps 
 * United Nations University
 
-### 'Influential' individuals to contact
+### Influencers
+* Randy Schekman
+* Michael Eisen
+* Brian Nosek
 
 ### Mailing lists
 
@@ -115,9 +118,7 @@ Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Ope
 * http://www.openaccesspledge.com/
 * https://emckiernan.wordpress.com/pledge/
 
-### Other channels
-
-## Conferences discussed at 
+### Conferences discussed at 
 * see https://www.freeourknowledge.org/pages/news/
 
 ### Media contacts
