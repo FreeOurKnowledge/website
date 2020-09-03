@@ -55,6 +55,7 @@ Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Ope
 * Randy Schekman
 * Michael Eisen
 * Brian Nosek
+* [Susannah Harris](https://twitter.com/CoopSmout/status/1301453772057534464?s=20)
 
 ### Mailing lists
 
