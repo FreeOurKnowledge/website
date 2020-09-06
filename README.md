@@ -1,7 +1,7 @@
 # discussion forum
 
 ### Vision statement
-We're working with researchers and developers to build a 'crowdacting' platform so that researchers can act collectively to foster new, inclusive, and supportive cultural norms in academia. 
+We're working with researchers and developers to build a 'crowdacting' platform so that researchers can organise collective action in the pursuit of progressive, inclusive, and supportive cultural norms in academia.
 
 ### Purposes of this repository
 * (1) Proposing and discussing collective action campaigns for [Project Free Our Knowledge](https://www.freeourknowledge.org/) (via Github Issues, see below). 
