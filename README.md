@@ -1,4 +1,4 @@
-# Free Our Knowledge discussion forum
+# discussion forum
 
 ### Vision statement
 We're working with researchers and developers to build a 'crowdacting' platform so that researchers can act collectively to foster new, inclusive, and supportive cultural norms in academia. 
@@ -11,10 +11,11 @@ Note that the open source platform code is hosted separately [here](https://gith
 
 ### How you can support Project FOK
 If you're new to the project, please help us by doing the following:
-* Watch/star this repository
+* Watch/star this repository (and if interested, the [platform repository](https://github.com/FreeOurKnowledge/platform/)
 * Log in to the [website](https://www.freeourknowledge.org/) using ORCID so that we have you on the mailing list (or email info [at] freeourknowledge.org)
 * Pledge to any [campaigns](https://www.freeourknowledge.org/#campaigns) that you feel comfortable supporting
 * Follow + retweet on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)  
+* Join the Google Group by [emailing us](mailto: info@freeourknowledge.org)
 
 ### Propose a campaign
 If you'd like to propose a new collective action campaign for the platform, open a [New Issue](https://github.com/FreeOurKnowledge/documentation/issues/new/choose) and give it a descriptive title along the lines of "Campaign: Insert Descriptive Title Here". New campaigns should conform to the following format: "When X researchers have signed this campaign, they will all do Y together", where X is a target number of researchers (e.g., 100) and Y is a specific action that the signatories plan to take (e.g., post a preprint, or stop reviewing for journals XYZ). In your first comment, fill out the following template to describe what it is you're trying to achieve and your initial thoughts on the campaign design (it's ok if you don't have all the answers!):
