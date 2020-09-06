@@ -1,4 +1,4 @@
-# discussion forum
+# FOK discussion forum
 
 ### Vision statement
 We're working with researchers and developers to build a 'crowdacting' platform so that researchers can organise collective action in the pursuit of progressive, inclusive, and supportive cultural norms in academia.
