@@ -59,17 +59,17 @@ Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Ope
 
 ### Mailing lists
 
-* [Schol Comm](mailto:scholcomm@lists.ala.org) (Jon) - DONE
-* [Open Science](mailto:open-science@lists.okfn.org) (Jon)- DONE
-* [GOAL](http://mailman.ecs.soton.ac.uk/pipermail/goal/) (Lisa) - DONE
-* [FORCE11](mailto:f11discussion@force11.org) (Jeroen)
-* [RadicalOA](mailto:RADICALOPENACCESS@JISCMAIL.AC.UK) (Jon) - DONE
-* OpenScience-NL (Jeroen)
+* [Schol Comm](mailto:scholcomm@lists.ala.org) 
+* [Open Science](mailto:open-science@lists.okfn.org) 
+* [GOAL](http://mailman.ecs.soton.ac.uk/pipermail/goal/)
+* [FORCE11](mailto:f11discussion@force11.org) 
+* [RadicalOA](mailto:RADICALOPENACCESS@JISCMAIL.AC.UK) 
+* OpenScience-NL 
 * OpenScience-DE
-* [Open Science Göttingen](https://listserv.gwdg.de/mailman/listinfo/openscience) (Lisa) - DONE
-* [OpenCon](https://groups.google.com/group/opencon-discussion-list) (Jon) - DONE
-* [LIS bibliometrics](mailto:LIS-BIBLIOMETRICS@JISCMAIL.AC.UK) (Jon) - DONE
-* [PSCI COMM](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=psci-com) (Jon) - DONE (4294 recipients)
+* [Open Science Göttingen](https://listserv.gwdg.de/mailman/listinfo/openscience) 
+* [OpenCon](https://groups.google.com/group/opencon-discussion-list) 
+* [LIS bibliometrics](mailto:LIS-BIBLIOMETRICS@JISCMAIL.AC.UK)
+* [PSCI COMM](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=psci-com) 
 * [OpenAccess at Wikimedia](https://lists.wikimedia.org/mailman/listinfo/openaccess)
 * [Network of open science grassroots networks](network-of-open-science-grassroots-networks@cos.io)
 * [Australian_OA_Community](australian_oa_community@mailman.anu.edu.au)
