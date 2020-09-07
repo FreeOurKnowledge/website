@@ -10,6 +10,7 @@ If you share this strategy online or in person, please feel free to add details 
 * [Github Issues](https://github.com/FreeOurKnowledge/discussion/issues) (for discussing campaigns)
 * Trello (for organising tasks, but currently just used by Cooper)
 * Project email (info_at_freeourknowledge.org)
+* [Gitlab discussion forum](https://gitlab.com/publishing-reform/discussion/-/issues/78) (original general discussion)
 * ~~[Slack](https://join.slack.com/t/freeourknowledge/shared_invite/zt-5vknfa01-8d6ytqNM92X9NwaptisVyg)~~ (pretty much defunct due to inactivity)
 * ~~[Google doc](https://docs.google.com/document/d/1imcjyJzcxlP2CGag7jj7tx06Vs1bSoxJ4rdJwkLsuZU/edit)~~ (for discussing campaigns, now superceded by Github)
 
