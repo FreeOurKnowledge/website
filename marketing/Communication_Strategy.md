@@ -2,8 +2,6 @@
 title: "Communication Strategy"
 ---
 
-If you share this strategy online or in person, please feel free to add details here, including links where needed. Anyone can contribute to this to help build a global picture of how this Strategy is being shared. This framework can also be used as the basis for future 'open'-related projects. 
-
 ## FOK channels
 * [Twitter](https://twitter.com/projectfok)
 * Mailing list (for ~monthly newsletters, but only one directional)
