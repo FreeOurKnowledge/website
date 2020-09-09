@@ -16,6 +16,11 @@ title: "Communication Strategy"
 ## External channels
 Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Open Scholarship Communication Strategy](https://github.com/Open-Scholarship-Strategy/site/edit/master/Communication_Strategy.md). May his hard work and passion for open science live on through this project.
 
+### Discussion forums
+* [On science and academia](https://forum.igdore.org/)
+* [Publishing reform forum](https://gitlab.com/publishing-reform/discussion/-/issues)
+* [Reconfiguring behavioural science](https://www.reddit.com/r/BehSciMeta/)
+
 ### Slack spaces
 * [OSMOOC](https://join.slack.com/t/openmooc-ers/shared_invite/zt-ed38jij8-ui8S_LUaCvN5Xmf4Ivtvrw)
 * [ANZORN](https://app.slack.com/client/TECNVNQHK/C018L79MW9X/thread/C018L79MW9X-1599112813.000600)
