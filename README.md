@@ -1,7 +1,7 @@
 # FOK discussion forum
 
 ### Vision statement
-We're building a 'crowdacting' platform that helps researchers signal their desire for positive cultural change and then act collectively to bring it about, thus mitigating risks to individual researchers as we practice open science together.
+We're building a 'crowdacting' platform that helps researchers signal their desire for positive cultural change and then act collectively to bring it about, thus mitigating risks to individual researchers as we adopt open science practices together.
 
 ### Purposes of this repository
 * (1) Proposing and discussing collective action campaigns for [Project Free Our Knowledge](https://www.freeourknowledge.org/) (via Github Issues, see below). 
