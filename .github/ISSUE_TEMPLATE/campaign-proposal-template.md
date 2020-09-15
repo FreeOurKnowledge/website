@@ -14,7 +14,7 @@ Thanks for proposing a new collective action campaign for Project FOK! Campaigns
   Instructions:
   1. Add your campaign title in the Title field above ^
   2. Add your GitHub username and anyone else who will be developing this campaign below --->
-Campaign lead/s: 
+Campaign creator/s: 
 
 <!---
   3. Fill in as much of the following information as you can. It's ok if you don't have all the answers just yet, and feel free to delete any parts that aren't relevant. Start with a brief description of why this campaign is needed (try to be succinct) ---> 
