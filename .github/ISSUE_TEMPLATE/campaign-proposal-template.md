@@ -21,7 +21,7 @@ Campaign creator/s:
 * Rationale: 
 
 <!---
-  4. What is the action that signatories will carry out (e.g. upload one dataset)? Ideally this should be public in some way, so we can monitor compliance after pledges activate. --->
+  4. What is the action that signatories will carry out (e.g. upload one dataset)? Ideally this should be public in some way, so we can monitor compliance after pledges activate. If there's any further details you'll need to also specify them here (e.g., a list of boycotted/whitelisted journals). --->
 * Action: 
 
 <!---
