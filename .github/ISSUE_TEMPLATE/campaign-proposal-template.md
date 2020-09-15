@@ -4,7 +4,7 @@ about: This issue template is for proposing new collective action campaigns to b
   hosted on the Free Our Knowledge platform
 title: 'Campaign: <Insert descriptive title here>'
 labels: campaign, draft
-assignees: ''
+assignees: CooperSmout
 
 ---
 
