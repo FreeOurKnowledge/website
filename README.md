@@ -1,7 +1,7 @@
 # Free Our Knowledge: Community-building repository and discussion forum
 
 ### Vision statement
-We're building a collective action platform to help researchers organise the widespread, simultaneous adoption of progressive research practices, so that we can create new cultural norms in academia without placing vulnerable individuals at risk.
+Academia functions like a 'tragedy of the commons' (or collective action problem): open science practices have the potential to benefit the entire research community, but their adoption is impeded by incentive structures that reward sub-optimal research practices and high-impact publications at the individual level. We're building a platform that helps researchers organise the collective uptake of mutually beneficial research practices, so that we can create positive cultural change in academia without placing vulnerable individuals at risk.
 
 ### Purposes of this repository
 * (1) Discussing collective action campaigns for [Project Free Our Knowledge](https://www.freeourknowledge.org/) (via Github Issues -- to propose a new campaign, open a [New Issue](https://github.com/FreeOurKnowledge/documentation/issues/new/choose)) 
