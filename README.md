@@ -16,7 +16,7 @@ If you're new to the project, please help us by doing the following:
 * Log in to the [website](https://www.freeourknowledge.org/) using ORCID so that we have you on the mailing list (or email info [at] freeourknowledge.org)
 * Pledge to any [campaigns](https://www.freeourknowledge.org/#campaigns) that you feel comfortable supporting
 * Follow + retweet on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)  
-* Join the Google Group by [emailing us](mailto: info@freeourknowledge.org)
+* Join the Google Group by [emailing us](mailto:info@freeourknowledge.org)
 
 ### Other info
 - Prior discussion at https://gitlab.com/publishing-reform/discussion/issues/78
