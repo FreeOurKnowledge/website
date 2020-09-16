@@ -1,4 +1,4 @@
-# Free Our Knowledge Roadmap
+# Free Our Knowledge: Roadmap
 
 ### Project Mission & Summary
 We're building a platform that helps researchers organise the collective uptake of mutually beneficial research practices, so that we can create positive cultural change in academia without placing vulnerable individuals at risk.
