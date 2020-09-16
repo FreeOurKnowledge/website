@@ -5,11 +5,11 @@ We're building a platform that helps researchers organise the collective uptake 
 
 ### What do we need to do?
 #### Milestone: Develop, review, and post new series of campaigns to website
-- [ ] Develop Github Issue template for users to propose campaigns
+- [x] Develop Github Issue template for users to propose campaigns
 - Advertise campaign-creation process to open science ambassadors/networks 
    - [x] Centre for Open Science ambassadors 
    - (copy in relevant channels from marketing/Communication_Strategy.md)
-- [ ] Develop metrics for reviewing campaign proposals
+- [ ] Develop protocol for peer-reviewing campaign proposals
 - [ ] Coordinate peer-review
 - [ ] Post highest-rated campaign to website
 - [ ] Post next-highest-rated campaigns, consecutively
