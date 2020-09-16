@@ -34,4 +34,4 @@ We're building a platform that helps researchers organise the collective uptake 
 #### Stretch goals
 * Develop short animated video/s for:
    1. Long-term vision for FOK
-   2. Individual campaigns, ending with call-to-action? This would be useful for the OA campaigns (#5 #6 #7), especially if retaining impact-based thresholds (#10)
+   2. Individual campaigns, ending with call-to-action? This would be useful for the OA campaigns, especially if retaining [impact-based thresholds](https://github.com/FreeOurKnowledge/community/issues/10)
