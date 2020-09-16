@@ -11,7 +11,7 @@ We're building a platform that helps researchers organise the collective uptake 
    - (copy in relevant channels from marketing/Communication_Strategy.md)
 - [ ] [Develop protocol for peer-reviewing campaign proposals](https://github.com/FreeOurKnowledge/discussion/issues/15)
 - [ ] Coordinate peer-review
-- [ ] Post highest-rated campaign to website
+- [ ] Post highest-rated campaign to website (NOTE: requires [platform development](https://github.com/FreeOurKnowledge/platform/issues/8))
 - [ ] Post next-highest-rated campaign after an initial period (perhaps a couple weeks), and so on...
 
 #### Milestone: Bring campaign/s to fruition and roll-out activation phase
