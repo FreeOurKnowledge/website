@@ -6,7 +6,7 @@ We're building a platform that helps researchers organise the collective uptake 
 ### What do we need to do?
 #### Milestone: Develop, review, and post new series of campaigns to website
 - [x] Develop Github Issue template for users to propose campaigns
-- Advertise campaign-creation process to open science ambassadors/networks 
+- Invite open science ambassadors/networks to propose and discuss campaigns on Github
    - [x] Centre for Open Science ambassadors 
    - (copy in relevant channels from marketing/Communication_Strategy.md)
 - [ ] [Develop protocol for peer-reviewing campaign proposals](https://github.com/FreeOurKnowledge/discussion/issues/15)
