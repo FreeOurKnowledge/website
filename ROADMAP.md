@@ -15,7 +15,8 @@ We're building a platform that helps researchers organise the collective uptake 
 - [ ] Post next-highest-rated campaign after an initial period (perhaps a couple weeks), and so on...
 
 #### Milestone: Bring campaign/s to fruition and roll-out activation phase
-* Advertise campaigns widely (see marketing/Communication_Strategy.md)
+* Write blog posts (see marketing/Communication_Strategy.md for outlets)
+* Advertise campaigns widely (see marketing/Communication_Strategy.md for networks)
     * 'Pledge drive'?
 * Monitor website traffic (if [developed](https://github.com/FreeOurKnowledge/platform/issues/11)) and use to inform marketing strategy
 * Use [script](https://github.com/FreeOurKnowledge/platform/issues/10) to email signatories as campaign progresses
@@ -29,3 +30,8 @@ We're building a platform that helps researchers organise the collective uptake 
 * Deanonymise names on website
 * Update campaign page to indicate campaign has been successful
 * Contact organisations/media agencies to advertise success
+
+#### Stretch goals
+* Develop short animated video/s for:
+   1. Long-term vision for FOK
+   2. Individual campaigns, ending with call-to-action? This would be useful for the OA campaigns (#5 #6 #7), especially if retaining impact-based thresholds (#10)
