@@ -1,4 +1,4 @@
-# FOK discussion forum
+# Free Our Knowledge community-building repository/forum
 
 ### Vision statement
 We're building a collective action platform to help researchers organise the widespread, simultaneous adoption of progressive research practices, so that we can create new cultural norms in academia without placing vulnerable individuals at risk.
