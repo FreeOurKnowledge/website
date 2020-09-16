@@ -5,14 +5,16 @@ We're building a platform that helps researchers organise the collective uptake 
 
 ### What do we need to do?
 #### Milestone: Develop, review, and post new series of campaigns to website
--[ ] Develop Discussion repository to host campaign-creation process as Github Issues
-- Advertise campaign-creation process (in Github Issues) to open science networks (see marketing/Communication_Strategy.md)
-   -[x]Centre for Open Science ambassadors 
--[ ] Develop metrics for reviewing campaign proposals
--[ ] Coordinate peer-review
--[ ] Post campaigns to website consecutively, starting with highest-rated campaign
+- [ ] Develop Github Issue template for users to propose campaigns
+- Advertise campaign-creation process to open science ambassadors/networks 
+   - [x] Centre for Open Science ambassadors 
+   - (copy in relevant channels from marketing/Communication_Strategy.md)
+- [ ] Develop metrics for reviewing campaign proposals
+- [ ] Coordinate peer-review
+- [ ] Post highest-rated campaign to website
+- [ ] Post next-highest-rated campaigns, consecutively
 
-#### Milestone: Bring a campaign to fruition and roll-out activation phase
+#### Milestone: Bring campaign/s to fruition and roll-out activation phase
 * Advertise campaigns widely (see marketing/Communication_Strategy.md)
     * 'Pledge drive'?
 * Monitor website traffic (if [developed](https://github.com/FreeOurKnowledge/platform/issues/11)) and use to inform marketing strategy
@@ -20,4 +22,6 @@ We're building a platform that helps researchers organise the collective uptake 
    * update on pledge count
    * motivate them to sign up friends, colleagues
    * inform about new campaigns as they are released
-* 
+   
+#### Milestone: Roll-out activation phase after campaign has reached threshold
+* Use [script](https://github.com/FreeOurKnowledge/platform/issues/10) to email signatories as campaign progresses
