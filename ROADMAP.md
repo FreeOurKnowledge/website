@@ -29,7 +29,8 @@ We're building a platform that helps researchers organise the collective uptake 
 * Use [script](https://github.com/FreeOurKnowledge/platform/issues/10) to email signatories when first campaign reaches threshold, remind them of their obligations and that their name will be posted on website
 * Deanonymise names on website
 * Update campaign page to indicate campaign has been successful
-* Contact organisations/media agencies to advertise success
+* Write blog posts (see marketing/Communication_Strategy.md for outlets)
+* Advertise success widely (see marketing/Communication_Strategy.md for networks), including media agencies
 
 #### Stretch goals
 * Develop short animated video/s for:
