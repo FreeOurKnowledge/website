@@ -4,7 +4,7 @@
 We're building a platform that helps researchers organise the collective uptake of mutually beneficial research practices, so that we can create positive cultural change in academia without placing vulnerable individuals at risk.
 
 ### What do we need to do?
-#### Milestone: Develop, review, and post new series of campaigns to website
+#### Milestone: [Develop, review, and post new series of campaigns to website](https://github.com/FreeOurKnowledge/community/milestone/1)
 - [x] Develop Github Issue template for users to propose campaigns
 - Invite open science ambassadors/networks to propose and discuss campaigns on Github
    - [x] Centre for Open Science ambassadors 
