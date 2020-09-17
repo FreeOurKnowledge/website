@@ -12,15 +12,17 @@ Project FOK is divided into two separate repositories:
 * (2) this 'community' repository, which is for storing documents (e.g., marketing materials) and organising discussions (including the design of new campaigns, using the [Issues feature](https://github.com/FreeOurKnowledge/documentation/issues/new/choose)) 
 
 ### How you can support Project FOK
-1. Follow us on these channels:
+1. Help us by doing the following:
   * Watch/star this repository (and if interested, the [platform repository](https://github.com/FreeOurKnowledge/platform/))
   * Join our [mailing list](http://eepurl.com/dFVBVz)
   * Log in to the [website](https://www.freeourknowledge.org/) and pledge to any [campaigns](https://www.freeourknowledge.org/#campaigns) that you support
   * Follow/retweet us on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)  
   * Join our [Google Group](https://groups.google.com/g/free-our-knowledge-community/)
+  * Share our [GofundMe campaign](gf.me/u/yvgtgg) (and donate if you can afford to :))
 2. Read the project [roadmap](https://github.com/FreeOurKnowledge/community/blob/master/ROADMAP.md)
 3. Look through the [list of campaign proposals](https://github.com/FreeOurKnowledge/community/issues) (any issue starting with 'Campaign') and comment on any that interest you, or add a thumbs up to show your support (this will help us decide which campaigns to post on the website). If you don't see a campaign that you think should be there, propose it by creating a new [issue](https://github.com/FreeOurKnowledge/documentation/issues/new/choose).
 4. Comment on any other [project issues](https://github.com/FreeOurKnowledge/community/issues) that you have thoughts on.
+5. If you're a developer, head over to the [platform repository] to see what work needs to be done.
 
 ### Other info
 - Prior discussion at https://gitlab.com/publishing-reform/discussion/issues/78
