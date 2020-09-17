@@ -13,11 +13,11 @@ Project FOK is divided into two separate repositories:
 
 ### How you can support Project FOK
 1. Follow us on these channels:
-* Watch/star this repository (and if interested, the [platform repository](https://github.com/FreeOurKnowledge/platform/)
-* Join our [mailing list](http://eepurl.com/dFVBVz)
-* Log in to the [website](https://www.freeourknowledge.org/) and pledge to any [campaigns](https://www.freeourknowledge.org/#campaigns) that you support
-* Follow/retweet us on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)  
-* Join the [Google Group](https://groups.google.com/g/free-our-knowledge-community/)
+  * Watch/star this repository (and if interested, the [platform repository](https://github.com/FreeOurKnowledge/platform/))
+  * Join our [mailing list](http://eepurl.com/dFVBVz)
+  * Log in to the [website](https://www.freeourknowledge.org/) and pledge to any [campaigns](https://www.freeourknowledge.org/#campaigns) that you support
+  * Follow/retweet us on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)  
+  * Join the [Google Group](https://groups.google.com/g/free-our-knowledge-community/)
 2. Read the project [roadmap](https://github.com/FreeOurKnowledge/community/blob/master/ROADMAP.md)
 3. Look through the [campaign proposals](https://github.com/FreeOurKnowledge/community/issues) (any issue starting with 'Campaign') and comment on any that interest you, or add a thumbs up to show your support (this will help us decide which campaigns to post on the website)
 4. Comment on any other [issues](https://github.com/FreeOurKnowledge/community/issues) that interest you
