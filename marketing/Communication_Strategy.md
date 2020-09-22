@@ -2,25 +2,25 @@
 title: "Communication Strategy"
 ---
 
-## FOK channels
+## Internal channels (FOK)
+- [ ] Mailing list (for ~monthly newsletters, but only one directional)
 * [Twitter](https://twitter.com/projectfok)
-* Mailing list (for ~monthly newsletters, but only one directional)
 * [Github Issues](https://github.com/FreeOurKnowledge/discussion/issues) (for discussing campaigns)
 * Trello (for organising tasks, but currently just used by Cooper)
 * Project email (info_at_freeourknowledge.org)
 * [GoFundMe](https://gf.me/u/yw45tk) (for donations)
 * [Facebook](https://www.facebook.com/projectFOK)
-* [Gitlab discussion thread](https://gitlab.com/publishing-reform/discussion/-/issues/78) (original discussion forum)
 * ~~[Slack](https://join.slack.com/t/freeourknowledge/shared_invite/zt-5vknfa01-8d6ytqNM92X9NwaptisVyg)~~ (pretty much defunct due to inactivity)
 * ~~[Google doc](https://docs.google.com/document/d/1imcjyJzcxlP2CGag7jj7tx06Vs1bSoxJ4rdJwkLsuZU/edit)~~ (for discussing campaigns, now superceded by Github)
+
+### Discussion forum threads
+* [Pubreform](https://gitlab.com/publishing-reform/discussion/-/issues/78) (original discussion forum)
+* [On science and academia](https://forum.igdore.org/t/project-free-our-knowledge-fixing-academia-with-collective-action/851)
+* [Behsci](https://www.reddit.com/r/BehSciMeta/comments/hi0b1p/collective_campaigns_for_change_in_academia_a/?utm_source=share&utm_medium=web2x&context=3)
 
 ## External channels
 Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Open Scholarship Communication Strategy](https://github.com/Open-Scholarship-Strategy/site/edit/master/Communication_Strategy.md). May his hard work and passion for open science live on through this project.
 
-### Discussion forums
-* [On science and academia](https://forum.igdore.org/)
-* [Publishing reform forum](https://gitlab.com/publishing-reform/discussion/-/issues)
-* [Reconfiguring behavioural science](https://www.reddit.com/r/BehSciMeta/)
 
 ### Slack spaces
 * [OSMOOC](https://join.slack.com/t/openmooc-ers/shared_invite/zt-ed38jij8-ui8S_LUaCvN5Xmf4Ivtvrw)
@@ -64,7 +64,6 @@ Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Ope
 * [Susannah Harris](https://twitter.com/CoopSmout/status/1301453772057534464?s=20)
 
 ### Mailing lists
-
 * [Schol Comm](mailto:scholcomm@lists.ala.org) 
 * [Open Science](mailto:open-science@lists.okfn.org) 
 * [GOAL](http://mailman.ecs.soton.ac.uk/pipermail/goal/)
@@ -97,7 +96,7 @@ Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Ope
 * QBI
 * http://www.openscienceradio.org/
 
-### Blogs / forums
+### Blogs
 * eLife labs blog
 * Scholarly Communications @ Duke blog, Kevin Smith
 * https://science20.wordpress.com/
@@ -109,7 +108,6 @@ Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Ope
 * Learned Publishing
 * UKSG
 * LQ
-* forum.igdore.org
 
 ### Petitions
 * [DORA](https://sfdora.org/signers/) \
