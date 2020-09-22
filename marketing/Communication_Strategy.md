@@ -4,7 +4,7 @@ Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Ope
 ### Channels to contact with project updates
 If you're planning to contact organisations about a project update, [open a new 'marketing blitz' issue in Github](https://github.com/FreeOurKnowledge/community/issues/new/choose) and follow the template/checklist to keep track of who you've contacted. Write a different pitch for each of the following categories, then copy to all. 
 
-## Internal channels (FOK)
+#### Internal channels (FOK)
 - [ ] Mailing list (for ~monthly newsletters, but only one directional)
 - [ ] [Twitter](https://twitter.com/projectfok)
 - [ ] [Github Issues](https://github.com/FreeOurKnowledge/discussion/issues) (for discussing campaigns)
@@ -16,7 +16,7 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] ~~[Slack](https://join.slack.com/t/freeourknowledge/shared_invite/zt-5vknfa01-8d6ytqNM92X9NwaptisVyg)~~ (pretty much defunct due to inactivity)
 - [ ] ~~[Google doc](https://docs.google.com/document/d/1imcjyJzcxlP2CGag7jj7tx06Vs1bSoxJ4rdJwkLsuZU/edit)~~ (for discussing campaigns, now superceded by Github)
 
-## Discussion forum threads
+#### Discussion forum threads
 - [ ] [Pubreform](https://gitlab.com/publishing-reform/discussion/-/issues/78) (original discussion forum)
 - [ ] [On science and academia](https://forum.igdore.org/t/project-free-our-knowledge-fixing-academia-with-collective-action/851)
 - [ ] [Behsci](https://www.reddit.com/r/BehSciMeta/comments/hi0b1p/collective_campaigns_for_change_in_academia_a/?utm_source=share&utm_medium=web2x&context=3)
