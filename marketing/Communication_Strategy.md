@@ -35,6 +35,29 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [Center for Open Science Ambassadors](https://groups.google.com/a/cos.io/g/ambassadors)
 - [ ] [OpenCon](https://groups.google.com/group/opencon-discussion-list) 
 
+### Mailing lists
+- [ ] [Schol Comm](mailto:scholcomm@lists.ala.org) 
+- [ ] [Open Science](mailto:open-science@lists.okfn.org) 
+- [ ] [GOAL](http://mailman.ecs.soton.ac.uk/pipermail/goal/)
+- [ ] [FORCE11](mailto:f11discussion@force11.org) 
+- [ ] [RadicalOA](mailto:RADICALOPENACCESS@JISCMAIL.AC.UK) 
+- [ ] [Open Science Göttingen](https://listserv.gwdg.de/mailman/listinfo/openscience) 
+- [ ] [LIS bibliometrics](mailto:LIS-BIBLIOMETRICS@JISCMAIL.AC.UK)
+- [ ] [PSCI COMM](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=psci-com) 
+- [ ] [OpenAccess at Wikimedia](https://lists.wikimedia.org/mailman/listinfo/openaccess)
+- [ ] [Australian_OA_Community](australian_oa_community@mailman.anu.edu.au)
+- [ ] [EMCR Forum Australia](EMCR@science.org.au)
+- [ ] Liste des échos du RISC (ask Claire)
+- [ ] OpenScience-NL 
+- [ ] OpenScience-DE
+- [ ] Donders mailing list
+- [ ] UQ cog neuro
+
+### Facebook groups
+- [ ] [Reviewer 2 must be stopped](https://www.facebook.com/groups/reviewer2/)
+- [ ] [Psychological Methods Discussion Group](https://www.facebook.com/groups/853552931365745/)
+- [ ] [ACNS ECRs](https://www.facebook.com/groups/acns.ecr.group/)
+
 ### Twitter
 - [ ] [LIBER](https://twitter.com/LIBEReurope)
 - [ ] [EIFL](https://twitter.com/EIFLnet)
@@ -61,30 +84,7 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [Open Knowledge Maps](https://twitter.com/OK_Maps)
 - [ ] United Nations University
 
-### Mailing lists
-- [ ] [Schol Comm](mailto:scholcomm@lists.ala.org) 
-- [ ] [Open Science](mailto:open-science@lists.okfn.org) 
-- [ ] [GOAL](http://mailman.ecs.soton.ac.uk/pipermail/goal/)
-- [ ] [FORCE11](mailto:f11discussion@force11.org) 
-- [ ] [RadicalOA](mailto:RADICALOPENACCESS@JISCMAIL.AC.UK) 
-- [ ] [Open Science Göttingen](https://listserv.gwdg.de/mailman/listinfo/openscience) 
-- [ ] [LIS bibliometrics](mailto:LIS-BIBLIOMETRICS@JISCMAIL.AC.UK)
-- [ ] [PSCI COMM](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=psci-com) 
-- [ ] [OpenAccess at Wikimedia](https://lists.wikimedia.org/mailman/listinfo/openaccess)
-- [ ] [Australian_OA_Community](australian_oa_community@mailman.anu.edu.au)
-- [ ] [EMCR Forum Australia](EMCR@science.org.au)
-- [ ] Liste des échos du RISC (ask Claire)
-- [ ] OpenScience-NL 
-- [ ] OpenScience-DE
-- [ ] Donders mailing list
-- [ ] UQ cog neuro
-
-### Facebook groups
-- [ ] [Reviewer 2 must be stopped](https://www.facebook.com/groups/reviewer2/)
-- [ ] [Psychological Methods Discussion Group](https://www.facebook.com/groups/853552931365745/)
-- [ ] [ACNS ECRs](https://www.facebook.com/groups/acns.ecr.group/)
-
-### Petition/pledge sites (can we access these mailing lists?)
+### Petition/pledge sites (can we get access these mailing lists?)
 - [ ] [DORA](https://sfdora.org/signers/) \
 - [ ] [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/list_signatures) 
 - [ ] [Fair Open Access supporters](https://gitlab.com/publishing-reform/discussion/blob/master/Fair%20Open%20Access/List%20of%20supporters%20of%20Fair%20Open%20Access.md)
