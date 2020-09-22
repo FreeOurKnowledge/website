@@ -20,7 +20,7 @@ Note: additional communication outlets can be found in our complete [communicati
 Note: each of these channels needs it's own piece of text adapted to the format (can borrow from below)
 - [ ] Mailchimp mailing list -- send out newsletter with project update/s (check with Cooper if any other info to include)
 - [ ] [Twitter](https://twitter.com/projectfok) -- see bottom of this list for directions
-- [ ] [Github Project](https://github.com/orgs/FreeOurKnowledge/projects/1) -- create a new card under 'In progress' and link to this Issue
+- [ ] [Github Project](https://github.com/orgs/FreeOurKnowledge/projects/1) -- to the right of this issue, click 'Projects' and allocate to 'FOK Kanban'
 - [ ] [Facebook](https://www.facebook.com/projectFOK) -- check that the newsletter has auto-linked
 - [ ] [Google group](https://groups.google.com/g/free-our-knowledge-community) -- only need to use if there's a private discussion to be had about this marketing blitz
 
