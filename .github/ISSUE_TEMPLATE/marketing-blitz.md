@@ -8,12 +8,13 @@ assignees: CooperSmout
 
 ---
 
-Fill out the following template and then check off communication outlets below as you contact them (forums, mailing lists, etc)
+<!---
+Fill out the template below and then check off communication outlets as you contact them (forums, mailing lists, etc)
 
-Note: more complete lists of communication outlets can be found in our complete [communication strategy](https://github.com/FreeOurKnowledge/community/edit/master/marketing/Communication_Strategy.md)
-
+Note: additional communication outlets can be found in our complete [communication strategy](https://github.com/FreeOurKnowledge/community/edit/master/marketing/Communication_Strategy.md), for more custom occasions (e.g. contacting news outlets or writing targeted blog posts)
+---> 
 ### Purpose of this marketing blitz
-<e.g., to inform people that the Github repository is now open for community input and collaboration>
+<e.g., To inform people that the Github repository is now open for community input and collaboration>
 
 ### Internal channels (FOK)
 Note: each of these channels needs it's own piece of text adapted to the format (can borrow from below)
