@@ -18,11 +18,11 @@ Note: additional communication outlets can be found in our complete [communicati
 
 ### Internal channels (FOK)
 Note: each of these channels needs it's own piece of text adapted to the format (can borrow from below)
-- [ ] Mailing list -- create newsletter and include relevant information
+- [ ] Mailchimp mailing list -- send out newsletter with project update/s (check with Cooper if any other info to include)
 - [ ] [Twitter](https://twitter.com/projectfok) -- see bottom of this list for directions
 - [ ] [Github Project](https://github.com/orgs/FreeOurKnowledge/projects/1) -- create a new card under 'In progress' and link to this Issue
-- [ ] [Facebook](https://www.facebook.com/projectFOK) -- link to newsletter
-- [ ] [Google group](https://groups.google.com/g/free-our-knowledge-community) -- only need to use if there's a private discussion to be had around this marketing blitz
+- [ ] [Facebook](https://www.facebook.com/projectFOK) -- check that the newsletter has auto-linked
+- [ ] [Google group](https://groups.google.com/g/free-our-knowledge-community) -- only need to use if there's a private discussion to be had about this marketing blitz
 
 ### Discussion forums
 <CREATE R-MARKDOWN FILE (SEE [THIS EXAMPLE](https://github.com/FreeOurKnowledge/community/blob/master/marketing/blitz1/discussion_forum)) AND LINK HERE FOR REFERENCE>
