@@ -74,7 +74,7 @@ Note: each of these channels needs it's own piece of text adapted to the format 
 - [ ] [ACNS ECRs](https://www.facebook.com/groups/acns.ecr.group/)
 
 ### Twitter
-<CREATE MULTI-COMMENT TWEET WITH LINKS, IMAGES, GIFS AND CALL TO ACTION (SEE [THIS EXAMPLE](https://twitter.com/projectFOK/status/1301362270107131905?s=20), THEN TAG FOLLOWING ORGS BELOW POST>
+<CREATE MULTI-COMMENT TWEET WITH LINKS, IMAGES, GIFS AND CALL TO ACTION (SEE [THIS EXAMPLE](https://twitter.com/projectFOK/status/1301362270107131905?s=20)), THEN TAG FOLLOWING ORGS BELOW POST. CAN ALSO MESSAGE SUPPORTERS DIRECTLY IN TWITTER, USING ONE OF THE OLD MESSAGE THREADS IN THE PROJECTFOK ACCOUNT, AND ASK THEM TO RETWEET/COMMENT.>
 - [ ] [LIBER](https://twitter.com/LIBEReurope)
 - [ ] [EIFL](https://twitter.com/EIFLnet)
 - [ ] [SPARC NA](https://twitter.com/sparc_na)
@@ -100,7 +100,7 @@ Note: each of these channels needs it's own piece of text adapted to the format 
 - [ ] [Open Knowledge Maps](https://twitter.com/OK_Maps)
 - [ ] United Nations University
 
-### Petition/pledge sites (can we access these mailing lists?)
+### Petition/pledge sites (can we get access these mailing lists?)
 - [ ] [DORA](https://sfdora.org/signers/) \
 - [ ] [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/list_signatures) 
 - [ ] [Fair Open Access supporters](https://gitlab.com/publishing-reform/discussion/blob/master/Fair%20Open%20Access/List%20of%20supporters%20of%20Fair%20Open%20Access.md)
