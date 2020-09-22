@@ -1,6 +1,4 @@
----
-title: "Communication Strategy"
----
+# Communication Strategy
 Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Open Scholarship Communication Strategy](https://github.com/Open-Scholarship-Strategy/site/edit/master/Communication_Strategy.md). May his hard work and passion for open science live on through this project.
 
 ## Channels to contact with project updates
