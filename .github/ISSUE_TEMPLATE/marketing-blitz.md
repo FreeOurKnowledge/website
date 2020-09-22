@@ -16,6 +16,8 @@ Note: additional communication outlets can be found in our complete [communicati
 ### Purpose of this marketing blitz
 <e.g., To inform people that the Github repository is now open for community input and collaboration>
 
+Once you have contacted the relevant channels below, check them off to keep track of where you're at.
+
 ### Internal channels (FOK)
 Note: each of these channels needs it's own piece of text adapted to the format (can borrow from below)
 - [ ] Mailchimp mailing list -- send out newsletter with project update/s (check with Cooper if any other info to include)
