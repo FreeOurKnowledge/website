@@ -18,14 +18,11 @@ Note: additional communication outlets can be found in our complete [communicati
 
 ### Internal channels (FOK)
 Note: each of these channels needs it's own piece of text adapted to the format (can borrow from below)
-- [ ] Mailing list (for ~monthly newsletters, but only one directional)
-- [ ] [Twitter](https://twitter.com/projectfok)
-- [ ] [Github Issues](https://github.com/FreeOurKnowledge/discussion/issues) (for discussing campaigns)
-- [ ] Trello (for organising tasks, but currently just used by Cooper)
-- [ ] Project email (info_at_freeourknowledge.org)
-- [ ] [GoFundMe](https://gf.me/u/yw45tk) (for donations)
-- [ ] [Facebook](https://www.facebook.com/projectFOK)
-- [ ] [Google group](https://groups.google.com/g/free-our-knowledge-community)
+- [ ] Mailing list -- create newsletter and include relevant information
+- [ ] [Twitter](https://twitter.com/projectfok) -- see bottom of this list for directions
+- [ ] [Github Project](https://github.com/orgs/FreeOurKnowledge/projects/1) -- create a new card under 'In progress' and link to this Issue
+- [ ] [Facebook](https://www.facebook.com/projectFOK) -- link to newsletter
+- [ ] [Google group](https://groups.google.com/g/free-our-knowledge-community) -- only need to use if there's a private discussion to be had around this marketing blitz
 
 ### Discussion forums
 <CREATE R-MARKDOWN FILE (SEE [THIS EXAMPLE](https://github.com/FreeOurKnowledge/community/blob/master/marketing/blitz1/discussion_forum)) AND LINK HERE FOR REFERENCE>
