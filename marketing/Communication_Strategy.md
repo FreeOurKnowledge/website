@@ -86,8 +86,7 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [Open Scholarship Initiative](https://twitter.com/osiunited)
 - [ ] [Open Knowledge Maps](https://twitter.com/OK_Maps)
 - [ ] United Nations University
-- [ ] [Radical OA](https://twitter.com/radicaloa)
-- [ ] @COPIMproject
+- [ ] @radicaloa @COPIMproject @FORsymp @openscicomm @IGDOREinstitute @UCBITSS @PREreview_ @OpenScienceMOOC @OSFramework (NB: many of these are FOK partners and we should develop more targeted strategy with, e.g. blog/news posts)
 
 ### Petition/pledge sites (can we get access these mailing lists?)
 - [ ] [DORA](https://sfdora.org/signers/) \
