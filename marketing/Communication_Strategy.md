@@ -1,6 +1,8 @@
 # Communication Strategy
 Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Open Scholarship Communication Strategy](https://github.com/Open-Scholarship-Strategy/site/edit/master/Communication_Strategy.md). May his hard work and passion for open science live on through this project.
 
+Note2: If you add anyhing here you should also add it to the ['Marketing blitz' issue template](https://github.com/FreeOurKnowledge/community/issues/templates/edit)
+
 ## Channels to contact with project updates
 If you're planning to contact organisations about a project update, [open a new 'marketing blitz' issue in Github](https://github.com/FreeOurKnowledge/community/issues/new/choose) and follow the template/checklist to keep track of who you've contacted. Write a different pitch for each of the following categories, then copy to all. 
 
@@ -57,6 +59,7 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [Reviewer 2 must be stopped](https://www.facebook.com/groups/reviewer2/)
 - [ ] [Psychological Methods Discussion Group](https://www.facebook.com/groups/853552931365745/)
 - [ ] [ACNS ECRs](https://www.facebook.com/groups/acns.ecr.group/)
+- [ ] [March for Science](https://www.facebook.com/marchforscience/)
 
 ### Twitter
 - [ ] [LIBER](https://twitter.com/LIBEReurope)
