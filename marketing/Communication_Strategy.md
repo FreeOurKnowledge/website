@@ -86,6 +86,8 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [Open Scholarship Initiative](https://twitter.com/osiunited)
 - [ ] [Open Knowledge Maps](https://twitter.com/OK_Maps)
 - [ ] United Nations University
+- [ ] [Radical OA](https://twitter.com/radicaloa)
+- [ ] @COPIMproject
 
 ### Petition/pledge sites (can we get access these mailing lists?)
 - [ ] [DORA](https://sfdora.org/signers/) \
