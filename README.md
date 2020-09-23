@@ -19,10 +19,11 @@ Project FOK is divided into two separate repositories:
   * Follow/retweet us on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)  
   * Join our [Google Group](https://groups.google.com/g/free-our-knowledge-community/)
   * Share our [GofundMe campaign](gf.me/u/yvgtgg) (and donate if you can afford to :))
-2. Read the project [roadmap](https://github.com/FreeOurKnowledge/community/blob/master/ROADMAP.md)
+2. Read the project [roadmap](https://github.com/FreeOurKnowledge/community/blob/master/ROADMAP.md) to see how you can contribute
 3. Look through the [list of campaign proposals](https://github.com/FreeOurKnowledge/community/issues) (any issue starting with 'Campaign') and comment on any that interest you, or add a thumbs up to show your support (this will help us decide which campaigns to post on the website). If you don't see a campaign that you think should be there, propose it by creating a new [issue](https://github.com/FreeOurKnowledge/documentation/issues/new/choose).
 4. Comment on any other [project issues](https://github.com/FreeOurKnowledge/community/issues) that you have thoughts on.
-5. If you're a developer, head over to the [platform repository](https://github.com/FreeOurKnowledge/platform) to see what work needs to be done.
+5. Look through the [Project board](https://github.com/orgs/FreeOurKnowledge/projects/1) to see if there's any tasks you can complete
+6. If you're a developer, head over to the [platform repository](https://github.com/FreeOurKnowledge/platform) to see what work needs to be done.
 
 ### Other info
 - Prior discussion at https://gitlab.com/publishing-reform/discussion/issues/78
