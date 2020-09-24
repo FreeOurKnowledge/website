@@ -124,6 +124,7 @@ Note that these channels are not populated when you create a 'marketing blitz' i
 - [ ] Learned Publishing
 - [ ] UKSG
 - [ ] LQ
+- [ ] [The Wire](https://science.thewire.in/the-sciences/scholarly-publishing-infrastructure-reliability-affordability-functionality/)
 
 ### Media contacts
 - [ ] Michael Schulson (michael_at_undark.org) -- contacted and Skyped in Sept 2019
