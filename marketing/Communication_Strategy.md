@@ -100,6 +100,14 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] http://www.openaccesspledge.com/
 - [ ] https://emckiernan.wordpress.com/pledge/
 
+## Field-specific
+
+### Social Psychology
+- [ ] https://sasp.org.au
+- [ ] https://www.spssi.org/index.cfm?nodeid=1
+- [ ] http://www.spsp.org
+- [ ] https://www.easp.eu
+
 
 ## Channels that will only be used occasionally
 Note that these channels are not populated when you create a 'marketing blitz' issue in Github, because they require a more customised communication strategy.
