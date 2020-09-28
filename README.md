@@ -13,7 +13,7 @@ Project FOK is divided into two separate repositories:
 
 ### How you can support Project FOK
 1. Help us by doing the following:
-  * Watch/star this repository (and if interested, the [platform repository](https://github.com/FreeOurKnowledge/platform/))
+  * Watch + star this repository (top right of this page)
   * Join our [mailing list](http://eepurl.com/dFVBVz)
   * Log in to the [website](https://www.freeourknowledge.org/) and pledge to any [campaigns](https://www.freeourknowledge.org/#campaigns) that you support
   * Follow/retweet us on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)  
