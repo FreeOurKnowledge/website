@@ -7,10 +7,10 @@ Note2: If you add anyhing here you should also add it to the ['Marketing blitz' 
 If you're planning to contact organisations about a project update, [open a new 'marketing blitz' issue in Github](https://github.com/FreeOurKnowledge/community/issues/new/choose) and follow the template/checklist to keep track of who you've contacted. Write a different pitch for each of the following categories, then copy to all. 
 
 ### Internal channels (FOK)
-- [ ] Mailing list (for ~monthly newsletters, but only one directional)
+- [ ] [mailing list](http://eepurl.com/dFVBVz) (for ~monthly newsletters, but only one directional)
 - [ ] [Twitter](https://twitter.com/projectfok)
 - [ ] [Github Issues](https://github.com/FreeOurKnowledge/discussion/issues) (for discussing campaigns)
-- [ ] Trello (for organising tasks, but currently just used by Cooper)
+- [ ] [Project board](https://github.com/orgs/FreeOurKnowledge/projects/1) (for organising tasks)
 - [ ] Project email (info_at_freeourknowledge.org)
 - [ ] [GoFundMe](https://gf.me/u/yw45tk) (for donations)
 - [ ] [Facebook](https://www.facebook.com/projectFOK)
