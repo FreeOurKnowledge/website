@@ -13,7 +13,7 @@ Thanks for proposing a new collective action campaign for Project FOK! Campaigns
 
   Instructions:
   1. Add your campaign title in the Title field above ^
-  2. Add your GitHub username and anyone else who will be developing this campaign below --->
+  2. Add your GitHub @username and anyone else who will be developing this campaign below --->
 Campaign creator/s: 
 
 <!---
