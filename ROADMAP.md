@@ -10,7 +10,7 @@ We're building a platform that helps researchers organise the collective uptake 
    - [x] Centre for Open Science ambassadors 
    - (copy in relevant channels from marketing/Communication_Strategy.md)
 - [ ] Write social media/marketing material for campaign release (including Thuderclap)
-- [ ] [Develop platform](https://github.com/FreeOurKnowledge/platform/issues/8))
+- [ ] [Develop platform](https://github.com/FreeOurKnowledge/platform/issues/8)
 
 #### Milestone: Market campaign and reach threshold 
 * Write blog posts (see marketing/Communication_Strategy.md for outlets)
