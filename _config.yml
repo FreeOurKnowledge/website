@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: FOK-website
+title: Free Our Knowledge
 
 # Your name to show in the footer
-author: Some Person
+author: Free Our Knowledge
 
 # --- List of links in the navigation bar --- #
 
@@ -24,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/FOK_logo_v5.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
