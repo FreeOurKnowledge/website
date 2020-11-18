@@ -14,11 +14,11 @@ author: Free Our Knowledge
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "aboutFOK"
+  About: "page_about"
   Resources:
     - News & Media: "news"
-    - Frequently Asked Questions: "FAQ"
-  Join Us: "joinFOK"
+    - Frequently Asked Questions: "page_faq"
+  Join Us: "page_joinus"
 
 # --- Logo --- #
 
@@ -39,12 +39,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "info@freeourknowledge.org"
+  facebook: projectFOK
+  github: FreeOurKnowledge
+  twitter: projectFOK
+#  patreon: DeanAttali
+  youtube: "https://www.youtube.com/watch?v=_JTPtyPrMLM&t=158s"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -64,7 +64,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -77,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -89,7 +89,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "science,research,academia,academic,collective,action"
 
 # --- Colours / background image --- #
 
