@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preregistration challenge
+title: Preregistration pledge
 subtitle: Pledge to pre-register at least one study in the next two years, along with 100 of your peers
 gh-repo: freeourknowledge/community
 gh-badge: [watch, star, fork]
