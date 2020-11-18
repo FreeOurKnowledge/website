@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+title: Preregistration challenge
+subtitle: Pledge to complete one preregistration in the next 2 years, along with 100 of your peers
+gh-repo: freeourknowledge/community
+gh-badge: [star, follow]
 tags: [test]
 comments: true
 ---
