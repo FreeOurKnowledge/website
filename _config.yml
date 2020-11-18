@@ -14,11 +14,11 @@ author: Free Our Knowledge
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "aboutme"
+  About: "aboutFOK"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - News & Media: "news"
+    - Frequently Asked Questions: "FAQ"
+  Join Us: "joinFOK"
 
 # --- Logo --- #
 
