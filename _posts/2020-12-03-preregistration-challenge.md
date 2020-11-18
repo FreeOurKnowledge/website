@@ -22,8 +22,8 @@ A collective campaign to pre-register will help make pre-registration a norm for
 * Your pledge will activate when X people from your field (as determined by researcher field in ORCID) have joined the pledge. The two-year time period starts from when the pledge has activated. You will receive an email when this happens. At this point, your pledge will become public.
 * From this point, you have two years to complete a study pre-registration: this is a time-stamped, publicly available document that can be verified as existing before the study is conducted. It can be hosted on any of the [available pre-registration platforms](https://osf.io/zab38/wiki/home/?view) come active
 
-#### Take the pledge!
-Join X researchers so far
+#### Take the pledge
+Join X researchers who have taken the pledge!
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf8RflGizFJZamE874o8aDOhyU7UsNByR4dLmzhOtEOiu8KRQ/viewform?embedded=true" width="640" height="1213" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
