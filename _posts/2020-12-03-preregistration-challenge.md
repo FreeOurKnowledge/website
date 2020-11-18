@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preregistration challenge
-subtitle: Pledge to [pre-register](https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration#Go-to-the-OSF-Prereg-Challenge-landing-page) at least one study in the next two years, along with 100 of your peers
+subtitle: Pledge to pre-register at least one study in the next two years, along with 100 of your peers
 gh-repo: freeourknowledge/community
 gh-badge: [watch, star, fork]
 cover-img: /assets/img/prereg-badge.png
@@ -10,7 +10,7 @@ share-img: /assets/img/prereg-badge.png
 tags: [test]
 comments: true
 ---
-Pre-registration requires researchers to specify their research objectives, hypotheses, data collection protocol, and  confirmatory analysis plans prior to beginning a study.
+[Pre-registration](https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration#Go-to-the-OSF-Prereg-Challenge-landing-page) requires researchers to specify their research objectives, hypotheses, data collection protocol, and  confirmatory analysis plans prior to beginning a study. 
 
 Pre-registration helps to [improve the reliability of scientific research and hypothesis testing](https://www.pnas.org/content/115/11/2600#sec-15).
 
