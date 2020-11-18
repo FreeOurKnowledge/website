@@ -26,7 +26,6 @@ A collective campaign to pre-register will help make pre-registration a norm for
 Join [2 other researchers](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=492450582&single=true) who have already taken the pledge!
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=1291030791&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-people have pledged
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf8RflGizFJZamE874o8aDOhyU7UsNByR4dLmzhOtEOiu8KRQ/viewform?embedded=true" width="640" height="1213" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
