@@ -3,7 +3,7 @@ layout: post
 title: Preregistration challenge
 subtitle: Pledge to complete one preregistration in the next 2 years, along with 100 of your peers
 gh-repo: freeourknowledge/community
-gh-badge: [star, follow]
+gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
