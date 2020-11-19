@@ -6,7 +6,7 @@ gh-repo: freeourknowledge/community
 cover-img: /assets/img/prereg-badge.png
 thumbnail-img: /assets/img/prereg-badge.png
 share-img: /assets/img/prereg-badge.png
-tags: [test]
+tags: [preregistration,open science,publication bias,collective action]
 comments: true
 ---
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=1291030791&amp;single=true&amp;widget=true&amp;headers=false"></iframe>{: .mx-auto.d-block :}
