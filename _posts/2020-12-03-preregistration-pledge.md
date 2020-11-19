@@ -3,7 +3,6 @@ layout: post
 title: Preregistration pledge
 subtitle: Pledge to pre-register at least one study in the next two years, along with 100 of your peers
 gh-repo: freeourknowledge/community
-gh-badge: [watch]
 cover-img: /assets/img/prereg-badge.png
 thumbnail-img: /assets/img/prereg-badge.png
 share-img: /assets/img/prereg-badge.png
