@@ -9,9 +9,9 @@ share-img: /assets/img/prereg-badge.png
 tags: [preregistration,open science,publication bias,collective action]
 comments: true
 ---
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=1291030791&amp;single=true&amp;widget=true&amp;headers=false"></iframe>{: .mx-auto.d-block :}
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=1291030791&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-<p align="center">(list of pledges [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=492450582&single=true))
+(full list of pledges [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=492450582&single=true))
 
 [Pre-registration](https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration#Go-to-the-OSF-Prereg-Challenge-landing-page) requires researchers to specify their research objectives, hypotheses, data collection protocol, and confirmatory analysis plans prior to beginning a study. 
 
