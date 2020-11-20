@@ -1,3 +1,8 @@
+---
+layout: page
+title: News & Media
+---
+
 30 July 2018 - Project FOK founded, [twitter account](https://twitter.com/projectfok) attracts 300+ followers in first weekend
 
 23 August 2018 - MVP website / mailing list created
