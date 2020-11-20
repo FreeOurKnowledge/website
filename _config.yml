@@ -16,7 +16,7 @@ author: Free Our Knowledge
 navbar-links:
   About: "page_about"
   Resources:
-    - News & Media: "news"
+    - News & Media: "page_news"
 #    - Frequently Asked Questions: "page_faq"
   Join Us: "page_joinus"
 
