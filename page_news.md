@@ -31,6 +31,8 @@ title: News & Media
 
 2 July 2020 - [Live campaign-creation workshop](https://www.youtube.com/watch?v=5LJbzztPpME) at the OHBM Open Science Room
 
+22 Sept 2020 - [Project FOK discussion opened on IGDORE Forum](https://forum.igdore.org/t/project-free-our-knowledge-fixing-academia-with-collective-action/851)
+
 13 October 2020 - Project FOK [officially partners with the UK Reproducibility Network](https://www.ukrn.org/2020/10/13/ukrn-partnering-project-fok/)
 
 3 December 2020 - New website launch and Preregistration campaign launch at AIMOS conference (University of Sydney/NSW, Australia)
