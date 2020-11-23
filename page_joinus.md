@@ -1,4 +1,4 @@
-# Join us
+### Join us
 
 We believe in creating a better system that works for *all* scholars, but we need your help! If you'd like to collaborate on the project, please get in touch via [email](mailto:info@freeourknowledge.org), [twitter](https://twitter.com/projectFOK), [facebook](https://www.facebook.com/projectFOK/), or [github](https://github.com/FreeOurKnowledge/community). Here are some ways you can contribute:
 
