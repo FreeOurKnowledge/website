@@ -14,11 +14,11 @@ author: Free Our Knowledge
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "page_about"
+  About: "about"
   Resources:
-    - News & Media: "page_news"
-#    - Frequently Asked Questions: "page_faq"
-  Join Us: "page_joinus"
+    - News & Media: "news"
+#    - Frequently Asked Questions: "faq"
+  Join Us: "joinus"
 
 # --- Logo --- #
 
