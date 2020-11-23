@@ -19,7 +19,7 @@ Project FOK is divided into two separate repositories:
   * Follow us on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)  
   * Join our [Google Group](https://groups.google.com/g/free-our-knowledge-community/)
   * Share our [crowd-funding campaign](gf.me/u/yvgtgg)
-2. Log in to the [website](https://www.freeourknowledge.org/) and pledge to any [live campaigns](https://www.freeourknowledge.org/#campaigns) that you can
+2. Pledge to any [live campaigns](https://www.freeourknowledge.org/#campaigns) on the [website](https://www.freeourknowledge.org/) that you can
 3. Comment on [campaign drafts and project issues](https://github.com/FreeOurKnowledge/community/issues) and/or add a thumbs up to show which campaigns have community support. Propose a new campaign for something you're passionate about using the [Issues feature](https://github.com/FreeOurKnowledge/community/issues/new/choose)
 4. Read the project [roadmap](https://github.com/FreeOurKnowledge/community/blob/master/ROADMAP.md) to see how you can contribute
 5. Look through the [Project board](https://github.com/orgs/FreeOurKnowledge/projects/1) to see if there's any tasks you can complete
