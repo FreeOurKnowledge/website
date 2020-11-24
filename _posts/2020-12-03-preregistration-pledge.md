@@ -3,9 +3,9 @@ layout: post
 title: Preregistration pledge
 subtitle: Pledge to pre-register at least one study in the next two years, along with 100 of your peers
 gh-repo: freeourknowledge/community
-cover-img: /assets/img/prereg-badge.png
+cover-img: /assets/img/checklist.jpg
 thumbnail-img: /assets/img/prereg-badge.png
-share-img: /assets/img/checklist.jpg
+share-img: /assets/img/prereg-badge.png
 tags: [preregistration,open science,publication bias,collective action]
 comments: true
 ---
