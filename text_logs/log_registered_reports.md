@@ -1,0 +1,5 @@
+Registered Reports emphasize the importance of the research question and the quality of methodology by conducting peer review prior to data collection. High quality protocols are then provisionally accepted for publication if the authors follow through with the registered methodology. This format is designed to reward best practices in adhering to the hypothetico-deductive model of the scientific method. It eliminates a variety of questionable research practices, including low statistical power, selective reporting of results, and publication bias, while allowing complete flexibility to report serendipitous findings.
+
+[‘Center for Open Science, 2019, Registered Reports, © Center for Open Science, used under the Creative Commons Attribution 4.0 International Licence.’]
+
+By joining this campaign, you pledge to exclusively publish in, and review for, journals that publish registered reports either as a regular submission option or as part of a single special issue (compliant journals are listed here: https://cos.io/rr/)
