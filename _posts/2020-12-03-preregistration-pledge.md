@@ -14,7 +14,7 @@ comments: true
 [Preregistration](https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration#Go-to-the-OSF-Prereg-Challenge-landing-page) is a time-stamped, publicly available document that researchers use to specify their research objectives, hypotheses, data collection protocol and analysis plans prior to beginning a study. This campaign asks you to **pre-register at least one study in the two years after your pledge activates**. 
 
 #### Why join this campaign?
-Preregistration can [improve the reliability of scientific research and hypothesis testing](https://www.pnas.org/content/115/11/2600#sec-15), [mitigate questionable research practices](https://www.pnas.org/content/115/11/2600) and reduce the waste of scientific resources. Although preregistration is common in a few fields (e.g., medicine), it is rare in most others -- in large part due to cultural inertia that discourages individuals from straying from the norm. 
+Preregistration can [improve the reliability of scientific research and hypothesis testing](https://www.pnas.org/content/115/11/2600#sec-15), [mitigate questionable research practices](https://www.pnas.org/content/115/11/2600) and reduce the waste of scientific resources. Although preregistration is common in a few fields (e.g., medicine), it is rare in most others -- largely due to cultural inertia that discourages individuals from straying from the norm. 
 
 By joining this campaign, you will help to make preregistration the norm in your field of research. Although 100 preregistrations may seem like a drop in the ocean, future campaigns will build on this one until such time that preregistration is the default in your field, rather than the exception.
 
