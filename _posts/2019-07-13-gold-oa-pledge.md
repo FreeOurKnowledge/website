@@ -25,7 +25,7 @@ When you pledge, you will select a threshold (0 - 90%, in steps of 10%) that ind
 If and when your pledge activates, we will publicize your name alongside all of your peers who made the same pledge and direct everyone to carry out their pledge in unison. 
 
 ### Who has pledged already?
-The full list of anonymized pledges can be seen [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=347634815&single=true)
+The full list of anonymized pledges can be seen [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=347634815&single=true).
 
 ### Take the pledge!
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSckeylk2NoMCayhs8KA3_N-AA-euMuUWr_QAbhFDXc_vYCPMg/viewform?embedded=true" width="640" height="1850" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
