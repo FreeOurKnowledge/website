@@ -4,7 +4,7 @@ title: Platinum Open Access Pledge
 subtitle: Exclusively publish in and review for journals that make articles free to read/reuse and do not charge publication fees, once a critical mass of your peers have signed the same pledge
 gh-repo: freeourknowledge/community
 cover-img: /assets/img/handcuffs.jpg
-thumbnail-img: /assets/img/chain-breaking.png
+thumbnail-img: /assets/img/chain-breaking_small.png
 share-img: /assets/img/handcuffs.png
 tags: [publishing, open science, collective action]
 comments: true
