@@ -28,4 +28,4 @@ If and when your pledge activates, we will publicize your name alongside all of 
 The full list of anonymized pledges can be seen [here]()
 
 ### Take the pledge!
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSckeylk2NoMCayhs8KA3_N-AA-euMuUWr_QAbhFDXc_vYCPMg/viewform?embedded=true" width="640" height="1741" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSckeylk2NoMCayhs8KA3_N-AA-euMuUWr_QAbhFDXc_vYCPMg/viewform?embedded=true" width="640" height="1850" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
