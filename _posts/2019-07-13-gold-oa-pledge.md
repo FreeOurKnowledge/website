@@ -10,7 +10,7 @@ tags: [publishing, open science, collective action]
 comments: true
 ---
 
-Publicly-funded research should be free to read, reuse and free for authors to publish (“Diamond” or “Platinum Open Access”). High quality Platinum Open Access journals already exist in most disciplines, but typically languish without the support of researchers who feel pressured to publish in 'prestigious' traditional journals. At the same time, however, the research community creates all of the value that determines journal 'prestige', and as such a widespread and simultaneous move to support Platinum Open Access journals would bolster the reputation of those journals and diminish that of legacy journals, breaking the vicious cycle of academic publishing. 
+Many journals place publicly-funded research behind expensive paywalls, costing the research sector billions of dollars every year and preventing access to life-saving research. Despite these harmful effects on the research community and broader public, many researchers continue to support paywalled journals because their 'prestige' is important for career progression. But at the same time, journal prestige depends entirely on the valuable articles and reviews we donate as a research community -- if a critical mass of researchers were to unanimously declare their support for Open Access journals, the prestige of these journals would quickly rise and researchers would be free to support progressive journals without risk to individual careers.
 
 ### What is the pledge?
 Exclusively publish in, and review for, Open Access scholarly communication outlets that don't charge publication fees (journals that merely pass on DOI-registration costs are permitted under this pledge).
