@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gold Open Access Pledge
-subtitle: Exclusively publish in and review for journals that make articles free to read and reuse
+subtitle: Exclusively publish in and review for journals that make articles free to read and reuse, once a critical mass of your peers have signed the same pledge
 gh-repo: freeourknowledge/community
 cover-img: /assets/img/handcuffs.jpg
 thumbnail-img: /assets/img/handcuffs.png
