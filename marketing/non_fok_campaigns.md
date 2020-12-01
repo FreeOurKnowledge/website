@@ -1,4 +1,4 @@
-Document purpose: collect a list of other campaigns with similar goals but not on FOK
+Document purpose: collect a list of other campaigns with similar goals but not on FOK, so we can target those users (and possibly integrate with campaigns)
 
 Petitions
 * [No-fee science](https://docs.google.com/forms/d/e/1FAIpQLSeGl9IgTZcVDcyinQbosTKhrZVTTVhQ8fUg5Yc9K860AHeDpw/viewform)
