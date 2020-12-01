@@ -16,6 +16,12 @@ Postprints (peer-reviewed author version of an article) are a cost-effective way
 * Every time you publish an article closed access (i.e., in a paywalled journal), deposit the final peer-reviewed preprint (i.e., 'postprint') in an indexed repository immediately (i.e., without embargo)
 * Every time you review, only review for journals that allow preprints and postprints to be shared without embargo (i.e., 'Green' journals on Sherpa/Romeo)
 
+### How is the level of support calculated?
+For this campaign, we'll be using a citation-based measure of scientific influence to operationalise the level of support in each research field (e.g., Psychology). This is calculated by dividing the average number of citations that pledgers' publications received by the average number that all publications received, normalised separately for each of the last 5 publication years (using the geometric mean to control for outliers). We will use ORCID profiles to allocate researchers into different research fields, and only consider publications contained in ORCID profiles that fall under each researcher's pledge conditions (i.e., authorship position/s).
+
+### When will my pledge become active?
+When you pledge, you will set an activation threshold (0 - 90%, in steps of 10%) according to your circumstances. For example, a tenured professor may feel more comfortable setting a lower activation threshold (including 0%, which indicates immediate activation) than an early career researcher, who needs publications in community-supported journals to progress their career. You are not required to take any action until the level of support surpasses your selected threshold. At that time, we will publicise your name alongside everyone else who selected that level and direct everyone to carry out their pledge in unison. 
+
 ### Who else has pledged?
 The full list of anonymized pledges can be seen [here]()
 
