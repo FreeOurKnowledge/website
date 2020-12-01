@@ -4,7 +4,7 @@ title: Green Open Access Pledge
 subtitle: Share a postprint (author-formatted final version) of every article you publish and only review for journals that allow postprints without embargo, once a critical mass of your peers have signed the same pledge
 gh-repo: freeourknowledge/community
 cover-img: /assets/img/handcuffs.jpg
-thumbnail-img: /assets/img/handcuffs.png
+thumbnail-img: /assets/img/green_oa.png
 share-img: /assets/img/handcuffs.png
 tags: [publishing, open science, collective action]
 comments: true
