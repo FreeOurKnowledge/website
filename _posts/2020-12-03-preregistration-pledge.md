@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preregistration pledge
+title: Preregistration Pledge
 subtitle: Pledge to preregister at least one study in the next two years, along with 100 of your peers
 gh-repo: freeourknowledge/community
 cover-img: /assets/img/checklist.jpg
