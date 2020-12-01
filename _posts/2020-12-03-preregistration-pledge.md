@@ -19,7 +19,7 @@ Preregistration can [improve the reliability of scientific research and hypothes
 By joining this campaign, you will help to make preregistration the norm in your field of research. Although 100 preregistrations may seem like a drop in the ocean, future campaigns will build on this one until such time that preregistration is the default in each field, rather than the exception.
 
 #### When do I do it?
-Your pledge will activate when 100 people from your field have joined the pledge, at which time your name will be displayed on this page and we'll contact you to let you know that your pledge has activated. From that time, you'll have two years to complete a preregistration on any of the [available preregistration platforms](https://osf.io/zab38/wiki/home/?view). 
+Your pledge will activate when 100 people from your field have joined the pledge, at which time your name will be displayed on this page and we'll contact you to let you know that your pledge has activated. From that time, you'll have two years to complete a preregistration on any of the [available preregistration platforms](https://osf.io/zab38/wiki/home/?view). You can of course get started on your preregistration in the meantime, if you wish.
 
 #### Who else has pledged?
 Pledge totals for each field are shown below, and the full list of anonymized pledges can be seen [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=492450582&single=true):
