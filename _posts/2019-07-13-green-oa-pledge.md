@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Green Open Access Pledge
-subtitle: Share a postprint (author-formatted final version) of every article you publish and only review for journals that allow postprints without embargo, once a critical mass of your peers have signed the same pledge
+subtitle: Pledge to share a postprint for every article you publish and only review for journals that support postprints (without embargo), alongside a critical mass of your peers
 gh-repo: freeourknowledge/community
 cover-img: /assets/img/handcuffs.jpg
 thumbnail-img: /assets/img/green_oa_small.png
@@ -10,7 +10,7 @@ tags: [publishing, open science, collective action]
 comments: true
 ---
 
-Postprints (peer-reviewed author version of an article) are a cost-effective way to enable access to the latest research ('Green Open Access’), but some publishers deny authors the right to share postprints or place them under unnecessary embargoes. Journals depend entirely on the value donated to them by the research community, however, and will be forced to respond if a critical mass of researchers declare their intention to exclusively support postprint-friendly journals. By joining this campaign, you will pledge to share postprints and only review for journals that explicitly allow postprint sharing without embargo. As with all our campaigns, your pledge will not go into effect until a critical mass of your peers have signed the same pledge (choose your own threshold when you pledge).
+Postprints (author-formatted final version of an article) are a cost-effective way to enable access to the latest research ('Green Open Access’), but some publishers deny authors the right to share postprints or place them under unnecessary embargoes. Journals depend entirely on the value donated to them by the research community, however, and will be forced to respond if a critical mass of researchers declare their intention to exclusively support postprint-friendly journals. By joining this campaign, you will pledge to share postprints and only review for journals that explicitly allow postprint sharing without embargo. As with all our campaigns, your pledge will not go into effect until a critical mass of your peers have signed the same pledge (choose your own threshold when you pledge).
 
 ### What is the pledge?
 * Every time you publish an article closed access (i.e., in a paywalled journal), deposit the final peer-reviewed preprint (i.e., 'postprint') in an indexed repository immediately (i.e., without embargo)
