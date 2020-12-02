@@ -16,7 +16,7 @@ We anticipate that campaign targets will be modest in the short term, e.g., aski
 ### How you can get involved
 Take a look at the various campaigns posted on our [landing page](https://freeourknowledge.org/) and pledge to those that you're interested in. New campaigns are currently being developed on our [Github repository](https://github.com/FreeOurKnowledge/community/issues). If you see something there that you're interested in, please make a comment or 'thumbs up' the original post to help us decide which campaigns have the most community traction. Alternatively, if you have an idea for a campaign that hasn't been proposed, feel free to propose it by [opening a new issue](https://github.com/FreeOurKnowledge/community/issues/new/choose). We'd also love it if you could follow us on [Twitter](https://twitter.com/projectFOK) and [Facebook](https://www.facebook.com/projectFOK), share our posts and sign up to our [mailing list](http://eepurl.com/dFVBVz). And obviously, tell your friends and colleagues! Alone we may be weak, but together we are strong.
 
-## Who are we?
+### Who are we?
 Project Free Our Knowledge is a grassroots movement being driven by early career researchers who seek a better future for our friends, colleagues and ourselves as we pursue careers in academia. We hope that diverse communities of individuals will come together to decide what the future of academia should look like *and then cooperate to make it happen*. At present, the project is being driven by:
 
 * [Cooper Smout](https://www.coopersmout.com/) (Primary lead)
