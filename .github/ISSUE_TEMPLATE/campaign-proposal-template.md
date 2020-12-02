@@ -1,5 +1,5 @@
 ---
-name: Campaign proposal template
+name: Campaign proposal
 about: This issue template is for proposing new collective action campaigns to be
   hosted on the Free Our Knowledge platform
 title: 'Campaign: <Insert descriptive title here>'
