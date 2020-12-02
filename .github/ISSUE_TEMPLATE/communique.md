@@ -1,9 +1,9 @@
 ---
-name: Communique
+name: Marketing checklist
 about: Use this template to communicate a project update to various research communities
   (forums, blogs, etc)
-title: 'Communique: <insert project update description here>'
-labels: ''
+title: 'Marketing: <insert reason for communication here>'
+labels: 'marketing'
 assignees: CooperSmout
 
 ---
