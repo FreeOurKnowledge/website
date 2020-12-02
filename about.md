@@ -16,4 +16,4 @@ Take a look at the various campaigns posted on our [landing page](https://freeou
 We'd also love it if you could follow us on [Twitter](https://twitter.com/projectFOK) and [Facebook](https://www.facebook.com/projectFOK), share our posts and sign up to our [mailing list](http://eepurl.com/dFVBVz). And obviously, tell your friends and colleagues! Alone we may be weak, but together we are strong.
 
 ### Partner organisations
-![COS](assets/imgs/cos.png){: .mx-auto.d-block :}
+![COS](assets/img/cos.png){: .mx-auto.d-block :}
