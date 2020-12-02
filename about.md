@@ -14,3 +14,6 @@ Project Free Our Knowledge aims to create positive cultural change by organising
 Take a look at the various campaigns posted on our [landing page](https://freeourknowledge.org/) and pledge to any that you're interested in. New campaigns are currently being developed on our [Github repository](https://github.com/FreeOurKnowledge/community/issues). If you see something there that you're interested in, please make a comment or 'thumbs up' the original post to help us decide which campaigns have the most community traction. Or if you have an idea for a campaign that hasn't been proposed, feel free to propose it by [opening a new issue](https://github.com/FreeOurKnowledge/community/issues/new/choose). We hope that diverse communities of individuals will come together to decide what they think the future of academia should look like and then collaborate to make it happen, so please join us in developing future campaigns for the website.
 
 We'd also love it if you could follow us on [Twitter](https://twitter.com/projectFOK) and [Facebook](https://www.facebook.com/projectFOK), share our posts and sign up to our [mailing list](http://eepurl.com/dFVBVz). And obviously, tell your friends and colleagues! Alone we may be weak, but together we are strong.
+
+### Partner organisations
+![COS](assets/imgs/cos.png){: .mx-auto.d-block :}
