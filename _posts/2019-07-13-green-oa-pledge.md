@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Green Open Access Pledge
-subtitle: Pledge to share a postprint for every article you publish and only review for journals that support postprints (without embargo), alongside a critical mass of your peers
+subtitle: Pledge to share a postprint for every article you publish and only review for journals that allow this practice (without embargo), alongside a critical mass of your peers
 gh-repo: freeourknowledge/community
 cover-img: /assets/img/handcuffs.jpg
 thumbnail-img: /assets/img/green_oa_small.png
