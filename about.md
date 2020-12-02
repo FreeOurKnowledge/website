@@ -19,23 +19,23 @@ Take a look at the various campaigns posted on our [landing page](https://freeou
 ## Who are we?
 Project Free Our Knowledge is a grassroots movement being driven by early career researchers who seek a better future for our friends, colleagues and ourselves as we pursue careers in academia. We hope that diverse communities of individuals will come together to decide what the future of academia should look like *and then cooperate to make it happen*. At present, the project is being driven by:
 
-[Cooper Smout](https://www.coopersmout.com/) (Primary lead)
-[Dawn Liu Holford](https://www.essex.ac.uk/people/liuda52701/dawn-holford) (Secondary lead)
+* [Cooper Smout](https://www.coopersmout.com/) (Primary lead)
+* [Dawn Liu Holford](https://www.essex.ac.uk/people/liuda52701/dawn-holford) (Secondary lead)
 
 Supported by:
 
-Jay Patel
-Megan Campbell
-Kelly Garner
-Claire Bradley
-Udi Alter
+* Jay Patel
+* Megan Campbell
+* Kelly Garner
+* Claire Bradley
+* Udi Alter
 
 And advised by:
 
-Luis Pedro Coelho
-Lillian Juma
-Alex Holcombe
-Brian Nosek
+* Luis Pedro Coelho
+* Lillian Juma
+* Alex Holcombe
+* Brian Nosek
 
 The [first version of the platform](https://github.com/FreeOurKnowledge/old_platform) was built by Codi Coop and [the current version](https://github.com/FreeOurKnowledge/website) was built by Cooper Smout using [Dean Attali's Beautiful Jekkyl template](https://github.com/daattali/beautiful-jekyll).
 
