@@ -29,6 +29,7 @@ Supported by:
 * Kelly Garner
 * Claire Bradley
 * Udi Alter
+* Gavin Taylor
 
 And advised by:
 
