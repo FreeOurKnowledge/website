@@ -1,8 +1,8 @@
 ---
 name: Problem, idea or discussion point
 about: Suggest an idea for this project
-title: 'Issue: <INSERT TOPIC HERE>'
-labels: enhancement
+title: 'Discussion: <INSERT TOPIC HERE>'
+labels: discussion
 assignees: ''
 
 ---
