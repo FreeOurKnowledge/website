@@ -17,8 +17,8 @@ Thanks for proposing a new collective action campaign for Project FOK! Campaigns
   3. Finally, when you're happy with everything click 'Submit new issue'... and let your friends/colleagues know about your new campaign!
 
 <!---
-  Add your GitHub @username and anyone else who will be developing this campaign below --->
-* Campaign creator/s: ?
+  List anyone else who is proposing this campaign with you using their GitHub @username --->
+* Campaign co-creator/s: ?
 
 <!---
   Brief description of why this campaign is needed (try to be succinct) ---> 
