@@ -21,7 +21,7 @@ By joining this campaign, you will help to make preregistration the norm in your
 Your pledge will activate when 100 people from your field have joined the pledge, at which time your name will be displayed on this page and we'll contact you to let you know that your pledge has activated. From that time, you'll have two years to complete a preregistration on any of the [available preregistration platforms](https://osf.io/zab38/wiki/home/?view). You can of course get started on your preregistration in the meantime, if you wish.
 
 #### Who else has pledged?
-<iframe width='100%' height='1500' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=1236919136&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='100%' height='350' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=1236919136&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 (see the full list of anonymized pledges [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=492450582&single=true))
 
 #### Take the pledge!
