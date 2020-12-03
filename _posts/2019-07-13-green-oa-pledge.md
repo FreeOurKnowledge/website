@@ -14,7 +14,7 @@ Postprints (author-formatted final version of an article) are a cost-effective w
 
 ### What is the pledge?
 * Every time you publish an article closed access (i.e., in a paywalled journal), deposit the final peer-reviewed preprint (i.e., 'postprint') in an indexed repository immediately (i.e., without embargo)
-* Every time you review, only review for journals that allow preprints and postprints to be shared without embargo (i.e., 'Green' journals on Sherpa/Romeo)
+* Only review for journals that allow preprints and postprints to be shared without embargo (journal policies can be seen by searching on [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/search.html) and clickling 'Accepted Version')
 
 ### How is the 'critical mass' of support calculated?
 We'll be using a citation-based measure of scientific influence to operationalise the level of support in each research field (e.g., Psychology). Researchers are classified into fields using their ORCID profile. Support is calculated by dividing the average number of citations to pledgers' publications by the average number of citations to all researchers' publications in a particular research field (normalised for each of the last 5 publication years). For these calculations, we will only consider pledgers' publications that are included in their pledge (i.e., authorship position/s).
