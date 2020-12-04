@@ -4,7 +4,7 @@ title: About
 subtitle: We're building a platform to help researchers organise collective action in support of open and reproducible research practices
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vzB7Vh_gkLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{: .mx-auto.d-block :}
+<iframe width="560" height="315" style="text-align:center" src="https://www.youtube.com/embed/vzB7Vh_gkLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Why is this project needed?
 Academia is trapped in a [collective action problem](https://en.wikipedia.org/wiki/Collective_action_problem). Individual researchers are incentivised to act in ways that hold back progress and hurt the research community's best interests (e.g., publishing in legacy journals and prioritising novelty over reliability). Any one individual could take a stand against this pressure, of course, but by doing so they would be placing their career at risk. Fears like these have held back progress in academia to the point where today, decades after the internet was developed, we continue to communicate and evaluate research using outdated journal models developed for the 18th century printing press.
