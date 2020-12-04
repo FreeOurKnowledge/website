@@ -4,7 +4,7 @@ title: About
 subtitle: We're building a platform to help researchers organise collective action in support of open and reproducible research practices
 ---
 
-<iframe margin="auto" width="560" height="315" src="https://www.youtube.com/embed/vzB7Vh_gkLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/vzB7Vh_gkLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Why is this project needed?
 Academic reform is hindered by a collective action problem. Many open science practices offer benefits to the entire research community (and beyond), but their adoption is limited by incentive structures that reward closed science and ‘prestigious’ publications at the individual level. Historically, collective action -- the simultaneous adoption of new behaviours by a subset of the community in question -- has proven to be an effective strategy for aligning personal and group incentives across a wide range of contexts (e.g., factory workers going on strike; consumers contributing funds to a Kickstarter product), but remains to be implemented in a meaningful way by the research community. 
