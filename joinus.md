@@ -19,5 +19,4 @@ Here are some other ways you can contribute:
 
 *Metascience*. As the data comes in, it will be useful to analyse it along various dimensions to gauge community support (e.g. researcher career-level, country, institution, etc.). These analyses will then be displayed on the website and contribute to publications and blogs describing the platform usage.
 
-~~~~
 *Data management*. We're anticipating collecting large numbers of pledges with this project and need to keep that information confidential but also amenable to various analyses. As such, we're looking for people with experience organising and securing confidential data.
