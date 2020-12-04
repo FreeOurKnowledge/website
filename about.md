@@ -4,25 +4,28 @@ title: About
 subtitle: We're building a platform to help researchers organise collective action in support of open and reproducible research practices
 ---
 
-<iframe align=middle align="middle" width="560" height="315" src="https://www.youtube.com/embed/vzB7Vh_gkLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe "align=middle" width="560" height="315" src="https://www.youtube.com/embed/vzB7Vh_gkLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Why is this project needed?
-Academic reform is hindered by a collective action problem. Many open science practices offer benefits to the entire research community (and beyond), but their adoption is limited by incentive structures that reward closed science and ‘prestigious’ publications at the individual level. Historically, collective action -- the simultaneous adoption of new behaviours by a subset of the community in question -- has proven to be an effective strategy for aligning personal and group incentives across a wide range of contexts (e.g., factory workers going on strike; consumers contributing funds to a Kickstarter product), but remains to be implemented in a meaningful way by the research community. 
+Academia is trapped in a [collective action problem](https://en.wikipedia.org/wiki/Collective_action_problem). Individual researchers are incentivised to act in ways that hold back progress and hurt the research community's best interests (e.g., publishing in legacy journals and prioritising novelty over reliability). Any one individual could take a stand against this pressure, of course, but by doing so they would be placing their career at risk. Fears like these have held back progress in academia to the point where today, decades after the internet was developed, we continue to communicate and evaluate research using outdated journal models developed for the 18th century printing press.
 
-### How are we planning to fix this problem?
-Project Free Our Knowledge aims to create positive cultural change by organising collective action in the global research community. Using our website, researchers can make anonymous pledges to support open science behaviours *if and when a critical mass of support for that behaviour is met in the community*. Then -- after the pre-determined number of pledges is reached -- the new community will be publicised on the website and directed to carry out the action in unison, thus protecting each other’s interests as they drive progress together.
+### How could we fix this problem?
+Imagine if every researcher in the world decided that from tomorrow, we would only support community-owned, no-fee ('platinum') open access scholarly communication systems. Overnight, the prestige of legacy journals -- which depend entirely on the value we provide -- would plummet, and the reputation of whatever systems we chose to support would skyrocket, allowing us to reclaim control of scholarly communication, open our research to the world, drastically decrease costs, and begin to evolve scholarly communication in line with our needs and the principles of science itself. Now, obviously this is an extreme example, but it serves to demonstrate the latent power researchers hold and the potential benefits of **collective action** to individual researchers.
+
+### What are we doing?
+We're building the world's first collective action platform for researchers. Using our website, researchers can make anonymous pledges to support certain progressive (e.g., open science) behaviours *if and when a critical mass of support for that behaviour is met in the community*. Then -- after the pre-determined number of pledges is reached -- we will publicize the new community on our website and direct them to carry out the action together, thus protecting each other’s interests as they drive progress together.
 
 ### What is our vision for the future? 
-We anticipate that campaign targets will be modest in the short term, e.g., asking tens or hundreds of researchers to commit to a single action. These actions could occur at any stage of the research pipeline (e.g., completing a preregistration or posting a preprint) or beyond (e.g., forming a local support group for mental health, or changing one's hiring priorities). In this way, we hope that this platform will be useful in a variety of ways by different communities, who can use it to advance their own missions. Over time, we envisage that campaigns could eventually grow progressively larger and bolder as the movement grows. Eventually, it is conceivable that large swathes of a research community could decide on new sets of rules that they want to play by, and create systemic change through widespread collective action. 
+In the early days, we expect our campaigns to target simple actions (e.g., posting a preprint or uploading some data) and ask small numbers (tens or hundreds) of researchers to gently nudge their field in the directions they want to follow. Successful campaigns (those that reach the target threshold) can then be built on in future campaigns, which can target increasingly larger cohorts of researchers to take bolder steps toward academic reform. Eventually, with growing support, it is conceivable that entire research fields could effect widespread, systemic change in a relatively short period of time, vastly improving our own working conditions as we cooperate to build a better academia for all. 
 
-### How you can get involved
-Take a look at the various campaigns posted on our [landing page](https://freeourknowledge.org/) and pledge to those that you're interested in. New campaigns are currently being developed on our [Github repository](https://github.com/FreeOurKnowledge/community/issues). If you see something there that you're interested in, please make a comment or 'thumbs up' the original post to help us decide which campaigns have the most community traction. Alternatively, if you have an idea for a campaign that hasn't been proposed, feel free to propose it by [opening a new issue](https://github.com/FreeOurKnowledge/community/issues/new/choose). We'd also love it if you could follow us on [Twitter](https://twitter.com/projectFOK) and [Facebook](https://www.facebook.com/projectFOK), share our posts and sign up to our [mailing list](http://eepurl.com/dFVBVz). And obviously, tell your friends and colleagues! Alone we may be weak, but together we are strong.
+### How can you help?
+The best way to support this project is to take a pledge! And obviously, tell your friends and colleagues. We'd also love it if you could follow us on [Twitter](https://twitter.com/projectFOK) and [Facebook](https://www.facebook.com/projectFOK), share our posts and sign up to our [mailing list](http://eepurl.com/dFVBVz). Beyond that, there are plenty other ways to get involved with the project -- please check out our [Join Us] page to see how.
 
 ### Who are we?
-Project Free Our Knowledge is a grassroots movement being driven by early career researchers who seek a better future for our friends, colleagues and ourselves as we pursue careers in academia. We hope that diverse communities of individuals will come together to decide what the future of academia should look like *and then cooperate to make it happen*. At present, the project is being driven by:
+Project Free Our Knowledge is a grassroots movement driven by early career researchers who seek a better future for ourselves, our friends and our colleagues. At present, the project is being driven by:
 
 * [Cooper Smout](https://www.coopersmout.com/) (Primary lead)
-* [Dawn Liu Holford](https://www.essex.ac.uk/people/liuda52701/dawn-holford) (Secondary lead)
+* [Dawn Liu Holford](https://www.essex.ac.uk/people/liuda52701/dawn-holford)
 
 Supported by:
 
@@ -40,10 +43,8 @@ And advised by:
 * Alex Holcombe
 * Brian Nosek
 
-The [first version of the platform](https://github.com/FreeOurKnowledge/old_platform) was built by Codi Coop and [the current version](https://github.com/FreeOurKnowledge/website) was built by Cooper Smout using [Dean Attali's Beautiful Jekkyl template](https://github.com/daattali/beautiful-jekyll).
-
 ### Partner organisations
-The following organisations have agreed to help Project Free Our Knowledge reach wider audiences through their networks. We are grateful for their support.
+The following organisations are helping to grow Project Free Our Knowledge through their networks. 
 ![COS](assets/img/cos.png) ![UKRN](assets/img/UKRN.png) ![IGDORE](assets/img/IGDORE.png) 
 ![FOR](assets/img/future_of_research.png) ![OSMOOC](assets/img/osmooc.png)![BITSS](assets/img/bitss.png) 
 ![A2P](assets/img/Access2perspectives.png) ![PREreview](assets/img/PREreview.png)
