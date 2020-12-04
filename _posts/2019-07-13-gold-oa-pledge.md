@@ -6,7 +6,6 @@ gh-repo: freeourknowledge/community
 cover-img: /assets/img/handcuffs.jpg
 thumbnail-img: /assets/img/gold_key.png
 share-img: /assets/img/handcuffs.png
-tags: [publishing, open science, collective action]
 comments: true
 ---
 
