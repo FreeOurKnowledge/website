@@ -27,7 +27,7 @@ Project Free Our Knowledge is a grassroots movement driven by early career resea
 * [Cooper Smout](https://www.coopersmout.com/) (Primary lead)
 * [Dawn Liu Holford](https://www.essex.ac.uk/people/liuda52701/dawn-holford)
 
-With supported from:
+With support from:
 
 * Jay Patel
 * Megan Campbell
