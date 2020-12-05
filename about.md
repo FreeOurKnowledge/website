@@ -29,19 +29,16 @@ Project Free Our Knowledge is a grassroots movement driven by early career resea
 
 With support from:
 
-* Jay Patel
 * Megan Campbell
 * Kelly Garner
 * Claire Bradley
-* Udi Alter
 * Gavin Taylor
 
 And advised by:
 
-* Luis Pedro Coelho
-* Lillian Juma
 * Alex Holcombe
 * Brian Nosek
+* Daniela Saderi
 
 ### Partner organisations
 The following organisations have kindly offered to help increase our reach using their networks: 
