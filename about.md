@@ -31,8 +31,6 @@ With support from:
 
 * Megan Campbell
 * Kelly Garner
-* Claire Bradley
-* Gavin Taylor
 
 And advised by:
 
