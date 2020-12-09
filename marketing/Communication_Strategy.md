@@ -1,7 +1,6 @@
 # Communication Strategy
-Note: Much of this list was developed by Jon Tennant @protohedgehog for the [Open Scholarship Communication Strategy](https://github.com/Open-Scholarship-Strategy/site/edit/master/Communication_Strategy.md). May his hard work and passion for open science live on through this project.
 
-Note2: If you add anyhing here you should also add it to the ['Marketing blitz' issue template](https://github.com/FreeOurKnowledge/community/issues/templates/edit)
+Note: If you add anyhing here you should also add it to the ['Marketing blitz' issue template](https://github.com/FreeOurKnowledge/community/issues/templates/edit)
 
 ## Channels to contact with project updates
 If you're planning to contact organisations about a project update, [open a new 'marketing blitz' issue in Github](https://github.com/FreeOurKnowledge/community/issues/new/choose) and follow the template/checklist to keep track of who you've contacted. Write a different pitch for each of the following categories, then copy to all. 
@@ -64,6 +63,12 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [March for Science](https://www.facebook.com/marchforscience/)
 
 ### Twitter
+- [ ] @radicaloa @COPIMproject @FORsymp @openscicomm @IGDOREinstitute @UCBITSS @PREreview_ @OpenScienceMOOC @OSFramework (NB: many of these are FOK partners and we should develop more targeted strategy with, e.g. blog/news posts)
+- [ ] summary open science conferences: @open_con @OKFN @improvingpsych @aimos_inc
+- [ ] summary open science networks: @LIBEReurope @EIFLnet @sparc_na @sparc_eu @R2RC @force11rescomm @fosterscience
+- [ ] summary misc: 
+- [ ] [SIPS](https://twitter.com/improvingpsych)
+- [ ] [AIMOS](https://twitter.com/aimos_inc)
 - [ ] [LIBER](https://twitter.com/LIBEReurope)
 - [ ] [EIFL](https://twitter.com/EIFLnet)
 - [ ] [SPARC NA](https://twitter.com/sparc_na)
@@ -79,7 +84,6 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [OpenCon](https://twitter.com/open_con)
 - [ ] [Open Knowledge International](https://twitter.com/OKFN)
 - [ ] [Global Open Science Hardware Community](https://twitter.com/GOSHCommunity)
-- [ ] [SIPS](https://twitter.com/improvingpsych)
 - [ ] [OSI](https://twitter.com/OSIUnited)
 - [ ] [COPE](https://twitter.com/@C0PE)
 - [ ] [TriangleSCI](https://twitter.com/TriangleSCI)
@@ -88,7 +92,6 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [Open Scholarship Initiative](https://twitter.com/osiunited)
 - [ ] [Open Knowledge Maps](https://twitter.com/OK_Maps)
 - [ ] United Nations University
-- [ ] @radicaloa @COPIMproject @FORsymp @openscicomm @IGDOREinstitute @UCBITSS @PREreview_ @OpenScienceMOOC @OSFramework (NB: many of these are FOK partners and we should develop more targeted strategy with, e.g. blog/news posts)
 
 ### Petition/pledge sites (can we get access these mailing lists?)
 - [ ] [DORA](https://sfdora.org/signers/) \
@@ -148,4 +151,5 @@ Note that these channels are not populated when you create a 'marketing blitz' i
 ### Conferences
 - [ ] see https://www.freeourknowledge.org/pages/news/ for list of conference presentations to date
 
-
+_____
+Credit:Much of this list was developed by Jon Tennant @protohedgehog for the [Open Scholarship Communication Strategy](https://github.com/Open-Scholarship-Strategy/site/edit/master/Communication_Strategy.md). May his hard work and passion for open science live on through this project.
