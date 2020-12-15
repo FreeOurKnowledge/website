@@ -1,6 +1,6 @@
 # Communication Strategy
 
-Note: If you add anyhing here you should also add it to the ['Marketing blitz' issue template](https://github.com/FreeOurKnowledge/community/issues/templates/edit)
+Note: If you add anyhing here you should also add it to the ['Marketing checklist' issue template](https://github.com/FreeOurKnowledge/community/issues/templates/edit)
 
 ## Channels to contact with project updates
 If you're planning to contact organisations about a project update, [open a new 'marketing blitz' issue in Github](https://github.com/FreeOurKnowledge/community/issues/new/choose) and follow the template/checklist to keep track of who you've contacted. Write a different pitch for each of the following categories, then copy to all. 
@@ -50,7 +50,7 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [OpenAccess at Wikimedia](https://lists.wikimedia.org/mailman/listinfo/openaccess)
 - [ ] [Australian_OA_Community](australian_oa_community@mailman.anu.edu.au)
 - [ ] [EMCR Forum Australia](EMCR@science.org.au)
-- [ ] Liste des échos du RISC (ask Claire)
+- [ ] Liste des échos du RISC (ask Claire Bradley)
 - [ ] OpenScience-NL 
 - [ ] OpenScience-DE
 - [ ] Donders mailing list
