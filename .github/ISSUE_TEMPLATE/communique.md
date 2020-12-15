@@ -3,16 +3,18 @@ name: Marketing checklist
 about: Use this template to communicate a project update to various research communities
   (forums, blogs, etc)
 title: 'Marketing: <insert reason for communication here>'
-labels: 'marketing'
+labels: marketing
 assignees: CooperSmout
 
 ---
 
 <!---
+NOTE: THIS TEXT WILL DISAPPEAR WHEN THE ISSUE IS CREATED
 Fill out the template below and then check off communication outlets as you contact them (forums, mailing lists, etc)
 
 Note: additional communication outlets can be found in our complete [communication strategy](https://github.com/FreeOurKnowledge/community/edit/master/marketing/Communication_Strategy.md), for more custom occasions (e.g. contacting news outlets or writing targeted blog posts)
 ---> 
+
 ### Purpose of this marketing blitz
 <e.g., To inform people that the Github repository is now open for community input and collaboration>
 
@@ -50,6 +52,8 @@ Note: each of these channels needs it's own piece of text adapted to the format 
 
 ### Mailing lists
 <USE SAME TEXT AS SLACK CHANNELS, I.E. CONTAINING HYPERLINKS>
+- [ ] UCL Transparency mailing list (via Grace Gottlieb)
+- [ ] UKRN lists for local network leads (and possibly institutional leads?) -- mailing list to be confirmed with UKRN
 - [ ] [Schol Comm](mailto:scholcomm@lists.ala.org) 
 - [ ] [Open Science](mailto:open-science@lists.okfn.org) 
 - [ ] [GOAL](http://mailman.ecs.soton.ac.uk/pipermail/goal/)
@@ -61,7 +65,7 @@ Note: each of these channels needs it's own piece of text adapted to the format 
 - [ ] [OpenAccess at Wikimedia](https://lists.wikimedia.org/mailman/listinfo/openaccess)
 - [ ] [Australian_OA_Community](australian_oa_community@mailman.anu.edu.au)
 - [ ] [EMCR Forum Australia](EMCR@science.org.au)
-- [ ] Liste des échos du RISC (ask Claire)
+- [ ] Liste des échos du RISC (ask Claire Bradley)
 - [ ] OpenScience-NL 
 - [ ] OpenScience-DE
 - [ ] Donders mailing list
@@ -72,8 +76,11 @@ Note: each of these channels needs it's own piece of text adapted to the format 
 - [ ] [Reviewer 2 must be stopped](https://www.facebook.com/groups/reviewer2/)
 - [ ] [Psychological Methods Discussion Group](https://www.facebook.com/groups/853552931365745/)
 - [ ] [ACNS ECRs](https://www.facebook.com/groups/acns.ecr.group/)
+- [ ] [March for Science](https://www.facebook.com/marchforscience/)
 
 ### Twitter
+NOTE: need to figure out best Twitter strategy. For now, just tagged a few accounts from initial tweet. 
+
 <CREATE MULTI-COMMENT TWEET WITH LINKS, IMAGES, GIFS AND CALL TO ACTION (SEE [THIS EXAMPLE](https://twitter.com/projectFOK/status/1301362270107131905?s=20)), THEN TAG FOLLOWING ORGS BELOW POST. CAN ALSO MESSAGE SUPPORTERS DIRECTLY IN TWITTER, USING ONE OF THE OLD MESSAGE THREADS IN THE PROJECTFOK ACCOUNT, AND ASK THEM TO RETWEET/COMMENT.>
 - [ ] [LIBER](https://twitter.com/LIBEReurope)
 - [ ] [EIFL](https://twitter.com/EIFLnet)

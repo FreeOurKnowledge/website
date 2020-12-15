@@ -47,4 +47,3 @@ Thanks for proposing a new collective action campaign for Project FOK! Campaigns
 <!---
   Is there a time limit on how long pledges remain active (e.g., 2 years)? (in many cases this will be irrelevant as the pledge will simply expire after the action is carried out once) --->
 * Pledge duration: ?
-
