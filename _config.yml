@@ -17,7 +17,7 @@ navbar-links:
   About: "about"
   Resources:
     - News & Media: "news"
-#    - Frequently Asked Questions: "faq"
+    - Frequently Asked Questions: "faq"
   Join Us: "joinus"
 
 # --- Logo --- #
