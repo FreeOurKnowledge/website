@@ -1,3 +1,8 @@
+---
+layout: page
+title: Frequently Asked Questions
+---
+
 #### How do collective action campaigns work?
 **1. Propose**. Anyone can propose a collective action campaign that takes the form *"We will all do X (the 'action') when Y people (the 'threshold') have pledged"*. Campaigns can be developed using the issues feature in our [Github repository](https://github.com/freeourknowledge/website/issues) -- just add comments or reactions to any proposals that interest you (we'll use this to guide which campaigns get posted first) or create a new campaign by clicking 'new issue' and filling in the campaign proposal template. 
 **2. Pledge**. Once the campaign details have been ironed out and we've seen some traction in the community, we'll post it here on the website and invite researchers to take the pledge by filling in the pledge form. Note that *pledges remain inactive and anonymous until the predefined threshold is met in their research field*, meaning that individuals are protected from any possible risk or retribution until they have the support of their community. Pledgees can act on their pledge early, if they so desire, and/or choose to make their pledge public prior to it activating.
