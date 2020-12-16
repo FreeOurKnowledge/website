@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Frequently Asked Questions
-subtitle: If your question isn't answered below, feel free to get in touch via any of the channels shown at the bottom of this page  
+subtitle: If you have a question that isn't answered here, contact us via any of the channels at the bottom of this page  
 ---
 
 #### How do collective action campaigns work?
