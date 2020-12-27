@@ -16,7 +16,7 @@ Imagine if every researcher in the world decided that from tomorrow, we would do
 At Project Free Our Knowledge, we are building the world's first collective action platform for researchers. Using our website, researchers can make anonymous pledges to support certain progressive (e.g., open science) behaviours *if and when a critical mass of support for that behaviour is met in the community*. Then -- after the pre-determined number of pledges is reached -- we will publicize everyone who has pledged on our website and direct them to carry out the action together, thus protecting each other’s interests as they drive progress together.
 
 ### What is our vision for the future? 
-In the early days, we expect our campaigns will ask small cohorts of researchers (in the tens or hundreds of people) to adopt simple actions (e.g., uploading some data), demonstrating a public commitment to open science practices and gently nudging different research fields in the directions they want to follow. In the future, however, we plan to build on these small-scale successes to host ever-larger and bolder campaigns that ask thousands or even tens of thousands of researchers to adopt progressively bolder and system-changing behaviours (e.g., permanently changing one's publishing practices, or pressuring institutions to change their hiring practices). By probing the academic system from multiple directions at once, across multiple fields at once, we hope to tap into the latent desires of different research communities and, through collective action, empower disenfranchised researchers around the world to create positive change in academia.
+In the early days, we expect our campaigns will ask small cohorts of researchers (tens or hundreds of people) to adopt simple actions (e.g., uploading some data, posting a preprint, or supporting a new initiative in some way). In the future, however, we plan to build on these small-scale successes to host ever-larger and bolder campaigns that ask thousands or tens of thousands of researchers to adopt progressively bolder and system-changing behaviours (e.g., permanently changing one's publishing practices, or pressuring institutions to change their hiring practices). By probing the academic system from multiple directions at once, across multiple fields at once, we hope to tap into the latent desires of different research communities and, through collective action, empower disenfranchised researchers around the world to create positive change in academia.
 
 ### How can you help?
 First and foremost, make a pledge! Then tell your friends and colleagues about the project. It would also be great if you could follow us on [Twitter](https://twitter.com/projectFOK) and [Facebook](https://www.facebook.com/projectFOK), share our posts and sign up to our [mailing list](http://eepurl.com/dFVBVz). Beyond that, there are plenty other ways to get involved with the project -- check out our [Join Us](https://freeourknowledge.org/joinus/) page to find out how.
@@ -40,7 +40,8 @@ And advised by:
 * Daniela Saderi
 
 ### Partner organisations
-The following organisations have kindly offered to help increase our reach using their networks: 
+The following organisations have kindly offered to help increase our reach using their networks:
+
 ![COS](assets/img/cos.png) ![UKRN](assets/img/UKRN.png) ![IGDORE](assets/img/IGDORE.png) 
 ![FOR](assets/img/future_of_research.png) ![OSMOOC](assets/img/osmooc.png)![BITSS](assets/img/bitss.png) 
 ![A2P](assets/img/Access2perspectives.png) ![PREreview](assets/img/PREreview.png)
