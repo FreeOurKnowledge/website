@@ -35,6 +35,7 @@ With support from:
 
 And advised by:
 
+* Luis Pedro Coelho
 * Alex Holcombe
 * Brian Nosek
 * Daniela Saderi
