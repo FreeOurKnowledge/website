@@ -12,7 +12,7 @@ title: News & Media
 * 20 Feb 2019 - [Crowdfunding campaign](https://www.gofundme.com/f/rpjkz-test) launched
 * 8 July 2019 - Prototype platform launched at SIPS2019 conference
 * 17 July 2019 - [Wellcome Open Research Fund proposal](https://docs.google.com/document/d/1D5Il4sEEeVZ56xURgkFZRWjjaThXEqZJ0JyDP1DNwDY/edit?usp=sharing) submitted (shortlisted from 100+ applications, invited to submit full proposal, rejected)
-* 23 July 2019 - [Digital Science Catalyst Grant proposal]((https://docs.google.com/document/d/1SHccmUiQf59rwefbzQWAhr3PyCiGbr2bLCsAzKIvKb0/edit?usp=sharing)) submitted (shortlisted, rejected)
+* 23 July 2019 - [Digital Science Catalyst Grant proposal](https://docs.google.com/document/d/1SHccmUiQf59rwefbzQWAhr3PyCiGbr2bLCsAzKIvKb0/edit?usp=sharing) submitted (shortlisted, rejected)
 * 7 Nov 2019 - Project FOK presented at the Interdisciplinary Meta-research & Open Science conference (University of Melbourne, Australia)
 * 10 Dec 2019 - Project FOK presented at the Re:produce workshop (Brisbane, Australia)
 * 26 June 2020 - [Live introduction to project FOK](https://www.youtube.com/watch?v=_JTPtyPrMLM) at the OHBM Open Science Room
