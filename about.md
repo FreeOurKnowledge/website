@@ -22,16 +22,18 @@ In the early days, we expect our campaigns will ask small cohorts of researchers
 First and foremost, make a pledge! Then tell your friends and colleagues about the project. It would also be great if you could follow us on [Twitter](https://twitter.com/projectFOK) and [Facebook](https://www.facebook.com/projectFOK), share our posts and sign up to our [mailing list](http://eepurl.com/dFVBVz). Beyond that, there are plenty other ways to get involved with the project -- check out our [Join Us](https://freeourknowledge.org/joinus/) page to find out how.
 
 ### Who are we?
-Project Free Our Knowledge is a grassroots movement driven by early career researchers who seek a fairer and more secure future in academia for our friends and colleagues. We are currently 100% self-funded (but seeking support!). At present, the project is driven by:
+Project Free Our Knowledge is a grassroots movement driven by early career researchers who seek a fairer and more secure future in academia for our friends and colleagues. We are currently 100% self-funded (but seeking support!). The project is currently driven by:
 
-* [Cooper Smout](https://www.coopersmout.com/) (Primary lead)
+* [Cooper Smout](https://www.coopersmout.com/)
+
+And has been supported by:
+
 * [Dawn Liu Holford](https://www.essex.ac.uk/people/liuda52701/dawn-holford)
-
-With support from:
-
 * Megan Campbell
 * Kelly Garner
 * Jon Tennant
+* Claire Bradley
+(among others)
 
 And advised by:
 
