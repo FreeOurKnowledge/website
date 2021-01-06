@@ -36,8 +36,8 @@
 * ~~Mozilla research grant? <$50k (opening Sept/Oct) - req's specific themes~~ 
 * ~~Sloan Foundation https://sloan.org/grants/apply#tab-letters-of-inquiry~~ 
 * ~~AMP tomorrow fund (27 May 2019)** https://www.ampstomorrowfund.com.au/faqs/~~ 
-* ~~Welcome Open Research Fund, Full Application £50k (3 September 2019) https://wellcome.ac.uk/funding/open-research-fund~~ -- [submitted proposal](https://docs.google.com/document/d/1D5Il4sEEeVZ56xURgkFZRWjjaThXEqZJ0JyDP1DNwDY/edit?usp=sharing)
-* ~~Digital Science (30 June 2019) https://www.digital-science.com/investment/catalyst-grant/~~ -- [submitted proposal](https://docs.google.com/document/d/1SHccmUiQf59rwefbzQWAhr3PyCiGbr2bLCsAzKIvKb0/edit?usp=sharing)
+* ~~Welcome Open Research Fund, Full Application £50k (3 September 2019) https://wellcome.ac.uk/funding/open-research-fund~~ -- [[submitted proposal]](https://docs.google.com/document/d/1D5Il4sEEeVZ56xURgkFZRWjjaThXEqZJ0JyDP1DNwDY/edit?usp=sharing)
+* ~~Digital Science (30 June 2019) https://www.digital-science.com/investment/catalyst-grant/~~ -- [[submitted proposal]](https://docs.google.com/document/d/1SHccmUiQf59rwefbzQWAhr3PyCiGbr2bLCsAzKIvKb0/edit?usp=sharing)
 
 ### Crowdfunding (bold = initiated)
 * **GoFundMe.com, https://www.gofundme.com/f/rpjkz-test**
