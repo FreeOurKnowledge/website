@@ -19,7 +19,7 @@ title: News & Media
 * 26 June 2020 - [Live introduction to project FOK](https://www.youtube.com/watch?v=_JTPtyPrMLM) at the OHBM Open Science Room
 * 29 June 2020 - Discussion opened on [BehSciMeta Forum](https://www.reddit.com/r/BehSciMeta/comments/hi0b1p/collective_campaigns_for_change_in_academia_a/?utm_source=share&utm_medium=web2x&context=3)
 * 2 July 2020 - [Developing collective action campaigns](https://www.youtube.com/watch?v=5LJbzztPpME) workshop at the OHBM Open Science Room
-* 22 Sept 2020 - Discussion opened on [On Science and Academia Forum](https://onscienceandacademia.org/t/project-free-our-knowledge-fixing-academia-with-collective-action/851/8)
+* 22 Sept 2020 - Discussion opened on [On Science and Academia Forum](https://onscienceandacademia.org/t/project-free-our-knowledge-fixing-academia-with-collective-action/851/)
 * 13 Oct 2020 - Project FOK [partners with the UK Reproducibility Network](https://www.ukrn.org/2020/10/13/ukrn-partnering-project-fok/)
 * 27 Nov 2020 - New website launched
 * 3 Dec 2020 - Preregistration campaign launch at AIMOS2020 conference (University of Sydney/NSW, Australia) [ [slides](https://docs.google.com/presentation/d/1nXDTM4EmKId93ClKNRQVCncAMmm1y8Z398TU2bm32eI/edit?usp=sharing) / [recording](https://youtu.be/vzB7Vh_gkLs) ]
