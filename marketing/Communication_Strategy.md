@@ -19,7 +19,7 @@ If you're planning to contact organisations about a project update, [open a new 
 
 ### Discussion forum threads
 - [ ] [Pubreform](https://gitlab.com/publishing-reform/discussion/-/issues/78) (original discussion forum)
-- [ ] [On science and academia](https://forum.igdore.org/t/project-free-our-knowledge-fixing-academia-with-collective-action/851)
+- [ ] [On science and academia](https://onscienceandacademia.org/t/project-free-our-knowledge-fixing-academia-with-collective-action/851/8)
 - [ ] [Behsci](https://www.reddit.com/r/BehSciMeta/comments/hi0b1p/collective_campaigns_for_change_in_academia_a/?utm_source=share&utm_medium=web2x&context=3)
 
 ### Slack workspaces
