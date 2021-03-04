@@ -12,12 +12,10 @@ comments: true
 [Preregistration](https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration#Go-to-the-OSF-Prereg-Challenge-landing-page) is a time-stamped, publicly available document that researchers use to specify their research objectives, hypotheses, data collection protocol and analysis plans prior to beginning a study. This campaign asks you to **preregister at least one study in the two years after your pledge activates**.
 
 #### Why join this campaign?
-Preregistration can [improve the reliability of scientific research and hypothesis testing](https://www.pnas.org/content/115/11/2600#sec-15), [mitigate questionable research practices](https://www.pnas.org/content/115/11/2600) and reduce the waste of scientific resources. Although preregistration is common in a few fields (e.g., medicine), it is rare in most others -- largely due to cultural inertia that disincentivises straying from the norm. 
-
-By joining this campaign, you will help to make preregistration the norm in your field of research. Although 100 preregistrations may seem like a drop in the ocean, future campaigns will build on this one until such time that preregistration is the default in each field, rather than the exception.
+Preregistration [improves the reliability of scientific research and hypothesis testing](https://www.pnas.org/content/115/11/2600#sec-15), [mitigates questionable research practices](https://www.pnas.org/content/115/11/2600) and reduces the waste of scientific resources. Although preregistration is common in some fields (e.g., medicine), it is rare in most others -- largely due to cultural inertia that disincentivises straying from the norm. By joining this campaign, you will help to normalise preregistration in your field of research. 
 
 #### When do I do it?
-Your pledge will activate when 100 people from your field have joined the pledge, at which time your name will be displayed on this page and we'll contact you to let you know that your pledge has activated. From that time, you'll have two years to complete a preregistration on any of the [available preregistration platforms](https://osf.io/zab38/wiki/home/?view). You can of course get started on your preregistration in the meantime, if you wish.
+Your pledge will activate when 100 people from your field have joined the campaign. We will contact you at this time, list everyone who has taken the pledge, and then give everyone 2 years to complete their preregistration (using any of the [available preregistration platforms](https://osf.io/zab38/wiki/home/?view)). You can of course get started on your preregistration in the meantime, if you wish.
 
 #### Who else has pledged?
 <iframe width='100%' height='250' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=1236919136&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
