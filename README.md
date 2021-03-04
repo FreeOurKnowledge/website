@@ -1,6 +1,9 @@
 # Free Our Knowledge website and discussion forum
 
-Hi! Thanks for dropping by. Welcome to the open research revolution :)
+Hi! Thanks for dropping by :)
+
+### Vision Statement
+We're building a platform that helps researchers organise the collective uptake of open research practices, so that groups of individuals can do the best research possible without risking their careers in the process. 
 
 ### About the project
 Academia is trapped in a collective action problem, whereby individuals are incentivised to act against the best interests of their community and, ultimately, themselves. For example, sharing data and code could allow researchers to validate and build on each others’ work more efficiently, thus saving countless hours of duplicated effort, but individuals may worry that doing so will place them at a competitive disadvantage. Similarly, publishing research in fee-free ('Platinum') open access journals could drastically decrease publication costs and place the control of scholarly communication in the hands of the research community, but individuals may worry that these outlets do not confer sufficient prestige to ensure their survival in a competitive job market. Problems like these -- in which groups of individuals fail to reach a preferable state due to conflicting personal interests -- are known as [collective action problems](https://en.wikipedia.org/wiki/Collective_action_problem)) and can often be resolved by organising a critical mass of individuals to take action in a coordinated manner ('collective action'; Olson, 1965). Despite the increasing use of the internet to organise collective action on a global scale, however (e.g., Kickstarter, Collaction), the global research community has yet to embrace collective action as a potential catalyst for positive cultural change in academia. 
