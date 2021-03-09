@@ -15,9 +15,9 @@ comments: true
 Preregistration [improves the reliability of scientific research and hypothesis testing](https://www.pnas.org/content/115/11/2600#sec-15), [mitigates questionable research practices](https://www.pnas.org/content/115/11/2600) and reduces the waste of scientific resources. Although preregistration is common in some fields (e.g., medicine), it is rare in most others -- largely due to cultural inertia that disincentivises straying from the norm. By joining this campaign, you will help to normalise preregistration in your field of research. 
 
 #### When do I do it?
-Your pledge will activate when 100 people from your field have joined the campaign. We will contact you at this time, list everyone who has taken the pledge, and then give everyone 2 years to complete their preregistration (using any of the [available preregistration platforms](https://osf.io/zab38/wiki/home/?view)). You can of course get started on your preregistration in the meantime, if you wish.
+Your pledge will activate when 100 people from your field have joined the campaign. If the target is met, we will list everyone who pledged here on this website, contact them to let them know their pledge is now active, and then prgressively tick off everyone's name as they complete preregistration (using any of the [available preregistration platforms](https://osf.io/zab38/wiki/home/?view)). You can of course get started on your preregistration in the meantime, if you wish.
 
-#### Who else has pledged?
+#### How many have pledged so far?
 <iframe width='100%' height='250' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=1236919136&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 (see the full list of anonymized pledges [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=492450582&single=true))
 
