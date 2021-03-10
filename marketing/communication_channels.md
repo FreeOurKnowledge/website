@@ -6,16 +6,20 @@ Note: If you add anyhing here you should also add it to the ['Marketing checklis
 If you're planning to contact organisations about a project update, [open a new 'marketing blitz' issue in Github](https://github.com/FreeOurKnowledge/community/issues/new/choose) and follow the template/checklist to keep track of who you've contacted. Write a different pitch for each of the following categories, then copy to all. 
 
 ### Internal channels (FOK)
-- [ ] [mailing list](http://eepurl.com/dFVBVz) (for ~monthly newsletters, but only one directional)
-- [ ] [Twitter](https://twitter.com/projectfok)
+- [ ] [Mailing list (general)](http://eepurl.com/dFVBVz) (mention campaign in newsletter)
+- [ ] [Mailing list (campaign-specific)](http://eepurl.com/dFVBVz) (provide text to share on social media)
 - [ ] [Github Issues](https://github.com/FreeOurKnowledge/discussion/issues) (for discussing campaigns)
 - [ ] [Project board](https://github.com/orgs/FreeOurKnowledge/projects/1) (for organising tasks)
 - [ ] Project email (info_at_freeourknowledge.org)
 - [ ] [GoFundMe](https://gf.me/u/yw45tk) (for donations)
-- [ ] [Facebook](https://www.facebook.com/projectFOK)
 - [ ] [Google group](https://groups.google.com/g/free-our-knowledge-community)
 - [ ] ~~[Slack](https://join.slack.com/t/freeourknowledge/shared_invite/zt-5vknfa01-8d6ytqNM92X9NwaptisVyg)~~ (pretty much defunct due to inactivity)
 - [ ] ~~[Google doc](https://docs.google.com/document/d/1imcjyJzcxlP2CGag7jj7tx06Vs1bSoxJ4rdJwkLsuZU/edit)~~ (for discussing campaigns, now superceded by Github)
+
+### Social media
+- [ ] [Twitter](https://twitter.com/projectfok)
+- [ ] [Facebook](https://www.facebook.com/projectFOK)
+- [ ] [LinkedIn](https://www.linkedin.com/mynetwork/)
 
 ### Discussion forum threads
 - [ ] [Pubreform](https://gitlab.com/publishing-reform/discussion/-/issues/78) (original discussion forum)
