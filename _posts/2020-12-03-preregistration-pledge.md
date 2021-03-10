@@ -18,7 +18,7 @@ Preregistration [improves the reliability of scientific research and hypothesis 
 Your pledge will activate when 100 people from your field have joined the campaign. If the target is met, we'll list everyone who has pledged here, contact them to let them know their pledge is active, and then prgressively tick off everyone's name as they post their preregistration to any of the [available preregistration platforms](https://osf.io/zab38/wiki/home/?view)). You can of course get started on your preregistration in the meantime, if you wish.
 
 #### How many have pledged so far?
-<iframe width='100%' height='170' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=1236919136&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='100%' height='180' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=1236919136&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 (see the full list of anonymized pledges [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIZaK14oSyqw4m9pZnZZcXEACBsuXpG6SM4PEsHA_bIYODuepWFeH9cabtZBlKlHlGWGgXQUVvZuty/pubhtml?gid=492450582&single=true))
 
 #### Take the pledge!
