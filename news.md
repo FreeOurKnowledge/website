@@ -19,6 +19,7 @@ title: News & Media
 * 26 June 2020 - [Live introduction to project FOK](https://www.youtube.com/watch?v=_JTPtyPrMLM) at the OHBM Open Science Room
 * 29 June 2020 - Discussion opened on [BehSciMeta Forum](https://www.reddit.com/r/BehSciMeta/comments/hi0b1p/collective_campaigns_for_change_in_academia_a/?utm_source=share&utm_medium=web2x&context=3)
 * 2 July 2020 - [Developing collective action campaigns](https://www.youtube.com/watch?v=5LJbzztPpME) workshop at the OHBM Open Science Room
+* 9 Sept 2020 - Cooper Smout and Dawn Lui present [The Psychological Science *Publishing* Accelerator: A Distributed Communication and Evaluation Network](https://youtu.be/aKHMcTsO6Eg) at the inaugural [Psychological Science Accelerator conference](https://psysciacc.org/psacon2020-videos/)
 * 22 Sept 2020 - Discussion opened on [On Science and Academia Forum](https://onscienceandacademia.org/t/project-free-our-knowledge-fixing-academia-with-collective-action/851/)
 * 13 Oct 2020 - Project FOK [partners with the UK Reproducibility Network](https://www.ukrn.org/2020/10/13/ukrn-partnering-project-fok/)
 * 27 Nov 2020 - New website launched
