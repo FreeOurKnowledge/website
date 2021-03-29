@@ -15,9 +15,8 @@ author: Free Our Knowledge
 
 navbar-links:
   About: "about"
-  Resources:
-    - News & Media: "news"
-    - Frequently Asked Questions: "faq"
+  News & Media: "news"
+  Frequently Asked Questions: "faq"
   Join Us: "joinus"
 
 # --- Logo --- #
