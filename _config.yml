@@ -14,9 +14,12 @@ author: Free Our Knowledge
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Campaigns: "/"
+  Proposals: "https://github.com/FreeOurKnowledge/website/issues"
   About: "about"
-  News & Media: "news"
-  Frequently Asked Questions: "faq"
+  Resources:
+    - News & Media: "news"
+    - Frequently Asked Questions: "faq"
   Join Us: "joinus"
 
 # --- Logo --- #
