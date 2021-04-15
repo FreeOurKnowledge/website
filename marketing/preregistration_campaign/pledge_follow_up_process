@@ -1,6 +1,4 @@
 1. Check data has imported to Google Sheets correctly
 2. Check field -- is it a new one? If so, does it conform with BePress Taxonomy? If not, email pledger about changing
-3. Copy data into Mailchimp manually 
-4. Send email to new pledgee (weekly):
-
-Hi...
+3. Copy data from Google Sheets into Mailchimp manually 
+4. Send Mailchimp email to new pledgees
