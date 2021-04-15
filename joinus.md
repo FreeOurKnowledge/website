@@ -3,13 +3,17 @@ layout: page
 title: Join Us
 ---
 
-There are multiple ways you can get involved with the project, beyond pledging to campaigns and sharing them with your friends and colleagues. New campaigns are currently being developed on our [Github repository](https://github.com/FreeOurKnowledge/community/issues). If you see something there that you're interested in, please add any feedback you might have and a 'thumbs up' to show which campaigns are likely to get traction. Or, if you have an idea for a campaign that hasn't been proposed, feel free to propose it by [opening a new issue](https://github.com/FreeOurKnowledge/community/issues/new/choose).
+There are many ways you can get involved with the project, beyond pledging to campaigns and sharing them with your friends and colleagues:
 
-Here are some other ways you can contribute:
+*Join our [mailing list](http://eepurl.com/dFVBVz)* to stay informed as we develop the project.
+
+*Follow us on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)* 
+
+*Develop new campaigns*. You can propose new campaigns on our [Github repository](https://github.com/FreeOurKnowledge/website/issues?q=is%3Aopen+is%3Aissue+label%3Adraft-campaign) by [opening a new issue](https://github.com/FreeOurKnowledge/community/issues/new/choose), or if you see a proposal that you're interested in, add any feedback you might have and a 'thumbs up' to show which campaigns are likely to get traction. Once we see that proposed campaigns have a  Or, if you have an idea for a campaign that hasn't been proposed, feel free to propose it by .
 
 *Donate/share our crowdfunding campaign*. We are a researcher-driven initiative and currently 100% self-funded. If you can afford a few dollars to sponsor our platform development, or would be willing to share to your networks, please do so [here](https://www.gofundme.com/f/rpjkz-test). 
 
-*Ambassadors*. We're looking for people who can help spread the word to friends and colleagues within their institutions and research fields (e.g. via presentations, social media, and casual discussions). 
+*Become an ambassador*. We're looking for people who can help spread the word to friends and colleagues within their institutions and research fields (e.g. via presentations, social media, and casual discussions). 
 
 *Communications and marketing*. We're looking for skilled communicator/s who can help spread the word about this project (e.g. via social media, blogs, articles, and advertising).
 
