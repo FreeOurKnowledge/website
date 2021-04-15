@@ -3,7 +3,7 @@ layout: page
 title: Join Us
 ---
 
-There are many ways you can get involved with the project, beyond pledging to campaigns and sharing them with your friends and colleagues:
+There are many ways you can get involved with the project, beyond pledging to [campaigns](/campaigns) and sharing them with your friends and colleagues:
 
 * *Join our [mailing list](http://eepurl.com/dFVBVz)* to stay informed as we develop the project.
 * *Follow us on [Twitter](https://twitter.com/projectfok) and [Facebook](https://www.facebook.com/projectFOK/)* 
