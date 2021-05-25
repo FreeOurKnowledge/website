@@ -45,24 +45,24 @@ social-network-links:
   facebook: projectFOK
   github: FreeOurKnowledge/website
   twitter: projectFOK
-#  patreon: DeanAttali
-  youtube: "channel/UCmB-H9l2qK8dmCiXaYi9a2g"
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  TEST: "channel/UCmB-H9l2qK8dmCiXaYi9a2g"
+  patreon: DeanAttali
+  reddit: yourname
+  linkedin: daattali
+  xing: yourname
+  stackoverflow: "3943160/daattali"
+  snapchat: deanat78
+  instagram: deanat78
+  spotify: yourname
+  telephone: +14159998888
+  steam: deanat78
+  twitch: yourname
+  yelp: yourname
+  telegram: yourname
+  calendly: yourname
+  mastodon: instance.url/@username
+  ORCID: your ORCID ID
+  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
