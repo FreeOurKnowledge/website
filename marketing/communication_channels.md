@@ -21,6 +21,15 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [Facebook](https://www.facebook.com/projectFOK)
 - [ ] [LinkedIn](https://www.linkedin.com/mynetwork/)
 
+### Blogs
+- [ ] [UKRN](https://www.ukrn.org/news/)
+- [ ] [Centre for Open Science](https://www.cos.io/blog) -- contact Claire Riss
+- [ ] [Cooper Smout homepage](https://coopersmout.com/)
+- [ ] [Joint Roadmap for Open Science Tools](https://jrost.org/blog)
+- [ ] [BITSS](https://www.bitss.org/blog/) -- contact Aleksandar Bogdanoski
+- [ ] [Open Science MOOC](https://opensciencemooc.eu/blog/)
+- [ ] Future of Research](https://www.futureofresearch.org/blog/)
+
 ### Discussion forum threads
 - [ ] [Pubreform](https://gitlab.com/publishing-reform/discussion/-/issues/78) (original discussion forum)
 - [ ] [On science and academia](https://onscienceandacademia.org/t/project-free-our-knowledge-fixing-academia-with-collective-action/851/8)
