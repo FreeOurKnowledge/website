@@ -160,6 +160,20 @@ Note that these channels are not populated when you create a 'marketing blitz' i
 - [ ] Michael Eisen
 - [ ] Brian Nosek
 - [ ] [Susannah Harris](https://twitter.com/CoopSmout/status/1301453772057534464?s=20)
+- [ ] Timothy Gowers
+- [ ] David Prosser (the head of Research Libraries UK, and a prominent voice for reforming the publishing industry)
+- [ ] Brett T. Buttliere
+- [ ] Sydney Brenner (Nobel laureate)
+- [ ] Alexandra Elbakyan (Sci-Hub founder)
+- [ ] Authors of “Reproducibility Initiative” (Baker, 2012)
+- [ ] Authors of “Reproducibility Project” (Collaboration, 2012)
+- [ ] [Chris Chambers](http://neurochambers.blogspot.com.au/)
+- [ ] [Tal Yarkoni](https://www.talyarkoni.org/blog/2016/12/12/why-i-still-wont-review-for-or-publish-with-elsevier-and-think-you-shouldnt-either/)
+- [ ] Richard Morey
+- [ ] Alexander Holcombe
+- [ ] [Simon Batterbury](https://simonbatterbury.wordpress.com/2015/10/25/list-of-open-access-journals/)
+- [ ] Scott Aaronson (“…much of the serious content on the Internet remains sequestered behind pointless, artificial walls—walls that serve the interests of neither the readers nor the authors, but only of the wall-builders themselves. If I have a medical problem, why can’t I download the full text of clinical studies dealing with that problem? Why do so many researchers still not post their papers on their web pages—or if they do, then omit their early papers? When will we in academia get our act together enough to make the world’s scholarly output readable, for free, by anyone with a web browser?"
+- Sir/Prof. Tim Gowers (argues, journals these days exist only to accommodate author prestige)
 
 ### Conferences
 - [ ] see https://www.freeourknowledge.org/pages/news/ for list of conference presentations to date
