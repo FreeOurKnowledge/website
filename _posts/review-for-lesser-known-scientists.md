@@ -9,11 +9,11 @@ share-img: /assets/img/prereg-badge.png
 comments: true
 ---
 
-[brief intro]
-
 #### Why join this campaign?
 
-#### When will I do it?
+#### What are we being asked to do?
+
+#### When will we take action?
 
 #### Who has pledged so far?
 
