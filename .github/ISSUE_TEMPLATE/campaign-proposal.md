@@ -41,9 +41,5 @@ Thanks for proposing a new collective action campaign for Project FOK! Campaigns
 * Threshold: ?
 
 <!---
-  Will the campaign expire if the threshold is not reached within a certain time frame (e.g. 1 year)? --->
-* Campaign expiration: ?
-
-<!---
-  Is there a time limit on how long pledges remain active (e.g., 2 years)? (in many cases this will be irrelevant as the pledge will simply expire after the action is carried out once) --->
+  Will the action be carried out for a particular duration (e.g., boycott certain journals for 2 years)? Otherwise, if this field is irrelevant (e.g., the pledge relates to a single action) you can just delete this part --->
 * Pledge duration: ?
