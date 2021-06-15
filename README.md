@@ -27,4 +27,4 @@ This repository contains the code to build the FOK [website](https://www.freeour
 
 ___
 ### Credit
-This website was built using [Beautiful Jekkyl](https://beautifuljekyll.com/) by [Dean Attali](https://deanattali.com)
+This website was built using [Beautiful Jekkyl](https://beautifuljekyll.com/) by [Dean Attali](https://deanattali.com), forked and edited by [Cooper Smout](https://github.com/coopersmout)
