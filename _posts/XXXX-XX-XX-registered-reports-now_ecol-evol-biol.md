@@ -16,10 +16,10 @@ comments: true
 [Registered Reports](https://www.cos.io/initiatives/registered-reports) implement peer review prior to data collection. This format alleviates numerous questionable research practices by accepting articles before results exist. However, despite their importance in increasing the transparency and reliability of research findings, they are rarely implemented in ecology and evolutionary biology. We are planning to send letters to journal editors in our field to adopt the Registered Reports format at the upcoming [SORTEE conference](https://www.sortee.org/events/). This campaign aims to collect expressions of interest from researchers who are happy to co-sign the letters that we send. 
 
 #### What happens next
-We will finalise the [letters](https://hackmd.io/@TQgKoSxnS1WWNgHDQ-8mwA/B1n3olLs_/edit) and send them out during the SORTEE hackathon. If you've indicated below that you're happy with whatever letter we draft and send (which will follow the format used in previous Registered Reports Now campaigns, seen [here](https://osf.io/3wct2/wiki/Journal%20Requests/)), no further action is required. Otherwise, we'll contact you to confirm your support prior to publicising your name. 
+We will send the [letters](https://hackmd.io/@TQgKoSxnS1WWNgHDQ-8mwA/B1n3olLs_/edit) to various journal editors during the SORTEE hackathon. Your name will be listed in the letters, and we will also reference this page for any extra signatures we collect after the hackathon is completed. 
 
 #### How else can I help?
-Please join us at the [SORTEE conference hackathon](https://www.sortee.org/events/) to co-write and send the letter to various journal editors in our field.
+Please join us at the [SORTEE conference hackathon](https://www.sortee.org/events/) to help email the letters out!
 
 #### How many people have expressed interest so far?
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTb_QAPp_OknrZER5eiVax9T0IlSIfZ5sz2-gYp4yblpQQqEADqiIplP_gZfCFPXdpnexfDQ9VNnxaA/pubhtml?gid=418682928&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
