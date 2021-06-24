@@ -13,10 +13,10 @@ comments: true
 
 
 #### Why is this campaign needed?
-[Registered Reports](https://www.cos.io/initiatives/registered-reports) implement peer review prior to data collection. This format alleviates numerous questionable research practices by accepting articles before results exist. However, despite their importance in increasing the transparency and reliability of research findings, they are rarely implemented in ecology and evolutionary biology. We are planning to send letters to journal editors in our field to adopt the Registered Reports format at the upcoming [SORTEE conference](https://www.sortee.org/events/). This campaign aims to collect expressions of interest from researchers who are happy to co-sign the letters that we send. 
+[Registered Reports](https://www.cos.io/initiatives/registered-reports) implement peer review prior to data collection. This format alleviates numerous questionable research practices by accepting articles before results exist. However, despite their importance in increasing the transparency and reliability of research findings, they are rarely implemented in ecology and evolutionary biology. At the upcoming [SORTEE conference](https://www.sortee.org/events/), we are planning to send letters to the editors of [various journals](https://docs.google.com/spreadsheets/d/10jxNH0g3SKqTSjO0UfKMAxZsJAxhRrzBl9u5zfqVltQ/edit?usp=sharing) in our field asking them to adopt the Registered Reports format. This campaign will collect expressions of interest from researchers who are happy to co-sign the letters that we send. 
 
 #### What happens next
-We will send the [letters](https://hackmd.io/@TQgKoSxnS1WWNgHDQ-8mwA/B1n3olLs_/edit) to various journal editors during the SORTEE hackathon. Your name will be listed in the letters, and we will also reference this page for any extra signatures we collect after the hackathon is completed. 
+We will send the [letter](https://unsw-my.sharepoint.com/:w:/g/personal/z5288536_ad_unsw_edu_au/EWub6kuVB-pHpxJ88VKU0DkBxxj8HfEl63yKnYHykG0Zhg?e=qFx0vgand) to journal editors during the SORTEE hackathon. Your name will be listed in the letters, and we will also reference this page for any extra signatures we collect after the hackathon is completed. 
 
 #### How else can I help?
 Please join us at the [SORTEE conference hackathon](https://www.sortee.org/events/) to help email the letters out!
