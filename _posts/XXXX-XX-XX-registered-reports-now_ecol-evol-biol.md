@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Expression of Interest for Registered Reports Now Campaign (Ecology and Evolutionary Biology)
-subtitle: Pre-commit to signing a letter of support that we plan to write and distribute to editors of Ecology and Evolutionary Biology journals, asking them to adopt the Registered Reports format
+title: Petition journal editors to implement Registered Reports (Ecology and Evolutionary Biology)
+subtitle: Co-sign a letter that we will send to editors of Ecology and Evolutionary Biology journals at the upcoming SORTEE conference, asking them to adopt the Registered Reports format
 gh-repo: freeourknowledge/website
 cover-img: /assets/img/registered_reports.png
 thumbnail-img: /assets/img/registered_reports.png
