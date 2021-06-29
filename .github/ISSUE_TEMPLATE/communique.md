@@ -17,41 +17,55 @@ Note: additional communication outlets can be found in our complete [communicati
 
 ### Purpose of this marketing blitz
 <e.g., To inform people that the Github repository is now open for community input and collaboration>
-
 *Once you've contacted the relevant channels below, check them off to keep track of where you're at*
 
-### Internal channels (FOK)
-Note: each of these channels needs it's own piece of text adapted to the format (can borrow from below)
-- [ ] Mailchimp mailing list -- send out newsletter with project update/s (check with Cooper if any other info to include)
-- [ ] [Twitter](https://twitter.com/projectfok) -- see bottom of this list for directions
-- [ ] [Github Project](https://github.com/orgs/FreeOurKnowledge/projects/1) -- to the right of this issue, click 'Projects' and allocate to 'FOK Kanban'
-- [ ] [Facebook](https://www.facebook.com/projectFOK) -- check that the newsletter has auto-linked
-- [ ] [Google group](https://groups.google.com/g/free-our-knowledge-community) -- only need to use if there's a private discussion to be had about this marketing blitz
+##### NOTE: THE CHECKLISTS BELOW SHOULD BE A DIRECT COPY OF THE [COMMUNICATION CHANNELS FILE](https://github.com/FreeOurKnowledge/website/blob/master/marketing/communication_channels.md). IF IT ISN'T, OVERWRITE THE TEMPLATE BY CLICKING 'PREVIEW AND EDIT' [HERE](https://github.com/FreeOurKnowledge/website/issues/templates/edit) AND COPYING IN THE CHECKLISTS)
 
-### Discussion forums
-<CREATE R-MARKDOWN FILE (SEE [THIS EXAMPLE](https://github.com/FreeOurKnowledge/community/blob/master/marketing/blitz1/discussion_forum)) AND LINK HERE FOR REFERENCE>
+### Internal channels (FOK)
+- [ ] [Mailing list (general)](http://eepurl.com/dFVBVz) (mention campaign in newsletter)
+- [ ] [Mailing list (campaign-specific)](http://eepurl.com/dFVBVz) (provide text to share on social media)
+- [ ] [Github Issues](https://github.com/FreeOurKnowledge/discussion/issues) (for discussing campaigns)
+- [ ] [Project board](https://github.com/orgs/FreeOurKnowledge/projects/1) (for organising tasks)
+- [ ] Project email (info_at_freeourknowledge.org)
+- [ ] [GoFundMe](https://gf.me/u/yw45tk) (for donations)
+- [ ] [Google group](https://groups.google.com/g/free-our-knowledge-community)
+- [ ] ~~[Slack](https://join.slack.com/t/freeourknowledge/shared_invite/zt-5vknfa01-8d6ytqNM92X9NwaptisVyg)~~ (pretty much defunct due to inactivity)
+- [ ] ~~[Google doc](https://docs.google.com/document/d/1imcjyJzcxlP2CGag7jj7tx06Vs1bSoxJ4rdJwkLsuZU/edit)~~ (for discussing campaigns, now superceded by Github)
+
+### Social media
+- [ ] [Twitter](https://twitter.com/projectfok)
+- [ ] [Facebook](https://www.facebook.com/projectFOK)
+- [ ] [LinkedIn](https://www.linkedin.com/mynetwork/)
+
+### Blogs
+- [ ] [UKRN](https://www.ukrn.org/news/)
+- [ ] [Centre for Open Science](https://www.cos.io/blog) -- contact Claire Riss
+- [ ] [Cooper Smout homepage](https://coopersmout.com/)
+- [ ] [Joint Roadmap for Open Science Tools](https://jrost.org/blog)
+- [ ] [BITSS](https://www.bitss.org/blog/) -- contact Aleksandar Bogdanoski
+- [ ] [Open Science MOOC](https://opensciencemooc.eu/blog/)
+- [ ] Future of Research](https://www.futureofresearch.org/blog/)
+
+### Discussion forum threads
 - [ ] [Pubreform](https://gitlab.com/publishing-reform/discussion/-/issues/78) (original discussion forum)
-- [ ] [On science and academia](https://forum.igdore.org/t/project-free-our-knowledge-fixing-academia-with-collective-action/851)
+- [ ] [On science and academia](https://onscienceandacademia.org/t/project-free-our-knowledge-fixing-academia-with-collective-action/851/8)
 - [ ] [Behsci](https://www.reddit.com/r/BehSciMeta/comments/hi0b1p/collective_campaigns_for_change_in_academia_a/?utm_source=share&utm_medium=web2x&context=3)
 
 ### Slack workspaces
-<CREATE GOOGLE DOC WITH HYPERLINKS (SEE [THIS EXAMPLE](https://docs.google.com/document/d/1u-Ju5Nb32e9IGlZWeLNN5IIwA5_y-NUwV5fEeuC6Lug/edit?usp=sharing)) AND LINK HERE FOR REFERENCE>
 - [ ] [OSMOOC](https://join.slack.com/t/openmooc-ers/shared_invite/zt-ed38jij8-ui8S_LUaCvN5Xmf4Ivtvrw)
 - [ ] [ANZORN](https://app.slack.com/client/TECNVNQHK/C018L79MW9X/thread/C018L79MW9X-1599112813.000600)
-- [ ] SIPS2019/2020
+- [ ] SIPS2019/2020 
 - [ ] [Creative Commons](https://join.slack.com/t/creativecommons/shared_invite/zt-folsvnur-tWDKEaWU9uR092Ov7wCN2w) 
 - [ ] [ASAPbio](https://join.slack.com/t/asapbio-community/shared_invite/zt-h73a7as6-2jBdUbY9K4n0lV5AvSnNcQ)
 - [ ] [OS Community Netherlands](https://join.slack.com/t/osc-netherlands/shared_invite/zt-heizl20n-lmG9rtRpY3Hvh7tTH7eSZg)
 - [ ] [Open Life Science](https://join.slack.com/t/openlifesci/shared_invite/zt-dzbxqqh2-JzFwuyfojFcixaxZbcMx0Q)
 
 ### Google groups
-<USE SAME TEXT AS SLACK CHANNELS, I.E. CONTAINING HYPERLINKS>
 - [ ] [Network of open science grassroots networks](network-of-open-science-grassroots-networks@cos.io)
 - [ ] [Center for Open Science Ambassadors](https://groups.google.com/a/cos.io/g/ambassadors)
 - [ ] [OpenCon](https://groups.google.com/group/opencon-discussion-list) 
 
 ### Mailing lists
-<USE SAME TEXT AS SLACK CHANNELS, I.E. CONTAINING HYPERLINKS>
 - [ ] UCL Transparency mailing list (via Grace Gottlieb)
 - [ ] UKRN lists for local network leads (and possibly institutional leads?) -- mailing list to be confirmed with UKRN
 - [ ] [Schol Comm](mailto:scholcomm@lists.ala.org) 
@@ -72,16 +86,18 @@ Note: each of these channels needs it's own piece of text adapted to the format 
 - [ ] UQ cog neuro
 
 ### Facebook groups
-<USE SAME TEXT AS SLACK CHANNELS, I.E. CONTAINING HYPERLINKS>
 - [ ] [Reviewer 2 must be stopped](https://www.facebook.com/groups/reviewer2/)
 - [ ] [Psychological Methods Discussion Group](https://www.facebook.com/groups/853552931365745/)
 - [ ] [ACNS ECRs](https://www.facebook.com/groups/acns.ecr.group/)
 - [ ] [March for Science](https://www.facebook.com/marchforscience/)
 
 ### Twitter
-NOTE: need to figure out best Twitter strategy. For now, just tagged a few accounts from initial tweet. 
-
-<CREATE MULTI-COMMENT TWEET WITH LINKS, IMAGES, GIFS AND CALL TO ACTION (SEE [THIS EXAMPLE](https://twitter.com/projectFOK/status/1301362270107131905?s=20)), THEN TAG FOLLOWING ORGS BELOW POST. CAN ALSO MESSAGE SUPPORTERS DIRECTLY IN TWITTER, USING ONE OF THE OLD MESSAGE THREADS IN THE PROJECTFOK ACCOUNT, AND ASK THEM TO RETWEET/COMMENT.>
+- [ ] @radicaloa @COPIMproject @FORsymp @openscicomm @IGDOREinstitute @UCBITSS @PREreview_ @OpenScienceMOOC @OSFramework (NB: many of these are FOK partners and we should develop more targeted strategy with, e.g. blog/news posts)
+- [ ] summary open science conferences: @open_con @OKFN @improvingpsych @aimos_inc
+- [ ] summary open science networks: @LIBEReurope @EIFLnet @sparc_na @sparc_eu @R2RC @force11rescomm @fosterscience
+- [ ] summary misc: 
+- [ ] [SIPS](https://twitter.com/improvingpsych)
+- [ ] [AIMOS](https://twitter.com/aimos_inc)
 - [ ] [LIBER](https://twitter.com/LIBEReurope)
 - [ ] [EIFL](https://twitter.com/EIFLnet)
 - [ ] [SPARC NA](https://twitter.com/sparc_na)
@@ -97,7 +113,6 @@ NOTE: need to figure out best Twitter strategy. For now, just tagged a few accou
 - [ ] [OpenCon](https://twitter.com/open_con)
 - [ ] [Open Knowledge International](https://twitter.com/OKFN)
 - [ ] [Global Open Science Hardware Community](https://twitter.com/GOSHCommunity)
-- [ ] [SIPS](https://twitter.com/improvingpsych)
 - [ ] [OSI](https://twitter.com/OSIUnited)
 - [ ] [COPE](https://twitter.com/@C0PE)
 - [ ] [TriangleSCI](https://twitter.com/TriangleSCI)
@@ -106,7 +121,6 @@ NOTE: need to figure out best Twitter strategy. For now, just tagged a few accou
 - [ ] [Open Scholarship Initiative](https://twitter.com/osiunited)
 - [ ] [Open Knowledge Maps](https://twitter.com/OK_Maps)
 - [ ] United Nations University
-- [ ] @radicaloa @COPIMproject @FORsymp @openscicomm @IGDOREinstitute @UCBITSS @PREreview_ @OpenScienceMOOC @OSFramework (NB: many of these are FOK partners and we should develop more targeted strategy with, e.g. blog/news posts)
 
 ### Petition/pledge sites (can we get access these mailing lists?)
 - [ ] [DORA](https://sfdora.org/signers/) \
@@ -119,3 +133,63 @@ NOTE: need to figure out best Twitter strategy. For now, just tagged a few accou
 - [ ] http://www.researchwithoutwalls.org/
 - [ ] http://www.openaccesspledge.com/
 - [ ] https://emckiernan.wordpress.com/pledge/
+
+## Field-specific
+
+### Social Psychology
+- [ ] https://sasp.org.au
+- [ ] https://www.spssi.org/index.cfm?nodeid=1
+- [ ] http://www.spsp.org
+- [ ] https://www.easp.eu
+
+
+## Channels that will only be used occasionally
+Note that these channels are not populated when you create a 'marketing blitz' issue in Github, because they require a more customised communication strategy.
+
+### Podcasts
+- [ ] Everything Hertz 
+- [ ] Road 2 Open Access 
+- [ ] Blackgoat
+- [ ] [PhD career stories](https://phdcareerstories.com/) 
+- [ ] QBI
+- [ ] http://www.openscienceradio.org/
+
+### Blogs
+- [ ] eLife labs blog
+- [ ] Scholarly Communications @ Duke blog, Kevin Smith
+- [ ] https://science20.wordpress.com/
+- [ ] LSE Impact blog
+- [ ] The Scholarly Kitchen
+- [ ] The Conversation
+- [ ] Undark
+- [ ] the-scientist.com
+- [ ] Learned Publishing
+- [ ] UKSG
+- [ ] LQ
+- [ ] [The Wire](https://science.thewire.in/the-sciences/scholarly-publishing-infrastructure-reliability-affordability-functionality/)
+
+### Media contacts
+- [ ] Michael Schulson (michael_at_undark.org) -- contacted and Skyped in Sept 2019
+
+### Influencers
+- [ ] Randy Schekman
+- [ ] Michael Eisen
+- [ ] Brian Nosek
+- [ ] [Susannah Harris](https://twitter.com/CoopSmout/status/1301453772057534464?s=20)
+- [ ] Timothy Gowers
+- [ ] David Prosser (the head of Research Libraries UK, and a prominent voice for reforming the publishing industry)
+- [ ] Brett T. Buttliere
+- [ ] Sydney Brenner (Nobel laureate)
+- [ ] Alexandra Elbakyan (Sci-Hub founder)
+- [ ] Authors of “Reproducibility Initiative” (Baker, 2012)
+- [ ] Authors of “Reproducibility Project” (Collaboration, 2012)
+- [ ] [Chris Chambers](http://neurochambers.blogspot.com.au/)
+- [ ] [Tal Yarkoni](https://www.talyarkoni.org/blog/2016/12/12/why-i-still-wont-review-for-or-publish-with-elsevier-and-think-you-shouldnt-either/)
+- [ ] Richard Morey
+- [ ] Alexander Holcombe
+- [ ] [Simon Batterbury](https://simonbatterbury.wordpress.com/2015/10/25/list-of-open-access-journals/)
+- [ ] Scott Aaronson (“…much of the serious content on the Internet remains sequestered behind pointless, artificial walls—walls that serve the interests of neither the readers nor the authors, but only of the wall-builders themselves. If I have a medical problem, why can’t I download the full text of clinical studies dealing with that problem? Why do so many researchers still not post their papers on their web pages—or if they do, then omit their early papers? When will we in academia get our act together enough to make the world’s scholarly output readable, for free, by anyone with a web browser?"
+- Sir/Prof. Tim Gowers (argues, journals these days exist only to accommodate author prestige)
+
+### Conferences
+- [ ] see https://www.freeourknowledge.org/pages/news/ for list of conference presentations to date
