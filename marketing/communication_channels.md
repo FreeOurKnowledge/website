@@ -5,9 +5,7 @@ Note: If you add anyhing here you should also add it to the ['Marketing checklis
 ## Channels to contact with project updates
 If you're planning to contact organisations about a project update, [open a new 'marketing blitz' issue in Github](https://github.com/FreeOurKnowledge/community/issues/new/choose) and follow the template/checklist to keep track of who you've contacted. Write a different pitch for each of the following categories, then copy to all. 
 
-~~~~~~~~~~
-(NOTE: THE FOLLOWING SHOULD BE A DIRECT COPY OF THE [MARKETING CHECKLIST TEMPLATE](https://github.com/FreeOurKnowledge/website/issues/templates/edit). IF IT ISN'T, OVERWRITE THE TEXT IN THE MARKETING CHECKLIST WITH THE FOLLOWING)
-~~~~~~~~~~
+##### NOTE: THE FOLLOWING SHOULD BE A DIRECT COPY OF THE [MARKETING CHECKLIST TEMPLATE](https://github.com/FreeOurKnowledge/website/issues/templates/edit). IF IT ISN'T, OVERWRITE THE TEXT IN THE MARKETING CHECKLIST WITH THE FOLLOWING)
 
 ### Internal channels (FOK)
 - [ ] [Mailing list (general)](http://eepurl.com/dFVBVz) (mention campaign in newsletter)
@@ -182,5 +180,5 @@ Note that these channels are not populated when you create a 'marketing blitz' i
 ### Conferences
 - [ ] see https://www.freeourknowledge.org/pages/news/ for list of conference presentations to date
 
-~~~~~~~~~~
-Credit:Much of this list was developed by Jon Tennant @protohedgehog for the [Open Scholarship Communication Strategy](https://github.com/Open-Scholarship-Strategy/site/edit/master/Communication_Strategy.md). May his hard work and passion for open science live on through this project.
+
+##### Credit:Part of this list was developed by Jon Tennant @protohedgehog for the [Open Scholarship Communication Strategy](https://github.com/Open-Scholarship-Strategy/site/edit/master/Communication_Strategy.md). May his hard work and passion for open science live on through this project.
