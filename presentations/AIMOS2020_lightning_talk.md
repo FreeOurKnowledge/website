@@ -22,4 +22,5 @@ Tips:
 Turn off mic when not speaking
 Use Slack to communicate
 
+#### Slides: https://docs.google.com/presentation/d/1nXDTM4EmKId93ClKNRQVCncAMmm1y8Z398TU2bm32eI/edit?usp=sharing
 
