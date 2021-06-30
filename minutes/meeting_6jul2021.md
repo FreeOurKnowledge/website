@@ -6,7 +6,7 @@ Dawn Liu Holford
 Paola Masuzzo
 
 #### Agenda
-1. Outline broad vision for project -- rating database, impact algorithms, financial rewards (Cooper)
+1. Outline broad vision for project -- rating database, impact algorithms, [financial rewards](https://docs.google.com/spreadsheets/d/1Opg_QIDhkS_GQbVvPKg9_wAHiaPXiSN6cg_xN94Xz2Q/edit?usp=sharing) (Cooper)
 3. Q&A on broad vision 
 4. Cooper's questions: include/ remove editorial position in proposed model? require authors to sign over copyright prior to getting ratings? 
 5. eLife Sprint to build database: What do we want to get out of it?
