@@ -12,13 +12,17 @@ assignees: CooperSmout
 Thanks for proposing a new collective action campaign for Project FOK! Campaigns should follow the general format: "When X researchers have signed this campaign, they will all do Y together", where X is a target number of people and Y is a specific action that they plan to take. If your campaign doesn't fit this format, please get in touch with the project team to discuss.
 
   Instructions:
-  1. Add your campaign title in the Title field above ^
+  1. Add your campaign title in the Title field above. Try to use a positive, simple title that indicates the action you want researchers to take, in as few words as possible (see the [website](https://freeourknowledge.org/) for examples). The subtitle can then give more information on what the campaign is about (see below).
   2. Fill in as much of the below as you can, leaving question marks wherever you're unsure about something (these can be updated later as the details are worked out). Also feel free to delete any parts that aren't relevant. Note that the text between the arrows will not show up in the new issue. 
   3. Finally, when you're happy with everything click 'Submit new issue'... and let your friends/colleagues know about your new campaign!
 
 <!---
   List anyone else who is proposing this campaign with you using their GitHub @username --->
 * Campaign co-creator/s: ?
+
+<!---
+  Describe in once sentence what researchers are being asked to do, and the critical mass at which action will be taken (see the [website](https://freeourknowledge.org/) for more examples) ---> 
+* Subtitle: "Pledge to [INSERT ACTION HERE], along with [X] of your peers"
 
 <!---
   Brief description of why this campaign is needed (try to be succinct) ---> 
@@ -33,8 +37,8 @@ Thanks for proposing a new collective action campaign for Project FOK! Campaigns
 * Eligibility criteria: ?
 
 <!---
-  Will signatories have the option to remain anonymous prior to their pledge activating? (note that all names are made public once the campaign reaches threshold, irrespective of this setting) --->
-* Optional anonymity: yes/no?
+  Will signatories have the option to remain anonymous prior to their pledge activating? (note that all names will be made public if the campaign reaches threshold, irrespective of this setting) --->
+* Optional anonymity: [Yes/No]
 
 <!---
   What is the critical mass of signatures that will trigger the pledges to activate (e.g. 100)? --->
