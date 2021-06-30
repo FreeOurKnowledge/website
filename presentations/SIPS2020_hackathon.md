@@ -44,7 +44,7 @@ Use Slack to communicate
 
 Intro:
 Who are you?
-Cooper Smout 
+0. Cooper Smout 
 3. [Rachel Fouladi](rfouladi@sfu.ca) 
 1. [Ali Gwilliams](gwilliaa@aston.ac.uk)
 1. Udi Alter (Open Access)
