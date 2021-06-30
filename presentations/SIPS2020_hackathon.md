@@ -1,5 +1,4 @@
-SESSION LANDING PAGE
-[HACKATHON]
+SESSION LANDING PAGE (copied from [Google Docs](https://docs.google.com/document/d/15_zup9UU2LFqQE9IXHfcheWyrXobfN-YAGNfuvLo_uw/edit?usp=sharing))
 ### Developing collective action campaigns to change norms and drive progress in academia 
 Session leader: Cooper Smout
 Contact information: cooper.smout@gmail.com
