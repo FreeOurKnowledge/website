@@ -10,11 +10,12 @@ Paola Masuzzo
 1. Cooper to outline broad vision for project, including rating database, impact algorithms, other algorithms, financial rewards
 2. Q&A/discussion
 3. Cooper's questions: 
-* include/ remove editorial position in proposed model?
-* require authors to sign over copyright prior to getting ratings?
-* begin paying team using [community-rated valuation of contributions](https://docs.google.com/spreadsheets/d/1Opg_QIDhkS_GQbVvPKg9_wAHiaPXiSN6cg_xN94Xz2Q/edit?usp=sharing)?
+* Include/ remove editorial position in proposed model?
+* Require authors to sign over copyright prior to getting ratings?
+* Begin paying team using [community-rated valuation of contributions](https://docs.google.com/spreadsheets/d/1Opg_QIDhkS_GQbVvPKg9_wAHiaPXiSN6cg_xN94Xz2Q/edit?usp=sharing)? How to record contributions (time-based, Git-based)? How/when to valuate contributions (weekly, monthly)? 
 
 #### Preprint rating database
+4. History of ideas, including [SIPS2020 Unconference](https://docs.google.com/document/d/15URJJhzn_MEEErBioARcGQBvdHhEENyZ3BW7mtfWIJ0/edit?usp=sharing)
 4. What do we want to get out of the eLife Sprint?
 5. Clarify skills of the core team and what skills we are lacking
 6. Discuss how eLife Sprint will work -- could look through Hidden Preprints [doc](https://docs.google.com/document/d/1tuoB6Rmqrn4X2aYCr9O9yyBMuxL-Q0dB72VTftcbrvc/edit#heading=h.hitleg3mmlxi) and [Github](https://github.com/HiddenPreprints/web-api)
