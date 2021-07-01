@@ -78,7 +78,7 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [March for Science](https://www.facebook.com/marchforscience/)
 
 ### Twitter
-- [ ] @radicaloa @COPIMproject @FORsymp @openscicomm @IGDOREinstitute @UCBITSS @PREreview_ @OpenScienceMOOC @OSFramework (NB: many of these are FOK partners and we should develop more targeted strategy with, e.g. blog/news posts)
+- [ ] @radicaloa @COPIMproject @FORsymp @openscicomm @IGDOREinstitute @UCBITSS @PREreview_ @OpenScienceMOOC @OSFramework @UKrepro (NB: many of these are FOK partners and we should develop more targeted strategy with, e.g. blog/news posts)
 - [ ] summary open science conferences: @open_con @OKFN @improvingpsych @aimos_inc
 - [ ] summary open science networks: @LIBEReurope @EIFLnet @sparc_na @sparc_eu @R2RC @force11rescomm @fosterscience
 - [ ] summary misc: 
