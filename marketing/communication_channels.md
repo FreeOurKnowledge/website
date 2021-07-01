@@ -30,7 +30,7 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [Joint Roadmap for Open Science Tools](https://jrost.org/blog)
 - [ ] [BITSS](https://www.bitss.org/blog/) -- contact Aleksandar Bogdanoski
 - [ ] [Open Science MOOC](https://opensciencemooc.eu/blog/)
-- [ ] Future of Research](https://www.futureofresearch.org/blog/)
+- [ ] [Future of Research](https://www.futureofresearch.org/blog/)
 
 ### Discussion forum threads
 - [ ] [Pubreform](https://gitlab.com/publishing-reform/discussion/-/issues/78) (original discussion forum)
