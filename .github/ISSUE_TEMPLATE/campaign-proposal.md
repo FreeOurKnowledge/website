@@ -2,7 +2,8 @@
 name: Campaign proposal
 about: This issue template is for proposing new collective action campaigns to be
   hosted on the [Free Our Knowledge website](https://freeourknowledge.org/)
-title: 'Campaign: <Insert descriptive title here>'
+title: 'Campaign proposal: <Insert short, positive title here, e.g. Preregistration
+  Pledge>'
 labels: draft-campaign
 assignees: CooperSmout
 
