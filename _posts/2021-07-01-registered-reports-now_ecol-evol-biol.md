@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Registered Reports Now! (Ecology and Evolutionary Biology)
-subtitle: Co-sign a letter that we will send to editors of Ecology and Evolutionary Biology journals at the upcoming SORTEE conference, asking them to adopt the Registered Reports format
+subtitle: Co-sign a letter to editors of Ecology and Evolutionary Biology journals, asking them to adopt the Registered Reports format
 gh-repo: freeourknowledge/website
 cover-img: /assets/img/registered_reports.png
 thumbnail-img: /assets/img/registered_reports.png
