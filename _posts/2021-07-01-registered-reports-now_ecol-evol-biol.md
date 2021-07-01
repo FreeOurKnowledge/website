@@ -9,9 +9,6 @@ share-img: /assets/img/registered_reports.png
 comments: true
 ---
 
-[![hackmd-github-sync-badge](https://hackmd.io/jMfKP7lxQtaZxe54SZ7jmw/badge)](https://hackmd.io/jMfKP7lxQtaZxe54SZ7jmw)
-
-
 [Registered Reports](https://www.cos.io/initiatives/registered-reports) implement peer review prior to data collection. This format alleviates numerous questionable research practices by accepting articles before results exist. However, despite their importance in increasing the transparency and reliability of research findings, they are rarely implemented in ecology and evolutionary biology journals. Many of these journals have been [contacted during a previous campaign](https://hsfraser.wordpress.com/registered-report-petition/), but most did not consider the implementation of Registered Reports. This campaign aims to demonstrate that Registered Reports have more support than ever, and to show the journals we are not going away until they are widely implemented in ecology and evolutionary biology. 
 
 #### What will happen next
