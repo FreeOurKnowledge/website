@@ -3,7 +3,7 @@ layout: post
 title: Registered Reports Now! (Ecology/Evolutionary Biology)
 subtitle: Sign a petition asking editors of ecology and evolutionary biology journals to adopt the Registered Reports format
 gh-repo: freeourknowledge/website
-cover-img: /assets/img/registered_reports_faded.png
+cover-img: /assets/img/checklist.png
 thumbnail-img: /assets/img/registered_reports.png
 share-img: /assets/img/registered_reports.png
 comments: true
