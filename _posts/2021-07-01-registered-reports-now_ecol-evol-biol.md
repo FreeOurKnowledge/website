@@ -24,7 +24,7 @@ Please join us at the [SORTEE conference hackathon](https://www.sortee.org/event
 <iframe width='100%' height='180' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTb_QAPp_OknrZER5eiVax9T0IlSIfZ5sz2-gYp4yblpQQqEADqiIplP_gZfCFPXdpnexfDQ9VNnxaA/pubhtml?gid=418682928&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 (see the full list of signatories [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTb_QAPp_OknrZER5eiVax9T0IlSIfZ5sz2-gYp4yblpQQqEADqiIplP_gZfCFPXdpnexfDQ9VNnxaA/pubhtml?gid=273381632&single=true))
 
-#### Co-sign the letter!
+#### Sign the petition!
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZWSjdydBjZsf2kv15RYrZeWpzUhFqUoH_YNLiGaJMcxykow/viewform?embedded=true" width="640" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 #### Other resources
