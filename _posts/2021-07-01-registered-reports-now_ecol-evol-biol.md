@@ -25,7 +25,7 @@ Please join us at the [SORTEE conference hackathon](https://www.sortee.org/event
 (see the full list of signatories [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTb_QAPp_OknrZER5eiVax9T0IlSIfZ5sz2-gYp4yblpQQqEADqiIplP_gZfCFPXdpnexfDQ9VNnxaA/pubhtml?gid=273381632&single=true))
 
 #### Co-sign the letter!
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZWSjdydBjZsf2kv15RYrZeWpzUhFqUoH_YNLiGaJMcxykow/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZWSjdydBjZsf2kv15RYrZeWpzUhFqUoH_YNLiGaJMcxykow/viewform?embedded=true" width="640" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 #### Other resources
 Not an ecologist or evolutionary biologist? The [Registered Reports Now!](https://osf.io/3wct2/) initiative aims to implement registered reports more broadly and was the main inspiration for our campaign. By participating to our campaign, you also contribute to the overarching goal of implementing this publication format in all fields of research. 
