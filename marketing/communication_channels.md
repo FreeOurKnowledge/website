@@ -40,7 +40,7 @@ If you're planning to contact organisations about a project update, [open a new 
 ### Slack workspaces
 - [ ] [OSMOOC](https://join.slack.com/t/openmooc-ers/shared_invite/zt-ed38jij8-ui8S_LUaCvN5Xmf4Ivtvrw)
 - [ ] [ANZORN](https://app.slack.com/client/TECNVNQHK/C018L79MW9X/thread/C018L79MW9X-1599112813.000600)
-- [ ] SIPS2019/2020 
+- [ ] [SIPS](https://join.slack.com/t/improvingpsych/shared_invite/zt-n6fcgvgl-~ZIV8klNGS4vrWmtOXFX1w)
 - [ ] [Creative Commons](https://join.slack.com/t/creativecommons/shared_invite/zt-folsvnur-tWDKEaWU9uR092Ov7wCN2w) 
 - [ ] [ASAPbio](https://join.slack.com/t/asapbio-community/shared_invite/zt-h73a7as6-2jBdUbY9K4n0lV5AvSnNcQ)
 - [ ] [OS Community Netherlands](https://join.slack.com/t/osc-netherlands/shared_invite/zt-heizl20n-lmG9rtRpY3Hvh7tTH7eSZg)
