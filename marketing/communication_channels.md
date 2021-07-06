@@ -63,8 +63,8 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [LIS bibliometrics](mailto:LIS-BIBLIOMETRICS@JISCMAIL.AC.UK)
 - [ ] [PSCI COMM](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=psci-com) 
 - [ ] [OpenAccess at Wikimedia](https://lists.wikimedia.org/mailman/listinfo/openaccess)
-- [ ] [Australian_OA_Community](australian_oa_community@mailman.anu.edu.au)
-- [ ] [EMCR Forum Australia](EMCR@science.org.au)
+- [ ] [Australian_OA_Community](mailto:australian_oa_community@mailman.anu.edu.au)
+- [ ] [EMCR Forum Australia](mailto:EMCR@science.org.au)
 - [ ] Liste des échos du RISC (ask Claire Bradley)
 - [ ] OpenScience-NL 
 - [ ] OpenScience-DE
