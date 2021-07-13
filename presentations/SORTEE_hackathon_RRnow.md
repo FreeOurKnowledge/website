@@ -1,4 +1,5 @@
 #### Links:
+Resources: https://docs.google.com/document/d/1pIUsXux886wYee6zZN3rAcFTTVrcClOOtE2NjUP7mbA/edit \
 Introductory slides: https://drive.google.com/file/d/1niPn_JpNJizslapNuAvdTVEHZx6lizUy/view?usp=sharing \
 Campaign page: https://freeourknowledge.org/2021-07-01-registered-reports-now_ecol-evol-biol/ \
 Letter: https://docs.google.com/document/d/1TGyPlY85qvdRVatnfUeZWTXWGUR-SutOdELkQm2Y3N4/edit \
