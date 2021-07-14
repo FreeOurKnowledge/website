@@ -9,9 +9,9 @@ share-img: /assets/img/registered_reports.png
 comments: true
 ---
 
-![Registered Reports process -- image courtesy of Center for Open Science CC-BY](/assets/img/registered_reports.png){: .mx-auto.d-block :}
-
 [Registered Reports](https://www.cos.io/initiatives/registered-reports) implement peer review prior to data collection. This format alleviates numerous questionable research practices by accepting articles before results exist and was recently shown to be [associated with greater rigor and research quality than the standard publishing format](https://doi.org/10.1038/s41562-021-01142-4). However, despite their importance in increasing the transparency and reliability of research findings, they are rarely implemented in ecology and evolutionary biology journals. Many of these journals have been [contacted during a previous campaign](https://hsfraser.wordpress.com/registered-report-petition/), but most did not consider the implementation of Registered Reports. This campaign aims to demonstrate that Registered Reports have more support than ever, and to show the journals we are not going away until they are widely implemented in ecology and evolutionary biology. 
+
+![Registered Reports process -- image courtesy of Center for Open Science CC-BY](/assets/img/registered_reports.png){: .mx-auto.d-block :}
 
 #### Who can sign?
 We're primarily interested in signatures from researchers in the fields of ecology and evolutionary biology, but we are also accepting signatures from researchers in other fields who wish to show their general support for the implementation of Registered Reports (we plan to run more campaigns in the future, so please get in touch if you'd like to develop a similar campaign for your field).
