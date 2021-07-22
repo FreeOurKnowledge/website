@@ -8,3 +8,4 @@ discussion time ~1hr
   * fixed percentage of publishing costs (e.g. 1%) diverted to open infrastructure, e.g. Michael Eisen original idea leading to PLOS
 * KFG planning space/workshops/hackathon for discussing progressive publishing ideas (~November)
 * Cooper/Gabe to arrange ~monthly catchup
+* Gabe's advice on piloting new economic models within FOK: work out fundamental assumptions and test those first
