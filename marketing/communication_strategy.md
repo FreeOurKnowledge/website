@@ -109,17 +109,12 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [Open Knowledge Maps](https://twitter.com/OK_Maps)
 - [ ] United Nations University
 
-### Petition/pledge sites (can we get access these mailing lists?)
+### Declarations (can we get access these mailing lists?)
 - [ ] [DORA](https://sfdora.org/signers/) \
 - [ ] [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/list_signatures) 
 - [ ] [Fair Open Access supporters](https://gitlab.com/publishing-reform/discussion/blob/master/Fair%20Open%20Access/List%20of%20supporters%20of%20Fair%20Open%20Access.md)
-- [ ] http://www.openaccesspledge.com/?page_id=2
-- [ ] https://opennessinitiative.org/signatories/
-- [ ] http://thecostofknowledge.com/
-- [ ] http://www.nodealnoreview.org/
-- [ ] http://www.researchwithoutwalls.org/
-- [ ] http://www.openaccesspledge.com/
-- [ ] https://emckiernan.wordpress.com/pledge/
+
+### Pledge sites (superceded; see https://github.com/Daniel-Mietchen/pledges for latest pledge list)
 
 ## Field-specific
 
