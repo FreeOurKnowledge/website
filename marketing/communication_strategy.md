@@ -53,6 +53,7 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [OpenCon](https://groups.google.com/group/opencon-discussion-list) 
 
 ### Mailing lists
+- [ ] [Sharing OA Good Practice](mialto: OAGOODPRACTICE@JISCMAIL.AC.UK)
 - [ ] UCL Transparency mailing list (via Grace Gottlieb)
 - [ ] UKRN lists for local network leads (and possibly institutional leads?) -- mailing list to be confirmed with UKRN
 - [ ] [Schol Comm](mailto:scholcomm@lists.ala.org) 
