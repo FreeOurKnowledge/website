@@ -35,7 +35,7 @@ Yes, here are the other pledges we know of (though none of these include a 'crit
 
 Some researchers have also made individual pledges:
 * [Erin McKiernan](https://emckiernan.wordpress.com/pledge/)
-* [Daniel Mietchen](https://github.com/CooperSmout/pledges)
+* [Daniel Mietchen](https://github.com/Daniel-Mietchen/pledges)
 * [Ruben Arslan](https://rubenarslan.github.io/bug_bounty.html)
 * [Suchith Anand](https://opensourcegeospatial.icaci.org/2017/07/the-pledge-i-support-open-principles-for-science-and-education-for-building-a-better-world-for-everyone/)
 * [Suzan Köseoğlu](https://differentreadings.com/2015/12/01/an-open-pledge/)
