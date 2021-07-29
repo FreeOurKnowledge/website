@@ -20,4 +20,32 @@ You don't! If you'd like to get started early, by all means do. But even if you'
 Academia is a turbulent industry, in these difficult times more than ever. We're not interested in punishing you for circumstances beyond your control, so if your situation changes before your pledge activates, just let us know and we'll remove your pledge. Just make sure to do this *prior* to your pledge activating, so that your pledge doesn't trigger other people's pledges before they have the level of community support they were expecting, or detract from our goal of demonstrating a commitment to action within our community.
 
 #### How do I know that people will follow through on their pledges?
-Unlike previous pledge campaigns (e.g., [Cost of Knowledge](http://thecostofknowledge.com/)), we plan to analyse and report when people have followed through on their pledges (e.g., using different colours to indicate completed/broken pledges). In the short term, this approach will provide accountability and motivation for people to uphold their pledges. Moreover, we plan to run a wide range of campaigns, across multiple sectors in academia, which will provide an increasing level of data about who upholds their pledges and under what circumstances. In the long term, we expect that this data will help us tailor campaigns with the highest chance of impact in the community and -- ultimately -- bolster confidence in our community's commitment to action.
+We plan to analyse and report when people have followed through on their pledges (e.g., using different colours to indicate completed/broken pledges). In the short term, this approach will provide accountability and motivation for people to uphold their pledges. Moreover, we plan to run a wide range of campaigns, across multiple sectors in academia, which will provide an increasing level of data about who upholds their pledges and under what circumstances. In the long term, we expect that this data will help us tailor campaigns with the highest chance of impact in the community and -- ultimately -- bolster confidence in our community's commitment to action.
+
+#### Are there other pledge sites?
+Yes, here are the other pledges we know of (though none of these include a 'critical mass' component):
+* [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/)
+* [Research Without Walls](http://www.researchwithoutwalls.org/451)
+* [Fraser Lab Lab Compact and Philosophy](https://fraserlab.com/compact/)
+* [Open Access Pledge](https://www.openaccesspledge.com)
+* [Cost of Knowledge](http://thecostofknowledge.com/)
+* [No Free View? No Review!](https://nofreeviewnoreview.org/)
+* [Research Without Walls](http://www.researchwithoutwalls.org/)
+* [Pledge for sustainable research in theoretical computer science](https://tcs4f.org/)
+
+Some researchers have also made individual pledges:
+* [Erin McKiernan](https://emckiernan.wordpress.com/pledge/)
+* [Daniel Mietchen](https://github.com/CooperSmout/pledges)
+* [Ruben Arslan](https://rubenarslan.github.io/bug_bounty.html)
+* [Suchith Anand](https://opensourcegeospatial.icaci.org/2017/07/the-pledge-i-support-open-principles-for-science-and-education-for-building-a-better-world-for-everyone/)
+* [Suzan Köseoğlu](https://differentreadings.com/2015/12/01/an-open-pledge/) (with links to other examples)
+* [Jan Ainali](https://github.com/Ainali/pledges)
+
+Many researchers have also signed declarations (supporting a position statement but not committing to specific actions)
+* [DORA](https://sfdora.org/signers/) 
+* [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/list_signatures) 
+* [Berlin call to action for open science](https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program/Berlin_Call_to_Action)
+* [Commitment Statement in the Earth, Space, and Environmental Sciences for depositing and sharing data](http://www.copdess.org/enabling-fair-data-project/commitment-to-enabling-fair-data-in-the-earth-space-and-environmental-sciences/)
+* [Position Statement on Economic Growth](https://steadystate.org/act/sign-the-position/endorsements-and-signatures/view-all-individual-signatures/)
+* [A pledge for planetary health to unite health professionals in the Anthropocene](https://doi.org/10.1016/S0140-6736(20)32039-0)
+* [Fair Open Access supporters](https://gitlab.com/publishing-reform/discussion/blob/master/Fair%20Open%20Access/List%20of%20supporters%20of%20Fair%20Open%20Access.md)
