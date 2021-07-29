@@ -38,7 +38,7 @@ Some researchers have also made individual pledges:
 * [Daniel Mietchen](https://github.com/CooperSmout/pledges)
 * [Ruben Arslan](https://rubenarslan.github.io/bug_bounty.html)
 * [Suchith Anand](https://opensourcegeospatial.icaci.org/2017/07/the-pledge-i-support-open-principles-for-science-and-education-for-building-a-better-world-for-everyone/)
-* [Suzan Köseoğlu](https://differentreadings.com/2015/12/01/an-open-pledge/) (with links to other examples)
+* [Suzan Köseoğlu](https://differentreadings.com/2015/12/01/an-open-pledge/)
 * [Jan Ainali](https://github.com/Ainali/pledges)
 
 Many researchers have also signed declarations (supporting a position statement but not committing to specific actions)
