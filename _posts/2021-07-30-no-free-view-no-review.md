@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No Free View? No Review!
-subtitle: Pledge to prioritise open-access venues in how you allocate your reviewing time and organizational efforts
+subtitle: Pledge to avoid serving as peer reviewers for venues that do not make publicly available the research that you review
 gh-repo: freeourknowledge/website
 cover-img: /assets/img/nfvnr-logo.png
 thumbnail-img: /assets/img/nfvnr-banner.png
