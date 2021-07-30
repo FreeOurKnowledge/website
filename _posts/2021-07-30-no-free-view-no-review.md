@@ -3,9 +3,9 @@ layout: post
 title: No Free View? No Review!
 subtitle: Pledge to prioritise open-access venues in how you allocate your reviewing time and organizational efforts
 gh-repo: freeourknowledge/website
-cover-img: /assets/img/nfvnr_logo.png
-thumbnail-img: /assets/img/nfvnr_banner.png
-share-img: /assets/img/nfvnr_banner.png
+cover-img: /assets/img/nfvnr-logo.png
+thumbnail-img: /assets/img/nfvnr-banner.png
+share-img: /assets/img/nfvnr-banner.png
 comments: true
 ---
 
