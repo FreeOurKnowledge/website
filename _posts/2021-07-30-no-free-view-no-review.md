@@ -14,7 +14,6 @@ Many scientific articles are currently published in subscription journals and lo
 For this reason, we will **avoid serving as peer reviewers for venues that do not make publicly available the research that we review**. Instead, we will **give priority to open-access venues in how we allocate our reviewing time and organizational efforts**.
 
 **Take the pledge [here](https://nofreeviewnoreview.org/).**
-\
-\
-\
-\
+<br>
+<br>
+<br>
