@@ -2,7 +2,7 @@
 layout: post
 title: No Free View? No Review!
 gh-repo: freeourknowledge/website
-cover-img: /assets/img/nfvnr-cover.png
+cover-img: /assets/img/nfvnr-cover3000.png
 thumbnail-img: /assets/img/nfvnr-banner.png
 share-img: /assets/img/nfvnr-banner.png
 comments: true
