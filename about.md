@@ -2,6 +2,7 @@
 layout: page
 title: About
 subtitle: We're building a platform to help researchers organise collective action in support of open and reproducible research practices
+comments: true
 ---
 
 <iframe width="560" height="315" style="text-align:center" src="https://www.youtube.com/embed/Q33K-nkzHj0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{: .mx-auto.d-block :}
