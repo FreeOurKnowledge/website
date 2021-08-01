@@ -3,6 +3,9 @@ layout: page
 title: News & Media
 ---
 
+* 12 July 2021 - [Registered Reports Now! hackathon](https://freeourknowledge.org/2021-07-01-registered-reports-now_ecol-evol-biol/) hosted at [SORTEE conference](https://www.sortee.org/)
+* 24 June 2021 - [Lightning talk](https://youtu.be/GYja8wMob4c) presented at SIPS2021
+* 21 June 2021 - [Workshop](https://youtu.be/Q33K-nkzHj0) hosted at OHBM2021
 * 5 March 2021 - [Presentation](https://youtu.be/1SQ-h5nYJm8) at the UK Reproducibility Network Annual Meeting (UK)
 * 3 Dec 2020 - Preregistration campaign launch at AIMOS2020 conference (University of Sydney/NSW, Australia) [ [slides](https://docs.google.com/presentation/d/1nXDTM4EmKId93ClKNRQVCncAMmm1y8Z398TU2bm32eI/edit?usp=sharing) / [recording](https://youtu.be/vzB7Vh_gkLs) ]
 * 27 Nov 2020 - New website launched
