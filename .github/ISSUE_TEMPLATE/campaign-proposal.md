@@ -37,10 +37,10 @@ Thanks for proposing a new campaign on Project FOK!
 * Action: ?
 
 <!---
-Indicate here what type of campaign you're proposing
-- 'Collective action campaigns' aim to solve large-scale collective action problems by organising a critical mass of people to all take action together. These campaigns follow the general format: "When X researchers have signed this pledge, we will all take Y action together". Indicate this type of campaign by typing "Threshold: " and the number of pledges at which action will be taken (e.g., "Threshold: 100").
-- 'Regular campaigns' are more suited to small-scale problems or those with less risk to individuals who sign the pledge. Indicate this type of campaign by typing "Individual" --->
-* Pledge type (threshold/individual):
+Indicate here what type of pledge you're inviting people to take:
+- 'Conditional pledges' ask people to take action when some pre-determined critical mass of support is met ("When X researchers have signed this pledge, we will all take Y action together"). These campaigns aim to solve large-scale collective action problems by organising a critical mass of support prior to action being taken. Indicate this type of campaign by typing "Conditional: " and the number of signatures at which action will be taken (e.g., "Conditional: 100 signatures").
+- 'Immediate pledges' are more suited to small-scale problems or those with less risk to individuals who sign the pledge. Indicate this type of campaign by typing "Immediate" --->
+* Pledge type (Conditional/Immediate):
 
 <!---
   Will the action be carried out for a particular duration (e.g., boycott certain journals for 2 years)? Otherwise, if this field is irrelevant (e.g., the pledge relates to a single action) you can just delete this part --->
