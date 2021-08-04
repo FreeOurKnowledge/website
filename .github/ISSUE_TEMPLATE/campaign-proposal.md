@@ -14,6 +14,9 @@ assignees: CooperSmout
 <!--- Describe in once sentence what action researchers are being asked to do (focus on the desired behaviour here, rather than what you're asking them to NOT do). If pledges will only activate once some critical mass of signatures is reached (see below), you should also indicate this here, e.g., --->
 "Pledge to preregister at least one study in the next two years, along with 100 of your peers"
 
+#### Campaign co-creator/s
+<!--- Tag anyone who is proposing this campaign with you (using their GitHub @username) --->
+
 #### Rationale
 <!--- Describe the problem, proposed solution, and how this campaign can help. Try to keep it as short and clear as possible, so we don't lose readers to long/confusing text. For example, see the introductory paragraph here: https://freeourknowledge.org/2021-07-01-registered-reports-now_ecol-evol-biol/ --->
 
