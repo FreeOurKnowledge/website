@@ -33,7 +33,6 @@ with support from:
 * Megan Campbell
 * Kelly Garner
 * Jon Tennant
-* Claire Bradley
 * Gavin Taylor
 (among others)
 
