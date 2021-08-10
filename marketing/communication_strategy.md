@@ -2,6 +2,13 @@
 
 Note: If you add anyhing here you should also add it to the ['Marketing checklist' issue template](https://github.com/FreeOurKnowledge/community/issues/templates/edit)
 
+## Comms strategy for new campaign proposals on Github
+1. Write tweet (multi-thread), targetted at research community
+2. Copy individual threads into Facebook post (on Project Free Our Knowledge page), check @'s and hashtags
+3. Share FOK Facebook post to personal page, write more general intro (public-facing) 
+4. Copy Facebook FOK post into Linked-in post, check @'s and hashtags
+5. Email FOK Google Group, link to 1-4
+
 ## Channels to contact with project updates
 If you're planning to contact organisations about a project update, [open a new 'marketing blitz' issue in Github](https://github.com/FreeOurKnowledge/community/issues/new/choose) and follow the template/checklist to keep track of who you've contacted. Write a different pitch for each of the following categories, then copy to all. 
 
