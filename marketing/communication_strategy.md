@@ -8,7 +8,7 @@ Note: If you add anyhing here you should also add it to the ['Marketing checklis
 3. Share FOK Facebook post to personal page, write more general intro (public-facing) 
 4. Copy Facebook FOK post into personal Linked-in post, check @'s and hashtags
 5. Email FOK Google Group, asking them to support/comment/retweet above links (1-4)
-6. (day after)
+6. (day after) Retweet from personal account. Check messages on all platforms and reply. 
 
 ## Channels to contact with project updates
 If you're planning to contact organisations about a project update, [open a new 'marketing blitz' issue in Github](https://github.com/FreeOurKnowledge/community/issues/new/choose) and follow the template/checklist to keep track of who you've contacted. Write a different pitch for each of the following categories, then copy to all. 
