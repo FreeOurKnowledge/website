@@ -2,14 +2,8 @@
 
 Note: If you add anyhing here you should also add it to the ['Marketing checklist' issue template](https://github.com/FreeOurKnowledge/community/issues/templates/edit)
 
-## Comms strategy for new campaign proposals on Github (NOTE: this has been moved to Notion for a trial period)
-1. Write [multi-thread tweet](https://twitter.com/projectFOK/status/1424976060492369920?s=20) targeted at research community, use images/gifs, tag relevant people/organisations, ask yes-leading questions (?); post mid-week (ideally 3pm wednesday, but impossible given world timezones)
-2. Copy individual threads into Facebook post (on [FOK page](https://www.facebook.com/projectFOK)), check @'s and hashtags
-3. Share FOK Facebook post to personal page, write more general intro (public-facing) 
-4. Copy Facebook FOK post into personal Linked-in post, check @'s and hashtags
-5. Email FOK Google Group, asking them to support/comment/retweet above links (1-4)
-6. (day after) Retweet from personal account. Check messages on all platforms and reply. 
-7. Post to relevant Slack workspaces (AIMOS, SIPS, PSA, INOSS, SORTEE, ANZORN, CogNeuro, OLS, ASAPbio)
+## Comms strategy for new campaign proposals on Github 
+_checklist moved to Notion for a trial period_
 
 ## Channels to contact with project updates
 If you're planning to contact organisations about a project update, [open a new 'marketing blitz' issue in Github](https://github.com/FreeOurKnowledge/community/issues/new/choose) and follow the template/checklist to keep track of who you've contacted. Write a different pitch for each of the following categories, then copy to all. 
@@ -28,9 +22,7 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] ~~[Google doc](https://docs.google.com/document/d/1imcjyJzcxlP2CGag7jj7tx06Vs1bSoxJ4rdJwkLsuZU/edit)~~ (for discussing campaigns, now superceded by Github)
 
 ### Social media
-- [ ] [Twitter](https://twitter.com/projectfok)
-- [ ] [Facebook](https://www.facebook.com/projectFOK)
-- [ ] [LinkedIn](https://www.linkedin.com/mynetwork/)
+_checklist moved to Notion for a trial period_
 
 ### Blogs
 - [ ] [UKRN](https://www.ukrn.org/news/)
@@ -42,19 +34,10 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [Future of Research](https://www.futureofresearch.org/blog/)
 
 ### Discussion forum threads
-- [ ] [Pubreform](https://gitlab.com/publishing-reform/discussion/-/issues/78) (original discussion forum)
-- [ ] [On science and academia](https://onscienceandacademia.org/t/project-free-our-knowledge-fixing-academia-with-collective-action/851/8)
-- [ ] [Behsci](https://www.reddit.com/r/BehSciMeta/comments/hi0b1p/collective_campaigns_for_change_in_academia_a/?utm_source=share&utm_medium=web2x&context=3)
+_checklist moved to Notion for a trial period_
 
 ### Slack workspaces
-- [ ] [OSMOOC](https://join.slack.com/t/openmooc-ers/shared_invite/zt-ed38jij8-ui8S_LUaCvN5Xmf4Ivtvrw)
-- [ ] [ANZORN](https://app.slack.com/client/TECNVNQHK/C018L79MW9X/thread/C018L79MW9X-1599112813.000600)
-- [ ] [SIPS](https://join.slack.com/t/improvingpsych/shared_invite/zt-n6fcgvgl-~ZIV8klNGS4vrWmtOXFX1w)
-- [ ] [SORTEE](https://join.slack.com/t/sortee/shared_invite/zt-skcm4wnk-32Sl6kXZVl1Xa5uqpOWGUA)
-- [ ] [Creative Commons](https://join.slack.com/t/creativecommons/shared_invite/zt-folsvnur-tWDKEaWU9uR092Ov7wCN2w) 
-- [ ] [ASAPbio](https://join.slack.com/t/asapbio-community/shared_invite/zt-h73a7as6-2jBdUbY9K4n0lV5AvSnNcQ)
-- [ ] [OS Community Netherlands](https://join.slack.com/t/osc-netherlands/shared_invite/zt-heizl20n-lmG9rtRpY3Hvh7tTH7eSZg)
-- [ ] [Open Life Science](https://join.slack.com/t/openlifesci/shared_invite/zt-dzbxqqh2-JzFwuyfojFcixaxZbcMx0Q)
+_checklist moved to Notion for a trial period_
 
 ### Google groups
 - [ ] [Network of open science grassroots networks](network-of-open-science-grassroots-networks@cos.io)
@@ -124,7 +107,8 @@ If you're planning to contact organisations about a project update, [open a new 
 - [ ] [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/list_signatures) 
 - [ ] [Fair Open Access supporters](https://gitlab.com/publishing-reform/discussion/blob/master/Fair%20Open%20Access/List%20of%20supporters%20of%20Fair%20Open%20Access.md)
 
-### Pledge sites (superceded; see https://github.com/Daniel-Mietchen/pledges for latest pledge list)
+### Pledge sites 
+_moved to [FOK FAQ](https://freeourknowledge.org/faq/)_
 
 ## Field-specific
 
