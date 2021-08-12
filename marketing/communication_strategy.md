@@ -1,14 +1,5 @@
 # Communication Strategy
-
-Note: If you add anyhing here you should also add it to the ['Marketing checklist' issue template](https://github.com/FreeOurKnowledge/community/issues/templates/edit)
-
-## Comms strategy for new campaign proposals on Github 
-_checklist moved to Notion for a trial period_
-
-## Channels to contact with project updates
-If you're planning to contact organisations about a project update, [open a new 'marketing blitz' issue in Github](https://github.com/FreeOurKnowledge/community/issues/new/choose) and follow the template/checklist to keep track of who you've contacted. Write a different pitch for each of the following categories, then copy to all. 
-
-##### NOTE: THE FOLLOWING SHOULD BE A DIRECT COPY OF THE [MARKETING CHECKLIST TEMPLATE](https://github.com/FreeOurKnowledge/website/issues/templates/edit). IF IT ISN'T, OVERWRITE THE TEXT IN THE MARKETING CHECKLIST WITH THE FOLLOWING)
+_Note: I'm in the process of moving this document to our Notion workspace and creating a more user-friendly checklist, which I will link back here when complete. This document will supercede the 'Marketing blitz' issue template here in Github._
 
 ### Internal channels (FOK)
 - [ ] [Mailing list (general)](http://eepurl.com/dFVBVz) (mention campaign in newsletter)
