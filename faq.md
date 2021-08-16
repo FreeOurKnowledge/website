@@ -25,7 +25,6 @@ We plan to analyse and report when people have followed through on their pledges
 #### Are there other pledge sites?
 Yes, here are the other pledges we know of (though none of these include a 'critical mass' component):
 * [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/)
-* [Research Without Walls](http://www.researchwithoutwalls.org/451)
 * [Fraser Lab Lab Compact and Philosophy](https://fraserlab.com/compact/)
 * [Open Access Pledge](https://www.openaccesspledge.com)
 * [Cost of Knowledge](http://thecostofknowledge.com/)
