@@ -1,7 +1,7 @@
 #### Reasons other pledge sites might want to join forces
 
 * Maintain and build momentum
-  * previous pledge initiatives are all single-use/standalone, which means other campaigns cannot capitalise on their momentum
+  * previous pledge initiatives are single-use/standalone, preventing other campaigns from building on their momentum
   * people who pledge once are likely to pledge again (e.g. 90% of [FOK RR-Now](https://freeourknowledge.org/2021-07-01-registered-reports-now_ecol-evol-biol/) signatories consented to future contact)
   * FOK gets people onto a common mailing list to maintain/build momentum
   * future campaigns can invite larger/bolder actions
