@@ -31,6 +31,7 @@ Yes, here are the other pledges we know of (though none of these include a 'crit
 * [No Free View? No Review!](https://nofreeviewnoreview.org/)
 * [Research Without Walls](http://www.researchwithoutwalls.org/)
 * [Pledge for sustainable research in theoretical computer science](https://tcs4f.org/)
+* [Open Source for Neuroscience](http://opensourceforneuroscience.org/)
 
 Some researchers have also made individual pledges:
 * [Erin McKiernan](https://emckiernan.wordpress.com/pledge/)
