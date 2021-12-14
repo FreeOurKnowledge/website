@@ -14,5 +14,5 @@ This campaign will be launching soon to coincide with the publication of our [pr
 If you would like to be notified when the campaign is launched, please join our [mailing list](http://eepurl.com/dFVBVz).
 
 
-[Open code badge](https://www.comses.net/resources/open-code-badge/) by [CoMSES](https://www.comses.net/) is licenced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[Open code badge](https://www.comses.net/resources/open-code-badge/) by [CoMSES](https://www.comses.net/) is licenced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 Cover image licenced [CC](https://creativecommons.org/), origin unknown
