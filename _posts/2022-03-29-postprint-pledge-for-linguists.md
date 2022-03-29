@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Postprint Pledge for Linguistics
-subtitle: Pledge to share the postprints of your articles
+subtitle: Pledge to share a postprint of every article you publish
 gh-repo: freeourknowledge/website
-cover-img: [UPLOAD COVER IMAGE TO /assets/img/ AND LINK HERE]
-thumbnail-img: [UPLOAD THUMBNAIL IMAGE TO /assets/img/ AND LINK HERE]
-share-img: [UPLOAD SHARE IMAGE TO /assets/img/ AND LINK HERE]
+cover-img: /assets/img/handcuffs.jpg
+thumbnail-img: /assets/img/green_oa_small.png
+share-img: /assets/img/green_oa_small.png
 comments: true
 ---
 
