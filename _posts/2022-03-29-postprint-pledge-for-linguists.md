@@ -9,7 +9,6 @@ share-img: /assets/img/green_oa_small.png
 comments: true
 ---
 
-#### Rationale
 Accessibility of scientific research is a cornerstone of an equitable and fair academy. Paywalls have become a major obstacle that disadvantages many researchers in the Global South, preventing them from keeping up with the latest scholarship, let alone contributing to it.
 
 This does not have to be the case. According to most publishers’ copyright policies, authors are legally permitted to share the accepted version (the “postprint”) of their manuscripts online. While the preprint is the paper that has not gone through peer review yet, the postprint is the version that has been accepted for publication but has not been copyedited by the publisher. It is basically the final, pre-formatted draft that you submit to the journal to be published. Posting this postprint on your personal website or on a nonprofit repository does not violate the copyright requirements of most publishers (see table below).
