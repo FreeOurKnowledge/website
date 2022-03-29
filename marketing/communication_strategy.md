@@ -1,5 +1,4 @@
 # Communication Strategy
-_Note: I'm in the process of moving this document to our Notion workspace and creating a more user-friendly checklist, which I will link back here when complete. This document will supercede the 'Marketing blitz' issue template here in Github._
 
 ### Internal channels (FOK)
 - [ ] [Mailing list (general)](http://eepurl.com/dFVBVz) (mention campaign in newsletter)
@@ -13,7 +12,12 @@ _Note: I'm in the process of moving this document to our Notion workspace and cr
 - [ ] ~~[Google doc](https://docs.google.com/document/d/1imcjyJzcxlP2CGag7jj7tx06Vs1bSoxJ4rdJwkLsuZU/edit)~~ (for discussing campaigns, now superceded by Github)
 
 ### Social media
-_checklist moved to Notion for a trial period_
+1. Write [multi-thread tweet](https://twitter.com/projectFOK/status/1424976060492369920?s=20) targeted at research community, use images/gifs, tag relevant people/organisations, ask yes-leading questions (?); post mid-week (ideally 3pm wednesday, but impossible given world timezones)
+2. Copy individual threads into Facebook post (on [FOK page](https://www.facebook.com/projectFOK)), check @'s and hashtags
+3. Share FOK Facebook post to personal page, write more general intro (public-facing) 
+4. Copy Facebook FOK post into personal Linked-in post, check @'s and hashtags
+5. Email FOK Google Group, asking them to support/comment/retweet above links (1-4)
+6. (day after) Retweet from personal account. Check messages on all platforms and reply. 
 
 ### Blogs
 - [ ] [UKRN](https://www.ukrn.org/news/)
@@ -24,11 +28,21 @@ _checklist moved to Notion for a trial period_
 - [ ] [Open Science MOOC](https://opensciencemooc.eu/blog/)
 - [ ] [Future of Research](https://www.futureofresearch.org/blog/)
 
-### Discussion forum threads
-_checklist moved to Notion for a trial period_
+### Discussion forums
+On Science and Academia (e.g., https://onscienceandacademia.org/t/posting-peer-reviews-to-preprints/1468)
+Publishing reform forum	(e.g., https://gitlab.com/publishing-reform/discussion/-/issues/146)
+BehSci	(e.g., https://www.reddit.com/r/BehSciMeta/comments/p2sk4v/campaign_proposal_posting_peerreviews_to_preprints/)
 
 ### Slack workspaces
-_checklist moved to Notion for a trial period_
+- [ ] AIMOS
+- [ ] SIPS
+- [ ] PSA
+- [ ] INOSS
+- [ ] SORTEE
+- [ ] ANZORN
+- [ ] CogNeuro
+- [ ] OLS
+- [ ] ASAPbio
 
 ### Google groups
 - [ ] [Network of open science grassroots networks](network-of-open-science-grassroots-networks@cos.io)
