@@ -43,6 +43,12 @@ This campaign is open to researchers in Applied Linguistics and Second Language 
 #### When will my pledge activate?
 Your pledge will activate as soon as you sign it, meaning that you should share your postprints immediately. You are also invited to share postprints of your previously published papers if they are behind paywalls. 
 
+#### Who has pledged so far?
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQSxwa1ADHwzqmEAWzoUZluMTLunZnYbztIbtUi4FWl4ar-eb85Yx-UYXwUWbi-R6EAe5-55q7AYrAC/pubhtml?gid=584199642&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+#### Take the pledge!
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLCySIEk3EVaZkqd0YPbwMpPhmsrgBhubuft8OD9PqVeQ-ng/viewform?embedded=true" width="640" height="1249" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 #### Linguistics Journals Policies 
 
 |           |     Journal                                                               |     Publisher                    |     Personal   Website    |     Repository       |     More   Info                                        |
@@ -107,9 +113,3 @@ Your pledge will activate as soon as you sign it, meaning that you should share 
 |     58    |     Modern Language Journal                                               |     Wiley                        |     24m embargo           |     24m embargo      |     https://v2.sherpa.ac.uk/id/publication/15814       |
 |     59    |     TESOL Quarterly                                                       |     Wiley                        |     24m embargo           |     24m embargo      |     https://v2.sherpa.ac.uk/id/publication/22134       |
 |     60    |     Mind & Language                                                       |     Wiley                        |     24m embargo           |     24m embargo      |     https://v2.sherpa.ac.uk/id/publication/7103        |
-
-#### Who has pledged so far?
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQSxwa1ADHwzqmEAWzoUZluMTLunZnYbztIbtUi4FWl4ar-eb85Yx-UYXwUWbi-R6EAe5-55q7AYrAC/pubhtml?gid=584199642&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
-#### Take the pledge!
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLCySIEk3EVaZkqd0YPbwMpPhmsrgBhubuft8OD9PqVeQ-ng/viewform?embedded=true" width="640" height="1249" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
