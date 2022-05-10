@@ -52,4 +52,4 @@ Many researchers have also signed declarations (supporting a position statement 
 * [Fair Open Access supporters](https://gitlab.com/publishing-reform/discussion/blob/master/Fair%20Open%20Access/List%20of%20supporters%20of%20Fair%20Open%20Access.md)
 * [No-fee science](https://docs.google.com/forms/d/e/1FAIpQLSeGl9IgTZcVDcyinQbosTKhrZVTTVhQ8fUg5Yc9K860AHeDpw/viewform)
 * [Freeing sciences](https://journauxscientifiqueslibres.wesign.it/en)
-* [Right to share publications (petition to APA with threat of collective action)](https://www.change.org/p/american-psychological-association-right-to-share-publications?recruiter=11934790&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition&utm_term=Search%3ESAP%3EUS%3ENonBrand%3EExact&use_react=false)
+* [Right to share publications](https://www.change.org/p/american-psychological-association-right-to-share-publications?recruiter=11934790&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition&utm_term=Search%3ESAP%3EUS%3ENonBrand%3EExact&use_react=false)
