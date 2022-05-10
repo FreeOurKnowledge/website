@@ -32,6 +32,7 @@ Yes, here are the other pledges we know of (though none of these include a 'crit
 * [Research Without Walls](http://www.researchwithoutwalls.org/)
 * [Pledge for sustainable research in theoretical computer science](https://tcs4f.org/)
 * [Open Source for Neuroscience](http://opensourceforneuroscience.org/)
+* [More Open Access Pledge](https://globalyoungacademy.net/news-release-gya-members-pledge-for-open-access/)
 
 Some researchers have also made individual pledges:
 * [Erin McKiernan](https://emckiernan.wordpress.com/pledge/)
@@ -49,3 +50,6 @@ Many researchers have also signed declarations (supporting a position statement 
 * [Position Statement on Economic Growth](https://steadystate.org/act/sign-the-position/endorsements-and-signatures/view-all-individual-signatures/)
 * [A pledge for planetary health to unite health professionals in the Anthropocene](https://doi.org/10.1016/S0140-6736(20)32039-0)
 * [Fair Open Access supporters](https://gitlab.com/publishing-reform/discussion/blob/master/Fair%20Open%20Access/List%20of%20supporters%20of%20Fair%20Open%20Access.md)
+* [No-fee science](https://docs.google.com/forms/d/e/1FAIpQLSeGl9IgTZcVDcyinQbosTKhrZVTTVhQ8fUg5Yc9K860AHeDpw/viewform)
+* [Freeing sciences (petition to researchers to change practices)](https://journauxscientifiqueslibres.wesign.it/en)
+* [Right to share publications (petition to APA with threat of collective action)](https://www.change.org/p/american-psychological-association-right-to-share-publications?recruiter=11934790&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition&utm_term=Search%3ESAP%3EUS%3ENonBrand%3EExact&use_react=false)
