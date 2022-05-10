@@ -24,10 +24,10 @@ We plan to analyse and report when people have followed through on their pledges
 
 #### Are there other pledge sites?
 Yes, here are the other pledges we know of (though none of these include a 'critical mass' component):
+* [Cost of Knowledge](http://thecostofknowledge.com/)
 * [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/)
 * [Fraser Lab Lab Compact and Philosophy](https://fraserlab.com/compact/)
 * [Open Access Pledge](https://www.openaccesspledge.com)
-* [Cost of Knowledge](http://thecostofknowledge.com/)
 * [No Free View? No Review!](https://nofreeviewnoreview.org/)
 * [Research Without Walls](http://www.researchwithoutwalls.org/)
 * [Pledge for sustainable research in theoretical computer science](https://tcs4f.org/)
