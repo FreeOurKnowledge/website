@@ -9,9 +9,32 @@ share-img: /assets/img/green_oa_small.png
 comments: true
 ---
 
+#### Supporters of this Pledge
+
+Ali H. Al-Hoorie
+Phil Hiver
+Peter De Costa
+Jean-Marc Dewaele
+Susan Gass
+ZhaoHong Han
+James Lantolf
+Diane Larsen-Freeman
+Wei Li
+Peter MacIntyre
+Bonny Norton
+Rebecca Oxford
+Luke Plonsky
+Peter Robinson
+John Schumann
+Ema Ushioda
+Lawrence Zhang
+Brian Nosek
+
+#### What is this all about? 
+
 Accessibility of scientific research is a cornerstone of an equitable and fair academy. Paywalls have become a major obstacle that disadvantages many researchers in the Global South, preventing them from keeping up with the latest scholarship, let alone contributing to it.
 
-This does not have to be the case. According to most publishers’ copyright policies, authors are legally permitted to share the accepted version (the “postprint”) of their manuscripts online. While the preprint is the paper that has not gone through peer review yet, the postprint is the version that has been accepted for publication but has not been copyedited by the publisher. It is basically the final, pre-formatted draft that you submit to the journal to be published. Posting this postprint on your personal website or on a nonprofit repository does not violate the copyright requirements of most publishers (see table below).
+This does not have to be the case. According to most publishers’ copyright policies, authors are legally permitted to share the accepted version (the “postprint”) of their manuscripts online. While the preprint is the paper that has not gone through peer review yet, **the postprint is the version that has been accepted for publication** but has not been copyedited by the publisher. It is basically the final, pre-formatted draft that you submit to the journal to be published. Posting this postprint on your personal website or on a nonprofit repository does not violate the copyright requirements of most publishers (see table below).
 
 By taking this pledge, you undertake to make scholarship accessible to readers who may not have institutional subscriptions by making available the postprints of all articles you publish in the following applied linguistics journals (they give you the right to do so), either on your personal website or on a public repository.
 
@@ -35,7 +58,7 @@ http://osf.io/preprints generalist repository
 http://psyarxiv.org/ more toward linguistics
 http://socarxiv.org/ more toward education
 
-​4. After you posting your postprint, you are welcome to announce it with the hashtag ``` #PostprintPledge ``` at the Facebook page [Applied Linguistics Research Methods--Discussion](https://www.facebook.com/groups/appliedlinguisticsresearchmethods/). ``` Don't wait ``` until you publish a new paper; pick a paper you have already published and share it now! 
+4. After you posting your postprint, you are welcome to announce it with the hashtag **#PostprintPledge** at the Facebook group [Applied Linguistics Research Methods--Discussion](https://www.facebook.com/groups/appliedlinguisticsresearchmethods/). **Don't wait** until you publish a new paper; pick a paper you have already published and share it now! 
 
 #### Who can sign?
 This campaign is open to researchers in Applied Linguistics and Second Language Acquisition, but all researchers in Linguistics are welcome. We compiled a list of journals in Applied Linguistics and Second Language Acquisition, each with its copyright policies to make things clearer for potential Pledgers. We invite advocates from other fields to do the same. 
