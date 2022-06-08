@@ -29,7 +29,7 @@ By taking this pledge, you undertake to make scholarship accessible to readers w
 
 <http://osf.io/preprints> generalist repository \
 <http://psyarxiv.org/> more toward linguistics \
-<http://socarxiv.org/> more toward education \
+<http://socarxiv.org/> more toward education 
 
 After posting your postprint, you are welcome to announce it with the hashtag **#PostprintPledge** at the Facebook group [Applied Linguistics Research Methods--Discussion](https://www.facebook.com/groups/appliedlinguisticsresearchmethods/). **Don't wait** until you publish a new paper; pick a paper you have already published and share it now! 
 
