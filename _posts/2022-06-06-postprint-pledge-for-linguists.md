@@ -39,7 +39,7 @@ This campaign is open to researchers in Applied Linguistics and Second Language 
 Your pledge will activate as soon as you sign it, meaning that you should share your postprints immediately. You are also invited to share postprints of your previously published papers if they are behind paywalls. 
 
 #### Who has taken the pledge? 
-<iframe width='100%' height='540' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQSxwa1ADHwzqmEAWzoUZluMTLunZnYbztIbtUi4FWl4ar-eb85Yx-UYXwUWbi-R6EAe5-55q7AYrAC/pubhtml?gid=584199642&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='100%' height='500' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQSxwa1ADHwzqmEAWzoUZluMTLunZnYbztIbtUi4FWl4ar-eb85Yx-UYXwUWbi-R6EAe5-55q7AYrAC/pubhtml?gid=584199642&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 #### Take the pledge! 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLCySIEk3EVaZkqd0YPbwMpPhmsrgBhubuft8OD9PqVeQ-ng/viewform?embedded=true" width="640" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
