@@ -25,10 +25,11 @@ By taking this pledge, you undertake to make scholarship accessible to readers w
 #### What this Pledge ASKS you to do 
 1. Whenever you publish in these journals, share the postprint of your accepted manuscript online, either on your personal website and/or a public repository. (This assumes that your article will be behind a paywall and not already open access, of course.)
 2. Remember to include publication details on the first page (e.g., journal title, etc.) so that others can cite your paper properly.
-3. You are free to go for a repository of your choice. The recommended repositories are: \
-<http://osf.io/preprints> generalist repository \
-<http://psyarxiv.org/> more toward linguistics \
-<http://socarxiv.org/> more toward education 
+3. You are free to go for a repository of your choice. The recommended repositories are: 
+  
+  <http://osf.io/preprints> generalist repository \
+  <http://psyarxiv.org/> more toward linguistics \
+  <http://socarxiv.org/> more toward education 
 4. After posting your postprint, you are welcome to announce it with the hashtag **#PostprintPledge** at the Facebook group [Applied Linguistics Research Methods--Discussion](https://www.facebook.com/groups/appliedlinguisticsresearchmethods/). **Don't wait** until you publish a new paper; pick a paper you have already published and share it now! 
 5. Sign your name in the link below. 
 
