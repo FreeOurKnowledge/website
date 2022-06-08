@@ -9,7 +9,7 @@ share-img: /assets/img/green_oa_small.png
 comments: true
 ---
 
-#### Supporters of this Pledge:
+#### Supporters of this Pledge
 Ali H. Al-Hoorie \
 Phil Hiver \
 Peter De Costa \
@@ -31,7 +31,7 @@ Brian Nosek \
 [See link below for more names...]
  
 
-#### What is this all about? 
+#### What is this all about?
 Accessibility of scientific research is a cornerstone of an equitable and fair academy. Paywalls have become a major obstacle that disadvantages many researchers in the Global South, preventing them from keeping up with the latest scholarship, let alone contributing to it.
 
 This does not have to be the case. According to most publishers’ copyright policies, authors are legally permitted to share the accepted version (the “postprint”) of their manuscripts online. **While the preprint is the paper that has not gone through peer review yet, the postprint is the version that has been <ins>accepted</ins> for publication but has not been copyedited by the publisher**. It is basically the final, pre-formatted draft that you submit to the journal to be published. Posting this postprint on your personal website or on a nonprofit repository does not violate the copyright requirements of most publishers (see table below).
@@ -39,14 +39,14 @@ This does not have to be the case. According to most publishers’ copyright pol
 By taking this pledge, you undertake to make scholarship accessible to readers who may not have institutional subscriptions by making available the postprints of all articles you publish in the following applied linguistics journals (they give you the right to do so), either on your personal website or on a public repository.
  
 
-#### What this Pledge is NOT asking you to do:
+#### What this Pledge is NOT asking you to do
 1. This Pledge does not ask you to break any laws. Sharing postprints is within your rights (see details in the table).
 2. This Pledge does not ask you to share “preprints” (i.e., your manuscript before it was accepted), but to share the “postprint” (the accepted version before it is formatted and copyedited by the publisher). Simply put, you convert the final word document into pdf and share it. See example [here](https://psyarxiv.com/ugt9s/). (It is your choice if you also want to share your preprints.)
 3. This Pledge does not limit you to publishing in these journals.
 4. This Pledge does not require you do anything else (like boycotting certain publishers or not reviewing for them).
 
 
-#### What this Pledge ASKS you to do:
+#### What this Pledge ASKS you to do
 1. Whenever you publish in these journals, share the postprint of your accepted manuscript online, either on your personal website and/or a public repository. (This assumes that your article will be behind a paywall and not already open access, of course.)
 2. Remember to include publication details on the first page (e.g., journal title, etc.) so that others can cite your paper properly.
 3. You are free to go for a repository of your choice. The recommended repositories are: \
