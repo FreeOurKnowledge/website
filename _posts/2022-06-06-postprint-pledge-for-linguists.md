@@ -9,28 +9,6 @@ share-img: /assets/img/green_oa_small.png
 comments: true
 ---
 
-#### Supporters of this Pledge
-Ali H. Al-Hoorie \
-Phil Hiver \
-Peter De Costa \
-Jean-Marc Dewaele \
-Susan Gass \
-ZhaoHong Han \
-James Lantolf \
-Diane Larsen-Freeman \
-Wei Li \
-Peter MacIntyre \
-Bonny Norton \
-Rebecca Oxford \
-Luke Plonsky \
-Peter Robinson \
-John Schumann \
-Ema Ushioda \
-Lawrence Zhang \
-Brian Nosek \
-[See link below for more names...]
- 
-
 #### What is this all about?
 Accessibility of scientific research is a cornerstone of an equitable and fair academy. Paywalls have become a major obstacle that disadvantages many researchers in the Global South, preventing them from keeping up with the latest scholarship, let alone contributing to it.
 
@@ -38,13 +16,11 @@ This does not have to be the case. According to most publishers’ copyright pol
 
 By taking this pledge, you undertake to make scholarship accessible to readers who may not have institutional subscriptions by making available the postprints of all articles you publish in the following applied linguistics journals (they give you the right to do so), either on your personal website or on a public repository.
  
-
 #### What this Pledge is NOT asking you to do
 1. This Pledge does not ask you to break any laws. Sharing postprints is within your rights (see details in the table).
 2. This Pledge does not ask you to share “preprints” (i.e., your manuscript before it was accepted), but to share the “postprint” (the accepted version before it is formatted and copyedited by the publisher). Simply put, you convert the final word document into pdf and share it. See example [here](https://psyarxiv.com/ugt9s/). (It is your choice if you also want to share your preprints.)
 3. This Pledge does not limit you to publishing in these journals.
 4. This Pledge does not require you do anything else (like boycotting certain publishers or not reviewing for them).
-
 
 #### What this Pledge ASKS you to do
 1. Whenever you publish in these journals, share the postprint of your accepted manuscript online, either on your personal website and/or a public repository. (This assumes that your article will be behind a paywall and not already open access, of course.)
@@ -62,8 +38,8 @@ This campaign is open to researchers in Applied Linguistics and Second Language 
 #### When will my pledge activate?
 Your pledge will activate as soon as you sign it, meaning that you should share your postprints immediately. You are also invited to share postprints of your previously published papers if they are behind paywalls. 
 
-#### Who has pledged so far?
-Click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQSxwa1ADHwzqmEAWzoUZluMTLunZnYbztIbtUi4FWl4ar-eb85Yx-UYXwUWbi-R6EAe5-55q7AYrAC/pubhtml?gid=584199642&amp;single=true&amp;widget=true&amp;headers=false) to view the names. 
+#### Supporters of this Pledge
+<iframe width='100%' height='180' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQSxwa1ADHwzqmEAWzoUZluMTLunZnYbztIbtUi4FWl4ar-eb85Yx-UYXwUWbi-R6EAe5-55q7AYrAC/pubhtml?gid=584199642&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 #### Take the pledge!
 Click [here](https://docs.google.com/forms/d/e/1FAIpQLSfLCySIEk3EVaZkqd0YPbwMpPhmsrgBhubuft8OD9PqVeQ-ng/viewform?embedded=true) to sign up now! 
