@@ -29,8 +29,7 @@ By taking this pledge, you undertake to make scholarship accessible to readers w
 <http://osf.io/preprints> generalist repository \
 <http://psyarxiv.org/> more toward linguistics \
 <http://socarxiv.org/> more toward education 
-4. After posting your postprint, you are welcome to announce it with the hashtag **#PostprintPledge** at the Facebook group [Applied Linguistics Research Methods--Discussion](https://www.facebook.com/groups/appliedlinguisticsresearchmethods/). **Don't wait** until you publish a new paper; pick a paper you have already published and share it now! 
-5. Sign your name in the link below. 
+After posting your postprint, you are welcome to announce it with the hashtag **#PostprintPledge** at the Facebook group [Applied Linguistics Research Methods--Discussion](https://www.facebook.com/groups/appliedlinguisticsresearchmethods/). **Don't wait** until you publish a new paper; pick a paper you have already published and share it now! 
 
 #### Who can sign? 
 This campaign is open to researchers in Applied Linguistics and Second Language Acquisition, but all researchers in Linguistics are welcome. We compiled a list of journals in Applied Linguistics and Second Language Acquisition, each with its copyright policies to make things clearer for potential Pledgers. We invite advocates from other fields to do the same. 
