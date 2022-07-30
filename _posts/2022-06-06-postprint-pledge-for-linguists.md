@@ -16,11 +16,11 @@ Sharing the accepted version (also called the postprint) of your article online 
 2. Remember to include publication details on the first page (e.g., journal title, etc.) so that others can cite your paper properly.
 3. You are free to go for a repository of your choice. The recommended repositories are:
 
-<https://www.iris-database.org> linguistics repository (highly recommended) \
-<https://osf.io/preprints> generalist repository \
-<https://psyarxiv.com> more toward psychology \ 
-<https://edarxiv.org> more toward education \
-<http://socarxiv.org> more toward social sciences \
+<https://www.iris-database.or/g> linguistics repository (highly recommended) \
+<https://osf.io/preprints/> generalist repository \
+<https://psyarxiv.com/> more toward psychology \ 
+<https://edarxiv.org/> more toward education \
+<http://socarxiv.org/> more toward social sciences \
 
 #### What this Pledge is NOT asking you to do:
 1. This Pledge does not ask you to break any laws. Sharing postprints is within your rights (see details at the link below).
