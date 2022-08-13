@@ -35,5 +35,5 @@ This campaign is open to researchers in Applied Linguistics and Second Language 
 Your pledge will activate as soon as you sign it, meaning that you should share your postprints immediately. You are also invited to share postprints of your previously published papers if they are behind paywalls.
 
 To sign up, please visit this page: 
-https://www.ali-alhoorie.com/postprint-pledge
+[https://www.ali-alhoorie.com/postprint-pledge](https://www.ali-alhoorie.com/postprint-pledge)
 
