@@ -15,8 +15,9 @@ author: Free Our Knowledge
 
 navbar-links:
   Campaigns: "/"
-  Proposals: "https://github.com/FreeOurKnowledge/website/issues?q=is%3Aopen+is%3Aissue+label%3Adraft-campaign"
+#  Proposals: "https://github.com/FreeOurKnowledge/website/issues?q=is%3Aopen+is%3Aissue+label%3Adraft-campaign"
   About: "about"
+  Committee: "committee"
   Resources:
     - News & Media: "news"
     - Frequently Asked Questions: "faq"
