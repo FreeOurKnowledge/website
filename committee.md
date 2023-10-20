@@ -5,8 +5,6 @@ subtitle: We're building a platform to help researchers organise collective acti
 comments: true
 ---
 
-<iframe width="560" height="315" style="text-align:center" src="https://www.youtube.com/embed/Q33K-nkzHj0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{: .mx-auto.d-block :}
-
 ### A new concerted effort
 In its original conception, Free Our Knowledge invited the scientific community to support different campaigns aimed at organizing collective action, and to create their own campaigns for others to support. However, we have observed that the success of this approach depends on the efforts and initiatives of individual researchers who are already, as noted, uncoordinated. For this reason, Free Our Knowledge is refocusing on promoting a single collective action campaign, with the aim of building broad support for the concept so that future collective action initiatives will be able to build on its success.
 
