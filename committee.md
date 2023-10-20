@@ -18,9 +18,9 @@ The committee has the following members, with vacancies open to other researcher
 * Chair ([Laurens Kemp](https://www.maastrichtuniversity.nl/nl/lt-kemp), Maastricht University)
 * General member ([Wim Pouw](https://wimpouw.com/), Radboud Universiteit)
 * General member (Daniel Hudson)
-* General member ([vacancy](assets\documents\VacancyCommittee.pdf))
-* Social media and communications ([vacancy](assets\documents\VacancyCommittee.pdf))
-* Web developer
-* Secretary
+* General member ([vacancy](..\assets\documents\VacancyCommittee.pdf))
+* Social media and communications ([vacancy](..\assets\documents\VacancyCommittee.pdf))
+* Web developer ([vacancy](..\assets\documents\VacancyCommittee.pdf))
+* Secretary ([vacancy](..\assets\documents\VacancyCommittee.pdf))
 * Honorary member (vacancy forthcoming)
 * Founder (Cooper Smout)
