@@ -22,5 +22,5 @@ The committee has the following members, with vacancies open to other researcher
 * Social media and communications ([vacancy](assets\documents\VacancyCommittee.pdf))
 * Web developer
 * Secretary
-* Honorary member (VACANCY LINK)
+* Honorary member (vacancy forthcoming)
 * Founder (Cooper Smout)
