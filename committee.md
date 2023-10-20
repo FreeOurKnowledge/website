@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Committee
 subtitle: We're building a platform to help researchers organise collective action in support of open and reproducible research practices
 comments: true
 ---
