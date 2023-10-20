@@ -23,4 +23,4 @@ The committee has the following members, with vacancies open to other researcher
 * Web developer ([vacancy](https://freeourknowledge.org/assets/documents/VacancyCommittee.pdf))
 * Secretary ([vacancy](https://freeourknowledge.org/assets/documents/VacancyCommittee.pdf))
 * Honorary member (vacancy forthcoming)
-* Founder (Cooper Smout)
+* Founder ([Cooper Smout](https://coopersmout.com/))
