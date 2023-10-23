@@ -27,6 +27,4 @@ The committee has the following members, with vacancies open to other researcher
 
 If you are interested in joining the committee, please contact us and provide a short statement of interest and CV. We are currently looking for members ideally working in cognitive (neuro)science broadly conceived, meaning sociology, anthropology, AI, psychology, philosophy, linguistics, neuroscience, and human movement science. Anyone who is in one way or another involved in the academic publishing system is invited to apply, e.g., researcher, librarian, or editor. We expect that committee members will be able to invest at least 1 to 3 hours per week on this project. You will be listed as a committee member on the Free Our Knowledge website and you will have provided a valuable service to the scientific community that can be beneficial to your CV.
 
-Additionally, we are looking for honorary members who would contribute by way of lending their name and reputation to our mission, and inspire others to follow. We expect from the honorary member to consider public support for collective actions (e.g., a petition to promote diamond open access publishing) and to advise the general committee on effective collective action.
-
-Any applications and inquiries can be sent to L.Kemp@maastrichtuniversity.nl.
+Any applications and inquiries can be sent to [address forthcoming].
