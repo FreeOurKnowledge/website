@@ -15,9 +15,9 @@ The mission of Free Our Knowledge has not changed, and our focus on encouraging 
 ### Who are the Collective Action in Science Committee?
 The committee has the following members, with vacancies open to other researchers in the Benelux area.
 
-* Chair ([Laurens Kemp](https://www.maastrichtuniversity.nl/nl/lt-kemp), Maastricht University)
+* Chair ([Laurens Kemp](https://www.nsmd.eu/organisation/people/kemp-laurens), Maastricht University)
 * General member ([Wim Pouw](https://wimpouw.com/), Radboud Universiteit)
-* General member (Daniel Hudson)
+* General member ([Daniel Hudson](https://www.cs.uni-osnabrueck.de/en/institute/faculty_members.html?module=TemplatePersondetails&target=15067&source=15067&config_id=7ce3f80177be29d7f83252ec765f8766&range_id=0c3ad80568c7b478c148af31ae56baa9&username=dhudson&group_id=231bcc68707016173b49713e1c1c85f4&global_id=b1237e30f9c6932c1e06e933624827d2))
 * General member ([vacancy](..\documents\VacancyCommittee.pdf))
 * Social media and communications ([vacancy](https://freeourknowledge.org/documents/VacancyCommittee.pdf))
 * Web developer ([vacancy](https://freeourknowledge.org/documents/VacancyCommittee.pdf))
