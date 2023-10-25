@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Committee
-subtitle: We're building a platform to help researchers organise collective action in support of open and reproducible research practices
+subtitle: The Collective Action in Science Committee works to organize collective action campaigns and to bring researchers together to improve our scientific institutions.
 comments: true
 ---
 
