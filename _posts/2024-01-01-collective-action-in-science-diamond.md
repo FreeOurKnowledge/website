@@ -10,6 +10,14 @@ comments: true
 ---
 The pledge: 
 
+As a researcher who works in or relates to the field of cognitive science, I agree that the profiteering by third parties in the current publishing system in academia is highly problematic (for a problem analysis see here), and therefore I am willing to declare that:
+
+I will publish 1 of my first-authored papers with an open access journal that does not charge article processing fees (i.e., under a diamond open access agreement) within 5 years if 500 other cognitive science researchers pledge to do the same
+
+If and only if the following conditions are met:
+
+That it is ensured that my pledge will not be made public without my permission if the pledge does not activate. When the pledge activates my pledge becomes automatically public, and I will be notified at this point.
+
 
 ### What is Diamond Open Access
 [Diamond open access](https://en.wikipedia.org/wiki/Diamond_open_access) refers to publishers that do not ask for payment for publishing their research articles from the reader, nor ask for payment from the author (or their institution) via so-called article processing fees (APCs). This is possible for example through journals that are led by universities themselves via their associated university press labels  (e.g., see MIT Press’s journal [OpenMind](https://direct.mit.edu/opmi/pages/submission-guidelines)), or by scientific societies.
