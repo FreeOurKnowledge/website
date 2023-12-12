@@ -24,6 +24,8 @@ That it is ensured that my pledge will not be made public without my permission 
 - Laurens Kemp
 - Dan Hudson
 
+#### Take the pledge!
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelFpWDuSAX-2C6CZCzpZGX4jQx0mDfgrpCDdJYq5ijWjhT4g/viewform" width="640" height="1247" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## FAQ
 
@@ -55,6 +57,3 @@ We think it is ideal to start collective action in a loose-knit interdisciplinar
 
 ### What if this project fails, for whatever reason?
 While this initiative can fail by not reaching the threshold, it will be a message to the scientific publishing community that researchers are trying to take action. It seems that researchers are failing abysmally in taking collective action, be it for improving work conditions, or for improving the way we spend public resources. Even a failed attempt at collective action would signal a change in the spirit of the times.
-
-#### Take the pledge!
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelFpWDuSAX-2C6CZCzpZGX4jQx0mDfgrpCDdJYq5ijWjhT4g/viewform" width="640" height="1247" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
