@@ -8,13 +8,13 @@ thumbnail-img: /assets/img/cogsci_draft.png
 share-img: /assets/img/publish-your-reviews.png
 comments: true
 ---
-The pledge: 
+# The pledge: 
 
 As a researcher who works in or relates to the field of cognitive science, I agree that the profiteering by third parties in the current publishing system in academia is highly problematic (for a problem analysis see here), and therefore I am willing to declare that:
 
 I will publish 1 of my first-authored papers with an open access journal that does not charge article processing fees (i.e., under a diamond open access agreement) within 5 years if 500 other cognitive science researchers pledge to do the same
 
-If and only if the following conditions are met:
+__If and only if the following conditions are met:__
 
 That it is ensured that my pledge will not be made public without my permission if the pledge does not activate. When the pledge activates my pledge becomes automatically public, and I will be notified at this point.
 
