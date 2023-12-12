@@ -3,7 +3,7 @@ layout: post
 title: A pledge to increase non-profit publishing in Cognitive Science
 subtitle: Publish one diamond open access article in 5 years
 gh-repo: freeourknowledge/community
-cover-img: /assets/img/checklist.jpg
+cover-img: /assets/img/cogsci_draft.png
 thumbnail-img: /assets/img/cogsci_draft.png
 share-img: /assets/img/publish-your-reviews.png
 comments: true
