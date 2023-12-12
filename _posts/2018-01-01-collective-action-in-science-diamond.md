@@ -1,14 +1,16 @@
 ---
 layout: post
 title: 
-subtitle: Publish one diamond open access article in 5 years
+subtitle: 
 gh-repo: freeourknowledge/community
 cover-img: /assets/img/cogsci_draft.png
 thumbnail-img: /assets/img/cogsci_draft.png
 share-img: /assets/img/publish-your-reviews.png
 comments: true
 ---
-# The pledge: 
+# Publish one diamond open access article in 5 years
+
+## The pledge: 
 
 As a researcher who works in or relates to the field of cognitive science, I agree that the profiteering by third parties in the current publishing system in academia is highly problematic (for a problem analysis see here), and therefore I am willing to declare that:
 
