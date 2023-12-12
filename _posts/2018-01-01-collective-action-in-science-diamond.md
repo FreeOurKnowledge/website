@@ -3,8 +3,8 @@ layout: post
 title: 
 subtitle: Publish one diamond open access article in 5 years
 gh-repo: freeourknowledge/community
-cover-img: /assets/img/cogsci_draft.png
-thumbnail-img: /assets/img/cogsci_draftblank.png
+cover-img: /assets/img/cogsci_draftblank.png
+thumbnail-img: /assets/img/cogsci_draft.png
 share-img: /assets/img/publish-your-reviews.png
 comments: true
 ---
