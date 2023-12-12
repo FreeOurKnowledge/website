@@ -18,9 +18,14 @@ __If and only if the following conditions are met:__
 
 That it is ensured that my pledge will not be made public without my permission if the pledge does not activate. When the pledge activates my pledge becomes automatically public, and I will be notified at this point.
 
-# Public Signatories
+## Public Signatories
+- xxx
+- Wim Pouw
+- Laurens Kemp
+- Dan Hudson
 
-# FAQ
+
+## FAQ
 
 ### What is Diamond Open Access
 [Diamond open access](https://en.wikipedia.org/wiki/Diamond_open_access) refers to publishers that do not ask for payment for publishing their research articles from the reader, nor ask for payment from the author (or their institution) via so-called article processing fees (APCs). This is possible for example through journals that are led by universities themselves via their associated university press labels  (e.g., see MIT Press’s journal [OpenMind](https://direct.mit.edu/opmi/pages/submission-guidelines)), or by scientific societies.
