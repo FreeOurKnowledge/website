@@ -19,7 +19,7 @@ __If and only if the following conditions are met:__
 That it is ensured that my pledge will not be made public without my permission if the pledge does not activate. When the pledge activates my pledge becomes automatically public, and I will be notified at this point.
 
 #### Take the pledge!
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelFpWDuSAX-2C6CZCzpZGX4jQx0mDfgrpCDdJYq5ijWjhT4g/viewform" width="640" height="1247" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelFpWDuSAX-2C6CZCzpZGX4jQx0mDfgrpCDdJYq5ijWjhT4g/viewform" width="640" height="460" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Public Signatories
 - xxx
