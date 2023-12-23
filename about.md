@@ -17,31 +17,15 @@ Imagine if every researcher in the world decided that from tomorrow, we would do
 At Project Free Our Knowledge, we're building the world's first collective action platform for researchers. Our website hosts grassroots campaigns that are created and developed by the research community, and seek to normalise open and reproducible research practices. Researchers can support these campaigns by making a 'pledge', which is a commitment to adopt a particular action described in the campaign. Depending on the campaign design, pledges can either activate immediately (i.e., at the time of signing), or once some critical mass of pledges is met (these are called 'conditional pledges'). By gauging community support in this way _prior to taking action_, 'conditional pledges' seek to protect researchers' interests until such time that they can move together with their broader community. Think of it like [Kickstarter](https://www.kickstarter.com/), but for motivating behavioural change rather than products.
 
 ### What is our vision for the future? 
-In the early days, we expect our campaigns will ask small cohorts of researchers (tens or hundreds of people) to adopt simple actions (e.g., upload some data, post a preprint, or join a new platform). In the future, however, we plan to build on these small-scale successes to host ever-larger and bolder campaigns that ask thousands or tens of thousands of researchers to adopt progressively bolder behaviours (e.g., permanently changing one's publishing practices, or pressuring institutions to change their hiring practices). By probing the academic system from multiple directions at once, across multiple fields at once, we hope to tap into the latent desires of different research communities and, through collective action, empower disenfranchised researchers around the world to create positive change in academia.
+In the early days, we expect our campaigns will ask small cohorts of researchers (tens or hundreds of people) to adopt simple actions (e.g., upload some data, post a preprint, or join a new platform). In the future, however, we plan to build on these small-scale successes to host ever-larger and bolder campaigns that ask thousands or tens of thousands of researchers to adopt progressively bolder behaviours (e.g., permanently changing one's publishing practices, or pressuring institutions to change their hiring practices). By probing the academic system from multiple directions at once, across multiple fields, we aim to tap into the latent desires of research communities and empower disenfranchised researchers to create positive change in academia. Read more about our vision [here](https://osf.io/preprints/metaarxiv/vrwm7).
 
 ### How can you help?
 First and foremost, sign a pledge to our [campaigns](/)! Then tell your friends and colleagues about the project. You can also follow us on [Twitter](https://twitter.com/projectFOK) and [Facebook](https://www.facebook.com/projectFOK), share our posts and sign up to our [mailing list](http://eepurl.com/dFVBVz). Beyond that, please see our [Join Us](https://freeourknowledge.org/joinus/) page to find out other ways to get involved.
 
 ### Who are we?
-Project Free Our Knowledge is a grassroots movement driven by early career researchers who seek a fairer and more secure future in academia for our friends and colleagues. We are currently 100% self-funded (but seeking support!). The project is being led by:
+Project Free Our Knowledge is a grassroots movement driven by early career researchers. We are currently 100% self-funded and seeking support! FOK was founded by [Cooper Smout](https://www.coopersmout.com/) and has been supported by many amazing humans, not least of all [Dawn Liu Holford](https://www.essex.ac.uk/people/liuda52701/dawn-holford), Luis Pedro Coelho, Alex Holcombe, Brian Nosek, Daniela Saderi, Megan Campbell, Kelly Garner, Jon Tennant, and Gavin Taylor.
 
-* [Cooper Smout](https://www.coopersmout.com/)
-
-with support from:
-
-* [Dawn Liu Holford](https://www.essex.ac.uk/people/liuda52701/dawn-holford)
-* Megan Campbell
-* Kelly Garner
-* Jon Tennant
-* Gavin Taylor
-(among others)
-
-And advised by:
-
-* Luis Pedro Coelho
-* Alex Holcombe
-* Brian Nosek
-* Daniela Saderi
+FOK is now being led by the [Collective Action in Science Committee](https://freeourknowledge.org/committee/) 
 
 ### Partner organisations
 ![COS](assets/img/cos.png) ![UKRN](assets/img/UKRN.png) ![IGDORE](assets/img/IGDORE.png) 
