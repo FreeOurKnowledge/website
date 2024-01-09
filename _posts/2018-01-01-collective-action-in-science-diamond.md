@@ -17,7 +17,7 @@ I will publish 1 of my (co-authored) papers with an open access journal that doe
 __Under the following conditions:__
 - 500 other cognitive science researchers have signed as well.
 - That it is ensured that my pledge will not be made public without my permission if the pledge does not activate. 
-- When the pledge activates aftrer 500 signatories my pledge becomes automatically public, and I will be notified at this point.
+- When the pledge activates after 500 signatories my pledge becomes automatically public, and I will be notified at this point.
 
 #### Take the pledge!
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelFpWDuSAX-2C6CZCzpZGX4jQx0mDfgrpCDdJYq5ijWjhT4g/viewform" width="640" height="460" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
