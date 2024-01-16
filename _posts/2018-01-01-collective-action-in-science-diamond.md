@@ -72,5 +72,5 @@ As described by Smout ([2022](https://freeourknowledge.org/about/)), Academia is
 
 Therefore we need to act collectively. The health of academic research is dependent on us as researchers to protect our publishing ecosystems. We believe that a successful collective action will eventually lead to support by stakeholders beyond the researchers themselves, such as governments and funding institutions ([Hellard, 2022](https://www.lemonde.fr/idees/article/2022/09/27/les-etats-doivent-comprendre-a-nouveau-en-quoi-la-recherche-academique-est-fondamentale_6143451_3232.html) in French; [Weingart & Taubert, 2017](https://library.oapen.org/handle/20.500.12657/28913)).
 
-* Special thanks to Huggo Hellard for help writing this problem analysis.
+* Special thanks to Hugo Hellard for help writing this problem analysis.
 
