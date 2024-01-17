@@ -23,6 +23,7 @@ __Under the following conditions:__
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelFpWDuSAX-2C6CZCzpZGX4jQx0mDfgrpCDdJYq5ijWjhT4g/viewform" width="640" height="460" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Public Signatories
+- Eric-Jan Wagenmakers
 - Zoltan Dienes
 - Rogier Kievit
 - Peter Gärdenfors
