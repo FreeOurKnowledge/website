@@ -12,7 +12,7 @@ comments: true
 
 As a researcher who works in or relates to the field of cognitive science, I agree that the profiteering by third parties in the current publishing system in academia is highly problematic (for a problem analysis see [here](#probleman)), and therefore I am willing to declare that:
 
-I will publish 1 of my (co-authored) papers with an open access journal that does not charge article processing fees (i.e., under a diamond open access agreement) within 5 years from the day the pledge activates.
+I will publish 1 of my (co-authored) papers (or 1 of my chapters, or a book), with an open access publisher that does not charge article processing fees (i.e., under a diamond open access agreement) within 5 years from the day the pledge activates.
 
 __Under the following conditions:__
 - 500 other cognitive science researchers have signed as well.
@@ -47,8 +47,8 @@ Of course, it is not necessary to wait until the covenant to activate before pub
 ### Why 500 signees?
 It is difficult to have a well-motivated threshold for cognitive science, as it is a loose-knit community. The larger commitment is, the more inertia will be for the community to adopt said commitment. However since the demand of the pledge is fairly modest, we chose a threshold that indicates a shared commitment. 
 
-### What does it mean to publish one of my first authored papers under diamond open access?
-If over a period over 5 years you publish N amount of papers. At least one of them is published under a diamond open access agreement. If you have not published any papers, then the pledge will not need to be ratified.
+### What does it mean to publish one of my first authored papers, chapters, or books, under diamond open access?
+If over a period over 5 years you publish N amount of papers (or chapters or books). At least one of them is published under a diamond open access agreement. If you do not publish in these 5 years, then the pledge will not apply to your situation.
 
 ### What about my supervisor?
 We recommend discussing the signing of this covenant with your supervisor to prevent conflicts of interest.
