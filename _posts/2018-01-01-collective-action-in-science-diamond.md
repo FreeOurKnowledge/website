@@ -25,6 +25,7 @@ __Under the following conditions:__
 ## Public Signatories
 - Eric-Jan Wagenmakers
 - Zoltan Dienes
+- Limor Raviv
 - Rogier Kievit
 - Peter Gärdenfors
 - Wim Pouw (organizer)
