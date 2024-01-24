@@ -67,7 +67,7 @@ To exercise any of these rights, please contact us at [info@freeourknowledge.org
 
 ## Changes to this Policy:
 
-We may update this data policy from time to time. We will notify you of any changes by posting the updated policy on our website.
+We may update this data policy from time to time. We will notify you of any changes by posting the updated policy on our website. This policy was last updated at 24-1-2024.
 
 ## Contact us:
 
