@@ -1,35 +1,74 @@
 ---
 layout: page
-title: Committee
-subtitle: The Collective Action in Science Committee works to organize collective action campaigns and to bring researchers together to improve our scientific institutions.
+title: Privacy Policy 
+subtitle: Diamond Open Access in Cognitive Science
 comments: true
 ---
+## Introduction:
 
-### Why the committee is needed
-You have likely already heard of the growing sentiment against exploitative practices in science publishing. In the current system, universities pay unjustly high fees to journals for publishing and subscriptions, while researchers are providing free and largely undocumented labor in the form of peer review and editorial work. Many desire to change this, but at an individual level, the most effective course of action is unclear or could potentially impact one’s career.
+This data policy outlines how we collect, use, store, and protect the personal data of individuals who sign our online pledge (hereinafter referred to as "Signatories"). We are committed to respecting your privacy and protecting your data in accordance with all applicable data protection laws, including the General Data Protection Regulation (GDPR).
 
-Changing the status quo can only be achieved with collective action, from researchers, universities, and grant funders. In 2023, [editors at Neuroimage](https://www.nature.com/articles/d41586-023-01391-5) already resigned in protest against exorbitant Open Access publishing fees. Collective action at this scale is certainly the most impactful, but we also believe that we can achieve change by building consensus between individual researchers as well. 
+## What data do we collect?
 
-### A new concerted effort
-In its original conception, Free Our Knowledge invited the scientific community to support different campaigns aimed at organizing collective action, and to create their own campaigns for others to support. However, we have observed that the success of this approach depends on the efforts and initiatives of individual researchers who are already, as noted, uncoordinated. For this reason, Free Our Knowledge is refocusing on promoting a single collective action campaign, one that is focused on publishing in a Diamond Open Access journal. We aim to make this pledge achievable and impactful, with the aim of building broad support for the concept so that future collective action initiatives will be able to build on its success.
+The data we collect from Signatories:
 
-As part of these efforts we are building a new committee that will tackle the challenges involved with bringing a critical mass of researchers on board with us: the Collective Action in Science Committee. We are looking for committee members who are enthusiastic about this project and who can fill the roles of web developer, communications and social media manager, secretary, and other general members. We are also open to honorary members who are esteemed in their circles, willing to lead by example, and play an advisory role if so desired.
+- **Name:** Your first and last name. We require this to identify you as an individual who signs the pledge.
 
-The mission of Free Our Knowledge has not changed, and our focus on encouraging collective action remains. However, we are now taking a more active role in managing campaigns so that the easiest commitments are encouraged first.
+- **Email:** Your email address. We require this to notify you when the target number of signatures is reached, and the pledge becomes active.
 
-### Who are the Collective Action in Science Committee?
-The committee has the following members, with vacancies open to other researchers in the Benelux area.
+- **Pledge information:** Whether you signed the pledge and your optional comments or reasons for signing. We use this to accurately record your participation in the pledge.
 
-* Chair ([Laurens Kemp](https://www.nsmd.eu/organisation/people/kemp-laurens), Maastricht University)
-* General member ([Wim Pouw](https://wimpouw.com/), Radboud Universiteit)
-* General member ([Daniel Hudson](https://www.cs.uni-osnabrueck.de/en/institute/faculty_members.html?module=TemplatePersondetails&target=15067&source=15067&config_id=7ce3f80177be29d7f83252ec765f8766&range_id=0c3ad80568c7b478c148af31ae56baa9&username=dhudson&group_id=231bcc68707016173b49713e1c1c85f4&global_id=b1237e30f9c6932c1e06e933624827d2), Osnabrück University)
-* General member (open position, see below)
-* Social media and communications (open position, see below)
-* Web developer (open position, see below)
-* Secretary (open position, see below)
-* Honorary member (open position, see below)
-* Free Our Knowledge Founder ([Cooper Smout](https://coopersmout.com/))
+- **Contact preferences:** Whether you wish to receive additional (optional) contact from the Free Our Knowledge community that is not essential to the pledge.
 
-If you are interested in joining the committee, please contact us and provide a short statement of interest and CV. We are currently looking for members ideally working in cognitive (neuro)science broadly conceived, meaning sociology, anthropology, AI, psychology, philosophy, linguistics, neuroscience, and human movement science. Anyone who is in one way or another involved in the academic publishing system is invited to apply, e.g., researcher, librarian, or editor. We expect that committee members will be able to invest at least 1 to 3 hours per week on this project. You will be listed as a committee member on the Free Our Knowledge website and you will have provided a valuable service to the scientific community that can be beneficial to your CV.
+Note that the above are collected and stored only with your consent. You consent to the secure collection and storage of this information when you submit the pledge form.
 
-Any applications and inquiries can be sent to info@freeourknowledge.org.
+## How do we use your data?
+
+We use your data for the following purposes:
+
+- To register your signature.
+- To notify you if the desired number of signatures specified in the pledge is reached, and the pledge therefore becomes active.
+- To analyze the quantity and rate of signatures to the pledge.
+- To comply with legal obligations.
+- To display publicly your support for the pledge in accordance with the pledge form you submitted.
+
+## Who do we share your data with?
+
+We will not share your personal data with any third parties except for:
+
+- Unavoidable sharing with the basic service providers who help us operate our website (these providers are contractually bound to protect your data and only use it as instructed by us).
+- Law enforcement agencies or other governmental authorities, only if required by law.
+
+## How long do we store your data?
+
+We will only store your data for as long as necessary to fulfill the purposes for which it was collected. In the case of the online pledge, this typically means storing your name and pledge information indefinitely to maintain a record of Signatories. However, you can request to have your data deleted at any time.
+
+## Where is the data stored?
+
+We collect data using Google Forms, and the data are stored securely in Google’s cloud servers.
+
+## How do we protect your data?
+
+We have implemented appropriate technical and organizational measures to protect your data from unauthorized access, disclosure, alteration, or destruction.
+
+## Your rights:
+
+As a Signatory, you have the following rights with respect to your data:
+
+- **Right to be informed:** You have the right to be informed about when and how your data is collected and used.
+- **Right to access:** You have the right to request a copy of the personal data we hold about you.
+- **Right to rectification:** You have the right to request that we correct any inaccurate or incomplete data we hold about you.
+- **Right to erasure:** You have the right to request that we erase your personal data.
+- **Right to restrict processing:** You have the right to restrict our processing of your personal data under certain circumstances.
+- **Right to data portability:** You have the right to receive your personal data in a portable format and transmit it to another data controller.
+- **Right to object:** You have the right to object to our processing of your personal data for certain purposes, including direct marketing.
+
+To exercise any of these rights, please contact us at [info@freeourknowledge.org](mailto:info@freeourknowledge.org).
+
+## Changes to this Policy:
+
+We may update this data policy from time to time. We will notify you of any changes by posting the updated policy on our website.
+
+## Contact us:
+
+If you have any questions about this data policy, please contact us at [info@freeourknowledge.org](mailto:info@freeourknowledge.org).
