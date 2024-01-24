@@ -32,8 +32,9 @@ __Under the following conditions:__
 - Laurens Kemp (organizer)
 - Dan Hudson (organizer)
 
-## Current signups
+## Current signups 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNhyojjs4IY4skQyM7hWyM5825kaNtG4oJa6b2Fp8D0YEJMo1-BQ_CvUNG4Po4GVp9Jh8j7VfBiLIk/pubchart?oid=1478281585&amp;format=interactive"></iframe>
+Note this graph is updated daily.
 
 ## FAQ
 
