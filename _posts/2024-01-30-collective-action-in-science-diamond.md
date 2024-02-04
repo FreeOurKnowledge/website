@@ -52,7 +52,7 @@ Of course, it is not necessary to wait until the covenant to activate before pub
 ### Why 500 signees?
 It is difficult to have a well-motivated threshold for cognitive science, as it is a loose-knit community. The larger commitment is, the more inertia will be for the community to adopt said commitment. However since the demand of the pledge is fairly modest, we chose a threshold that indicates a shared commitment. 
 
-### What does it mean to publish one of my first authored papers, chapters, or books, under diamond open access?
+### What does it mean to publish one of my authored papers, chapters, or books, under diamond open access?
 If over a period over 5 years you publish N amount of papers (or chapters or books). At least one of them is published under a diamond open access agreement. If you do not publish in these 5 years, then the pledge will not apply to your situation.
 
 ### What about my supervisor?
@@ -60,6 +60,9 @@ We recommend discussing the signing of this covenant with your supervisor to pre
 
 ### Why cognitive science?
 We think it is ideal to start collective action in a loose-knit interdisciplinary community, with many connections to other fields, which we hope can serve as a stepping stone for further initiatives academia-wide. Focusing on one field, rather than all of academia, means that if you sign the pledge, you are assured that you will be supported by a substantial body of fellow researchers in the same field as you. Additionally, we believe that engaging the community will be crucial to the success of a pledge such as this, and choosing a specific field such as cognitive science makes it possible to focus on a specific community to enga
+
+### What is the idea behind choosing Diamond Open Access?
+We have chosen Diamond Open Access publishing because it is a simple-to-understand form of publishing that avoids subscription-based publishing and APCs, the two main profit streams of overpaid academic publishers. Whilst Diamond Open Access is not strictly the same as non-profit, it does encourage fairer forms of publishing such as library-led and not-for-profit community publishing, and it is easier for authors to identify than non-profitability.
 
 ### What if this project fails, for whatever reason?
 While this initiative can fail by not reaching the threshold, it will be a message to the scientific publishing community that researchers are trying to take action. It seems that researchers have been unsuccessful in taking collective action, be it for improving work conditions, or for improving the way we spend public resources. Even a small group dedicated to collective action would signal a change in the spirit of the times.
