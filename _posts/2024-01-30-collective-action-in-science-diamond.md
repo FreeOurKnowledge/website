@@ -8,6 +8,8 @@ thumbnail-img: /assets/img/cogsci_draft.png
 share-img: /assets/img/publish-your-reviews.png
 comments: true
 ---
+Academics are growing tired of the current publishing system which prioritizes profit over knowledge dissemination. We therefore call upon researchers who agree that the current publishing system is unjust. In order to tackle this we call for researchers, starting with researchers from cognitive science, to sign a pledge to promote publishing with diamond open access publishers.
+
 ## The pledge: 
 
 As a researcher who works in or relates to the field of cognitive science, I agree that the profiteering by third parties in the current publishing system in academia is highly problematic (for a problem analysis see [here](#probleman)), and therefore I am willing to declare that:
