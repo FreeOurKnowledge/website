@@ -8,7 +8,7 @@ thumbnail-img: /assets/img/cogsci_draft.png
 share-img: /assets/img/publish-your-reviews.png
 comments: true
 ---
-Academics are growing tired of the current publishing system which prioritizes profit over free knowledge and scientific quality and call for direct action by researchers against an unjust publishing system. They are increasingly feeling disenfranchised from both access to information, as well as from the capacity to make their own research publicly available within and outside academia. In order to tackle this, starting with a close-knit but broad scientific field, this pledge aims to promote publishing with diamond open access publishers.
+Academics are growing tired of the current publishing system which prioritizes profit over free knowledge and scientific quality and call for direct action by researchers against an unjust publishing system. In order to tackle this we call for researchers that are part of the close-knit but broad scientific field known as cognitive science, to sign a to promote publishing with diamond open access publishers.
 
 ## The pledge: 
 
