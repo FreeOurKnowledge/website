@@ -67,6 +67,9 @@ We have chosen Diamond Open Access publishing because it is a simple-to-understa
 ### What if this project fails, for whatever reason?
 While this initiative can fail by not reaching the threshold, it will be a message to the scientific publishing community that researchers are trying to take action. It seems that researchers have been unsuccessful in taking collective action, be it for improving work conditions, or for improving the way we spend public resources. Even a small group dedicated to collective action would signal a change in the spirit of the times.
 
+### What else can I do to support this cause?
+There is a catch-22 to the collective action that we try to incite here, as there must be demand for the supply of diamond open access publishers to increase, but there might be less demand if there is no supply. We therefore think, that next to increasing demand, we need to lobby at our universities to fund university press models that work under a diamond open access and non-profit model. We further need to lobby with funding agencies, to support a change in academic publishing. This can be done from the ground up, just by you expressing your concerns whenever possible to support more non-profit players in scientific publishing. Reach out to your librarian, research director, and board of directors, to express that we need more supply of non-profit (or less egregiously) profitable academic publishers. Additionally, you could join our [committee](https://freeourknowledge.org/committee/).
+
 ## Problem analysis <a name="probleman"></a>
 <a name="probleman">We</a> believe that the current academic publishing system goes against the scientific process, by hampering the efficiency, responsibility, and legitimacy of academic research, because of the following reasons:
 
