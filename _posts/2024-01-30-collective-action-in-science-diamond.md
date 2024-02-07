@@ -50,6 +50,32 @@ __Under the following conditions:__
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelFpWDuSAX-2C6CZCzpZGX4jQx0mDfgrpCDdJYq5ijWjhT4g/viewform" width="640" height="460" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Share Button</title>
+</head>
+<body>
+    <!-- Button to trigger Twitter share -->
+    <button id="twitter2-share-btn">Share that you signed the pledge on X</button>
+
+    <script>
+        document.getElementById('twitter2-share-btn').addEventListener('click', function() {
+            // Text to share
+            var textToShare2 = "I just signed this pledge! Sign as well to increase competition with for-profit publishers. Publish one diamond open access article, chapter, or book in 5 years after the pledge activates when a critical mass is reached. https://freeourknowledge.org/2024-01-30-collective-action-in-science-diamond/ @projectFOK";
+
+            // Twitter share URL with text parameter
+            var twitterShareUrl2 = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(textToShare2);
+
+            // Open the share URL in a new window
+            window.open(twitterShareUrl2, '_blank');
+        });
+    </script>
+</body>
+</html>
+
 ## Number of pledges so far
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNhyojjs4IY4skQyM7hWyM5825kaNtG4oJa6b2Fp8D0YEJMo1-BQ_CvUNG4Po4GVp9Jh8j7VfBiLIk/pubchart?oid=1478281585&amp;format=interactive"></iframe>
 Note this graph is updated daily.
