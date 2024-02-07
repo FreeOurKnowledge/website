@@ -10,7 +10,6 @@ comments: true
 ---
 Academics are growing tired of the current publishing system which prioritizes profit over knowledge dissemination. We therefore call upon researchers who agree that the current publishing system is unjust. In order to tackle this we start with a broad but interconnected field of cognitive science. We ask cognitive scientists to sign a pledge to promote publishing with diamond open access publishers.
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,7 +18,7 @@ Academics are growing tired of the current publishing system which prioritizes p
 </head>
 <body>
     <!-- Button to trigger Twitter share -->
-    <button id="twitter-share-btn">Share on Twitter</button>
+    <button id="twitter-share-btn">Share on X</button>
 
     <script>
         document.getElementById('twitter-share-btn').addEventListener('click', function() {
