@@ -36,7 +36,7 @@ __Under the following conditions:__
     <script>
         document.getElementById('twitter-share-btn').addEventListener('click', function() {
             // Text to share
-            var textToShare = "Sign this new pledge to increase competition with for-profit publishers. Publish one diamond open access article, chapter, or book in years. https://freeourknowledge.org/2024-01-30-collective-action-in-science-diamond/ @projectFOK";
+            var textToShare = "Are you a cognitive scientist? Sign this new pledge to increase competition with for-profit publishers. Publish one diamond open access article, chapter, or book in 5 years after the pledge activates when a critical mass is reached. https://freeourknowledge.org/2024-01-30-collective-action-in-science-diamond/ @projectFOK";
 
             // Twitter share URL with text parameter
             var twitterShareUrl = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(textToShare);
