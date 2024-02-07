@@ -76,6 +76,8 @@ Note this graph is updated daily.
 - [What if this project fails, for whatever reason?](#project-fails)
 - [What else can I do to support this cause?](#support-cause)
 
+- [What is the problem with the current academic publishing system?](#probleman)
+
 ### What is Diamond Open Access <a name="diamond-open-access"></a>
 [Diamond open access](https://en.wikipedia.org/wiki/Diamond_open_access) refers to publishers that do not ask for payment for publishing their research articles from the reader, nor ask for payment from the author (or their institution) via so-called article processing fees (APCs). This is possible for example through journals that are led by universities themselves via their associated university press labels  (e.g., see MIT Press’s journal [OpenMind](https://direct.mit.edu/opmi/pages/submission-guidelines)), or by scientific societies.
 
