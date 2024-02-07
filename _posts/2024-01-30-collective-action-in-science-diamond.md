@@ -22,12 +22,17 @@ __Under the following conditions:__
 - When the pledge activates after 500 signatories my pledge becomes automatically public, and I will be notified at this point.
 
 #### Take the pledge!
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Share Button</title>
+    <style>
+        /* Style to align button to the right */
+        #twitter-share-btn {
+            float: right;
+        }
+    </style>
 </head>
 <body>
     <!-- Button to trigger Twitter share -->
