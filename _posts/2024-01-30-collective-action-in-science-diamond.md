@@ -75,7 +75,6 @@ Note this graph is updated daily.
 - [What is the idea behind choosing Diamond Open Access?](#idea-behind-choosing-diamond-open-access)
 - [What if this project fails, for whatever reason?](#project-fails)
 - [What else can I do to support this cause?](#support-cause)
-
 - [What is the problem with the current academic publishing system?](#probleman)
 
 ### What is Diamond Open Access <a name="diamond-open-access"></a>
