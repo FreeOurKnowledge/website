@@ -10,6 +10,19 @@ comments: true
 ---
 Academics are growing tired of the current publishing system which prioritizes profit over knowledge dissemination. We therefore call upon researchers who agree that the current publishing system is unjust. In order to tackle this we start with a broad but interconnected field of cognitive science. We ask cognitive scientists to sign a pledge to promote publishing with diamond open access publishers.
 
+## The pledge: 
+
+As a researcher who works in or relates to the field of cognitive science, I agree that the profiteering by third parties in the current publishing system in academia is highly problematic (for a problem analysis see [here](#probleman)), and therefore I am willing to declare that:
+
+I will publish 1 of my (co-authored) papers (or 1 of my chapters, or a book), with an open access publisher that does not charge article processing fees (i.e., under a diamond open access agreement) within 5 years from the day the pledge activates.
+
+__Under the following conditions:__
+- 500 other cognitive science researchers have signed as well.
+- That it is ensured that my pledge will not be made public without my permission if the pledge does not activate. 
+- When the pledge activates after 500 signatories my pledge becomes automatically public, and I will be notified at this point.
+
+#### Take the pledge!
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -35,18 +48,6 @@ Academics are growing tired of the current publishing system which prioritizes p
 </body>
 </html>
 
-## The pledge: 
-
-As a researcher who works in or relates to the field of cognitive science, I agree that the profiteering by third parties in the current publishing system in academia is highly problematic (for a problem analysis see [here](#probleman)), and therefore I am willing to declare that:
-
-I will publish 1 of my (co-authored) papers (or 1 of my chapters, or a book), with an open access publisher that does not charge article processing fees (i.e., under a diamond open access agreement) within 5 years from the day the pledge activates.
-
-__Under the following conditions:__
-- 500 other cognitive science researchers have signed as well.
-- That it is ensured that my pledge will not be made public without my permission if the pledge does not activate. 
-- When the pledge activates after 500 signatories my pledge becomes automatically public, and I will be notified at this point.
-
-#### Take the pledge!
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelFpWDuSAX-2C6CZCzpZGX4jQx0mDfgrpCDdJYq5ijWjhT4g/viewform" width="640" height="460" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Number of pledges so far
