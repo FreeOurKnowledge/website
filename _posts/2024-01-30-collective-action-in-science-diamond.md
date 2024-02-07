@@ -27,12 +27,6 @@ __Under the following conditions:__
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Share Button</title>
-    <style>
-        /* Style to align button to the right */
-        #twitter-share-btn {
-            float: right;
-        }
-    </style>
 </head>
 <body>
     <!-- Button to trigger Twitter share -->
@@ -56,7 +50,7 @@ __Under the following conditions:__
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelFpWDuSAX-2C6CZCzpZGX4jQx0mDfgrpCDdJYq5ijWjhT4g/viewform" width="640" height="460" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Number of pledges so far
-<iframe height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNhyojjs4IY4skQyM7hWyM5825kaNtG4oJa6b2Fp8D0YEJMo1-BQ_CvUNG4Po4GVp9Jh8j7VfBiLIk/pubchart?oid=1478281585&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNhyojjs4IY4skQyM7hWyM5825kaNtG4oJa6b2Fp8D0YEJMo1-BQ_CvUNG4Po4GVp9Jh8j7VfBiLIk/pubchart?oid=1478281585&amp;format=interactive"></iframe>
 Note this graph is updated daily.
 
 ## Public Signatories
