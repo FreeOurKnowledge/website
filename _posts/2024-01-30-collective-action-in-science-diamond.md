@@ -29,24 +29,6 @@ __Under the following conditions:__
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Share Button</title>
 </head>
-<body>
-    <!-- Button to trigger Twitter share -->
-    <button id="twitter-share-btn">Share on X</button>
-
-    <script>
-        document.getElementById('twitter-share-btn').addEventListener('click', function() {
-            // Text to share
-            var textToShare = "Are you a cognitive scientist? Publish one diamond open access article, chapter, or book in 5 years after the pledge activates. Activation happens when a critical mass of signatures is reached. https://freeourknowledge.org/2024-01-30-collective-action-in-science-diamond/ @projectFOK";
-
-            // Twitter share URL with text parameter
-            var twitterShareUrl = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(textToShare);
-
-            // Open the share URL in a new window
-            window.open(twitterShareUrl, '_blank');
-        });
-    </script>
-</body>
-</html>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelFpWDuSAX-2C6CZCzpZGX4jQx0mDfgrpCDdJYq5ijWjhT4g/viewform" width="640" height="460" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
