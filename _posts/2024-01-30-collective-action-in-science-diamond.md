@@ -21,14 +21,13 @@ __Under the following conditions:__
 - That it is ensured that my pledge will not be made public without my permission if the pledge does not activate. 
 - When the pledge activates after 500 signatories my pledge becomes automatically public, and I will be notified at this point.
 
+#### Take the pledge!
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelFpWDuSAX-2C6CZCzpZGX4jQx0mDfgrpCDdJYq5ijWjhT4g/viewform" width="640" height="460" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 ## Number of pledges so far
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNhyojjs4IY4skQyM7hWyM5825kaNtG4oJa6b2Fp8D0YEJMo1-BQ_CvUNG4Po4GVp9Jh8j7VfBiLIk/pubchart?oid=1478281585&amp;format=interactive"></iframe>
 Note this graph is updated daily.
 
-#### Take the pledge!
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelFpWDuSAX-2C6CZCzpZGX4jQx0mDfgrpCDdJYq5ijWjhT4g/viewform" width="640" height="460" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-<div class="sidebar">
     ## Public Signatories
 - Eric-Jan Wagenmakers
 - Zoltan Dienes
@@ -38,17 +37,6 @@ Note this graph is updated daily.
 - Wim Pouw (organizer)
 - Laurens Kemp (organizer)
 - Dan Hudson (organizer)
-<style>
-  .container {
-    display: flex;
-  }
- .sidebar {
-    width: 300px;
-    background-color: #f0f0f0;
-    padding: 20px;
-    border-radius: 5px;
-  }
-</style>
 
 ## FAQ
 
