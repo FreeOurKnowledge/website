@@ -28,11 +28,7 @@ Note this graph is updated daily.
 #### Take the pledge!
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelFpWDuSAX-2C6CZCzpZGX4jQx0mDfgrpCDdJYq5ijWjhT4g/viewform" width="640" height="460" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-<div class="container">
-  <div class="main-content">
-  
-  <div class="sidebar">
-    <!-- Sidebar content goes here -->
+<div class="sidebar">
     ## Public Signatories
 - Eric-Jan Wagenmakers
 - Zoltan Dienes
@@ -42,27 +38,18 @@ Note this graph is updated daily.
 - Wim Pouw (organizer)
 - Laurens Kemp (organizer)
 - Dan Hudson (organizer)
-
-  </div>
-</div>
-
 <style>
   .container {
     display: flex;
   }
-
-  .main-content {
-    flex: 1;
-    margin-right: 20px;
-  }
-
-  .sidebar {
+ .sidebar {
     width: 300px;
     background-color: #f0f0f0;
     padding: 20px;
     border-radius: 5px;
   }
 </style>
+
 ## FAQ
 
 ### What is Diamond Open Access
