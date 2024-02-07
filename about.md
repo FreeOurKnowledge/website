@@ -23,18 +23,17 @@ In the early days, we expect our campaigns will ask small cohorts of researchers
 First and foremost, sign a pledge to our [campaigns](/)! Then tell your friends and colleagues about the project. You can also follow us on [Twitter](https://twitter.com/projectFOK) and [Facebook](https://www.facebook.com/projectFOK), share our posts and sign up to our [mailing list](http://eepurl.com/dFVBVz). Beyond that, please see our [Join Us](https://freeourknowledge.org/joinus/) page to find out other ways to get involved.
 
 ### Who are we?
-Project Free Our Knowledge is a grassroots movement driven by early career researchers who seek a fairer and more secure future in academia for our friends and colleagues. We are currently 100% self-funded (but seeking support!). The project is being led by:
+Project Free Our Knowledge is a grassroots movement driven by early career researchers who seek a fairer and more secure future in academia for our friends and colleagues. We are currently 100% self-funded (but seeking support!). The project was founded by:
 
 * [Cooper Smout](https://www.coopersmout.com/)
 
-with support from:
+And is currently being led by:
 
-* [Dawn Liu Holford](https://www.essex.ac.uk/people/liuda52701/dawn-holford)
-* Megan Campbell
-* Kelly Garner
-* Jon Tennant
-* Gavin Taylor
-(among others)
+* [Laurens Kemp](https://www.nsmd.eu/organisation/people/kemp-laurens), Maastricht University
+* [Wim Pouw](https://wimpouw.com/), Radboud Universiteit
+* [Daniel Hudson](https://www.cs.uni-osnabrueck.de/en/institute/faculty_members.html?module=TemplatePersondetails&target=15067&source=15067&config_id=7ce3f80177be29d7f83252ec765f8766&range_id=0c3ad80568c7b478c148af31ae56baa9&username=dhudson&group_id=231bcc68707016173b49713e1c1c85f4&global_id=b1237e30f9c6932c1e06e933624827d2), Osnabrück University
+* [Tomasz Steifer](http://bluebox.ippt.pan.pl/~tsteifer/), Universidad Católica de Chile
+* [Mihaela Cimpian](https://www.ru.nl/personen/cimpian-m), Radboud Universiteit
 
 And advised by:
 
@@ -45,5 +44,5 @@ And advised by:
 
 ### Partner organisations
 ![COS](assets/img/cos.png) ![UKRN](assets/img/UKRN.png) ![IGDORE](assets/img/IGDORE.png) 
-![FOR](assets/img/future_of_research.png) ![OSMOOC](assets/img/osmooc.png)![BITSS](assets/img/bitss.png) 
+![FOR](assets/img/future_of_research.png) ![BITSS](assets/img/bitss.png) 
 ![A2P](assets/img/Access2perspectives.png) ![PREreview](assets/img/PREreview.png)
