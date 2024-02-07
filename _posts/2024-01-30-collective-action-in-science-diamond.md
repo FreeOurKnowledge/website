@@ -10,6 +10,32 @@ comments: true
 ---
 Academics are growing tired of the current publishing system which prioritizes profit over knowledge dissemination. We therefore call upon researchers who agree that the current publishing system is unjust. In order to tackle this we start with a broad but interconnected field of cognitive science. We ask cognitive scientists to sign a pledge to promote publishing with diamond open access publishers.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Share Button</title>
+</head>
+<body>
+    <!-- Button to trigger Twitter share -->
+    <button id="twitter-share-btn">Share on Twitter</button>
+
+    <script>
+        document.getElementById('twitter-share-btn').addEventListener('click', function() {
+            // Text to share
+            var textToShare = "Sign this new pledge to increase competition with for-profit publishers. Publish one diamond open access article, chapter, or book in years. https://freeourknowledge.org/2024-01-30-collective-action-in-science-diamond/ @projectFOK";
+
+            // Twitter share URL with text parameter
+            var twitterShareUrl = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(textToShare);
+
+            // Open the share URL in a new window
+            window.open(twitterShareUrl, '_blank');
+        });
+    </script>
+</body>
+</html>
+
 ## The pledge: 
 
 As a researcher who works in or relates to the field of cognitive science, I agree that the profiteering by third parties in the current publishing system in academia is highly problematic (for a problem analysis see [here](#probleman)), and therefore I am willing to declare that:
