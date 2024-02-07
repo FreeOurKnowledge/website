@@ -5,7 +5,7 @@ subtitle: Publish one diamond open access article in 5 years
 gh-repo: freeourknowledge/community
 cover-img: /assets/img/cogsci_draftblank.png
 thumbnail-img: /assets/img/cogsci_draft.png
-share-img: /assets/img/publish-your-reviews.png
+share-img: /assets/img/cogsci_draft.png
 comments: true
 ---
 Academics are growing tired of the current publishing system which prioritizes profit over knowledge dissemination. We therefore call upon researchers who agree that the current publishing system is unjust. In order to tackle this we start with a broad but interconnected field of cognitive science. We ask cognitive scientists to sign a pledge to promote publishing with diamond open access publishers.
