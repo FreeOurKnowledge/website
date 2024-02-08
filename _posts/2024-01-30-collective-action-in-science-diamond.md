@@ -6,7 +6,7 @@ gh-repo: freeourknowledge/community
 cover-img: /assets/img/cogsci_draftblank.png
 thumbnail-img: /assets/img/cogsci_draft.png
 share-img: /assets/img/cogsci_draft.png
-twitter-img: https://github.com/FreeOurKnowledge/website/blob/master/assets/img/cogsci_draft.png?raw=true
+twitter-img: "https://github.com/FreeOurKnowledge/website/blob/master/assets/img/cogsci_draft.png?raw=true"
 comments: true
 ---
 
