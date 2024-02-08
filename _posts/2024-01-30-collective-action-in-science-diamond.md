@@ -10,7 +10,8 @@ comments: true
 ---
 <html>
 <meta name="twitter:image" content="/assets/img/cogsci_draft.png">
-<html>
+<meta name="twitter:card" content="/assets/img/cogsci_draft.png">
+</html>
 
 Academics are growing tired of the current publishing system which prioritizes profit over knowledge dissemination. We therefore call upon researchers who agree that the current publishing system is unjust. In order to tackle this we start with a broad but interconnected field of cognitive science. We ask cognitive scientists to sign a pledge to promote publishing with diamond open access publishers.
 
