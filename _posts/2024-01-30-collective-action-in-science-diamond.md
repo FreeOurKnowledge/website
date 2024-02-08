@@ -42,7 +42,7 @@ __Under the following conditions:__
     <script>
         document.getElementById('twitter-share-btn').addEventListener('click', function() {
             // Text to share
-            var textToShare = "Are you a cognitive scientist? Publish one diamond open access article, chapter, or book in 5 years after the pledge activates. Activation happens when a critical mass of signatures is reached. https://freeourknowledge.org/2024-01-30-collective-action-in-science-diamond/ @projectFOK";
+            var textToShare = "Are you a cognitive scientist and see problems with the highly profitable academic publishing system? Take action with us! Publish one diamond open access article, chapter, or book in 5 years after the pledge activates. Activation happens when a critical mass of signatures is reached. https://freeourknowledge.org/2024-01-30-collective-action-in-science-diamond/ https://freeourknowledge.org/ @projectFOK";
 
             // Twitter share URL with text and image parameters
             var twitterShareUrl = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(textToShare);
