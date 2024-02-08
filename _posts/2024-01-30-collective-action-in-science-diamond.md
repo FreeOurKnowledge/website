@@ -39,8 +39,11 @@ __Under the following conditions:__
             // Text to share
             var textToShare = "Are you a cognitive scientist? Publish one diamond open access article, chapter, or book in 5 years after the pledge activates. Activation happens when a critical mass of signatures is reached. https://freeourknowledge.org/2024-01-30-collective-action-in-science-diamond/ @projectFOK";
 
-            // Twitter share URL with text parameter
-            var twitterShareUrl = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(textToShare);
+             // Image URL to share
+            var imageUrl = "https://github.com/FreeOurKnowledge/website/blob/master/assets/img/cogsci_draft.png?raw=true"; // Replace with the URL of your image
+
+            // Twitter share URL with text and image parameters
+            var twitterShareUrl = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(textToShare) + "&url=" + encodeURIComponent(imageUrl);
 
             // Open the share URL in a new window
             window.open(twitterShareUrl, '_blank');
