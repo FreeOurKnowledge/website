@@ -10,20 +10,6 @@ twitter-img: "https://github.com/FreeOurKnowledge/website/blob/master/assets/img
 twitter-card: "https://github.com/FreeOurKnowledge/website/blob/master/assets/img/cogsci_draft.png?raw=true"
 comments: true
 ---
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Twitter Card</title>
-
-  <!-- Twitter Card meta tags -->
-  <meta name="twitter:card" content="https://github.com/FreeOurKnowledge/website/blob/master/assets/img/cogsci_draft.png?raw=true">
-  <meta name="twitter:title" content="Collective Action In Cognitive Science">
-  <meta name="twitter:description" content="Academics are growing tired of the current publishing system which prioritizes profit over knowledge dissemination. We therefore call upon researchers who agree that the current publishing system is unjust. In order to tackle this we start with a broad but interconnected field of cognitive science. We ask cognitive scientists to sign a pledge to promote publishing with diamond open access publishers.">
-  <meta name="twitter:image" content="https://github.com/FreeOurKnowledge/website/blob/master/assets/img/cogsci_draft.png?raw=true">
-</head>
-</html>
-
 Academics are growing tired of the current publishing system which prioritizes profit over knowledge dissemination. We therefore call upon researchers who agree that the current publishing system is unjust. In order to tackle this we start with a broad but interconnected field of cognitive science. We ask cognitive scientists to sign a pledge to promote publishing with diamond open access publishers.
 
 ## The pledge: 
@@ -43,6 +29,11 @@ __Under the following conditions:__
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Share Button</title>
+	<!-- Twitter Card meta tags -->
+    <meta name="twitter:card" content=" /assets/img/cogsci_draft.png">
+    <meta name="twitter:title" content="Collective Action In Cognitive Science">
+    <meta name="twitter:description" content="Academics are growing tired of the current publishing system which prioritizes profit over knowledge dissemination. We therefore call upon researchers who agree that the current publishing system is unjust. In order to tackle this we start with a broad but interconnected field of cognitive science. We ask cognitive scientists to sign a pledge to promote publishing with diamond open access publishers.">
+    <meta name="twitter:image" content="https://github.com/FreeOurKnowledge/website/blob/master/assets/img/cogsci_draft.png?raw=true">
 </head>
 <body>
     <!-- Button to trigger Twitter share -->
