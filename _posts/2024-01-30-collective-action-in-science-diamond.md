@@ -7,6 +7,7 @@ cover-img: /assets/img/cogsci_draftblank.png
 thumbnail-img: /assets/img/cogsci_draft.png
 share-img: /assets/img/cogsci_draft.png
 twitter-img: "https://github.com/FreeOurKnowledge/website/blob/master/assets/img/cogsci_draft.png?raw=true"
+twitter-card: "https://github.com/FreeOurKnowledge/website/blob/master/assets/img/cogsci_draft.png?raw=true"
 comments: true
 ---
 
