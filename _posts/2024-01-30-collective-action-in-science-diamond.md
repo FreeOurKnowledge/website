@@ -74,6 +74,8 @@ Note this graph is updated daily.
 - Wim Pouw (organizer)
 - Laurens Kemp (organizer)
 - Dan Hudson (organizer)
+- Mihaela Cimpian (organizer)
+- Tomasz Steifer (organizer)
 
 ## FAQ
 
