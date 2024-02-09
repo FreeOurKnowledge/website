@@ -66,6 +66,11 @@ Note this graph is updated daily.
 - Limor Raviv
 - Rogier Kievit
 - Peter Gärdenfors
+- Mark Dingemanse
+- Hans Rutger Bosker
+- Mirjam Ernestus
+- Matthieu M. de Wit
+- Bertalan Polner
 - Wim Pouw (organizer)
 - Laurens Kemp (organizer)
 - Dan Hudson (organizer)
