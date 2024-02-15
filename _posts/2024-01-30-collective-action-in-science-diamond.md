@@ -61,6 +61,8 @@ __Under the following conditions:__
 Note this graph is updated daily.
 
 ## Public Signatories
+- Johan Vlaeyen
+- Anne Roefs
 - Eric-Jan Wagenmakers
 - Zoltan Dienes
 - Limor Raviv
