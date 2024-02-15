@@ -68,9 +68,16 @@ Note this graph is updated daily.
 - Limor Raviv
 - Rogier Kievit
 - Peter Gärdenfors
+- Mark Dingemanse
+- Hans Rutger Bosker
+- Mirjam Ernestus
+- Matthieu M. de Wit
+- Bertalan Polner
 - Wim Pouw (organizer)
 - Laurens Kemp (organizer)
 - Dan Hudson (organizer)
+- Mihaela Cimpian (organizer)
+- Tomasz Steifer (organizer)
 
 ## FAQ
 
@@ -107,7 +114,7 @@ If over a period over 5 years you publish N amount of papers (or chapters or boo
 We recommend discussing the signing of this covenant with your supervisor to prevent conflicts of interest.
 
 ### Why cognitive science? <a name="cognitive-science"></a>
-We think it is ideal to start collective action in a loose-knit interdisciplinary community, with many connections to other fields, which we hope can serve as a stepping stone for further initiatives academia-wide. Focusing on one field, rather than all of academia, means that if you sign the pledge, you are assured that you will be supported by a substantial body of fellow researchers in the same field as you. Additionally, we believe that engaging the community will be crucial to the success of a pledge such as this, and choosing a specific field such as cognitive science makes it possible to focus on a specific community to enga
+We think it is ideal to start collective action in a loose-knit interdisciplinary community, with many connections to other fields, which we hope can serve as a stepping stone for further initiatives academia-wide. Focusing on one field, rather than all of academia, means that if you sign the pledge, you are assured that you will be supported by a substantial body of fellow researchers in the same field as you. Additionally, we believe that engaging the community will be crucial to the success of a pledge such as this, and choosing a specific field such as cognitive science makes it possible to focus on a specific community, increasing our likelihood of success.
 
 ### What is the idea behind choosing Diamond Open Access? <a name="idea-behind-choosing-diamond-open-access"></a>
 We have chosen Diamond Open Access publishing because it is a simple-to-understand form of publishing that avoids subscription-based publishing and APCs, the two main profit streams of overpaid academic publishers. Whilst Diamond Open Access is not strictly the same as non-profit, it does encourage fairer forms of publishing such as library-led and not-for-profit community publishing, and it is easier for authors to identify than non-profitability.
