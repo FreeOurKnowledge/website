@@ -61,17 +61,32 @@ __Under the following conditions:__
 Note this graph is updated daily.
 
 ## Public Signatories
-- Johan Vlaeyen
-- Anne Roefs
+- Sebastian Musslick
+- Wendy Ross
+- Mili Mathew
+- Kelly Spencer
+- Olivia Guest
+- Marius Werz
+- Christian Bauer
+- Gaelle Ferre
+- Natalie Boll-Avetisyan
+- Mili Mathew
+- Dor Abrahamson
+- Hanna Strandell Simpson
+- Britt Fleischeuer
+- Patrick Melcher
+- Jiaojing Xu
+- Andi Bär
+- Linda Drijvers
 - Eric-Jan Wagenmakers
 - Zoltan Dienes
 - Limor Raviv
+- Matthieu de Wit
 - Rogier Kievit
 - Peter Gärdenfors
 - Mark Dingemanse
 - Hans Rutger Bosker
 - Mirjam Ernestus
-- Matthieu M. de Wit
 - Bertalan Polner
 - Wim Pouw (organizer)
 - Laurens Kemp (organizer)
