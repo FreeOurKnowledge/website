@@ -61,10 +61,43 @@ __Under the following conditions:__
 Note this graph is updated daily.
 
 ## Public Signatories
+- Wim Pouw (organizer)
+- Laurens Kemp (organizer)
+- Dan Hudson (organizer)
+- Mihaela Cimpian (organizer)
+- Tomasz Steifer (organizer)
+- Eric-Jan Wagenmakers
+- Zoltan Dienes
+- Limor Raviv
+- Matthieu de Wit
+- Rogier Kievit
+- Peter Gärdenfors
+- Mark Dingemanse
+- Andi Bär
+- Linda Drijvers
+- Hans Rutger Bosker
+- Mirjam Ernestus
+- Bertalan Polner
+- Maria Mos
+- Jeanine Guidry-Drost
+- Emiel Krahmer
+- Schuyler Laparle
+- Renske van Enschot
+- Marloes Mak
+- Sible Andringa
+- Ruth Irwin
+- Sahotra Sarka
+- Joe Slater
+- Marek McGann
+- Sylvie Saget
+- Manuela Irarrazabal
+- Oscar Castro Garcia
+- Alfons Maes
+- Elena Popa
 - Sebastian Musslick
 - Wendy Ross
 - Mili Mathew
-- Kelly Spencer
+- Spencer Kelly
 - Olivia Guest
 - Marius Werz
 - Christian Bauer
@@ -76,23 +109,7 @@ Note this graph is updated daily.
 - Britt Fleischeuer
 - Patrick Melcher
 - Jiaojing Xu
-- Andi Bär
-- Linda Drijvers
-- Eric-Jan Wagenmakers
-- Zoltan Dienes
-- Limor Raviv
-- Matthieu de Wit
-- Rogier Kievit
-- Peter Gärdenfors
-- Mark Dingemanse
-- Hans Rutger Bosker
-- Mirjam Ernestus
-- Bertalan Polner
-- Wim Pouw (organizer)
-- Laurens Kemp (organizer)
-- Dan Hudson (organizer)
-- Mihaela Cimpian (organizer)
-- Tomasz Steifer (organizer)
+
 
 ## FAQ
 
