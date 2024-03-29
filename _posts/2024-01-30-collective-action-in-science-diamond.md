@@ -141,6 +141,8 @@ There is a comprehensive database of open-access journals that do not charge art
 * [Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair) (computer science)
 * [Theory of Computing](http://theoryofcomputing.org) (computer science)
 * [Philosophy, Theory and Practice in Biology](https://journals.publishing.umich.edu/ptpbio/) (philosophy)
+* [Journal of the Anthropological Society of Oxford](https://www.anthro.ox.ac.uk/jaso) (anthropology)
+* [Cultural Anthropology](https://journal.culanth.org/index.php/ca/about) (anthroplogy)
 
 ### Why have a threshold for the pledge to activate? <a name="threshold-for-pledge"></a>
 Acting together with a significant proportion of fellow researchers engaged in topics of cognitive science ensures two important things. You will not seem less competitive by choosing not to publish in prestigious for-profit journals, since your decision will be part of a larger scale and more well-known initiative. Additionally, you will be sure of your actions truly having a large impact, from the moment the covenant commences, with so many others alongside you, fostering a more collaborative research community. 
