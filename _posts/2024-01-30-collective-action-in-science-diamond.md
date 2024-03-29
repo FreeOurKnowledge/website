@@ -135,6 +135,7 @@ There is a comprehensive database of open-access journals that do not charge art
 * [Clinical Psychology in Europe](https://cpe.psychopen.eu/index.php/cpe) (psychology)
 * [Biolinguistics](https://bioling.psychopen.eu/index.php/bioling/about-the-journal) (linguistics)
 * [Labaratory Phonology](https://www.journal-labphon.org/submissions/) (linguistics)
+* [Isogloss](https://revistes.uab.cat/isogloss/about) (linguistics)
 * [Journal of Machine Learning Research](https://jmlr.org/) (computer science)
 * [TheoretiCS](https://theoretics.episciences.org/) (computer science)
 * [Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair) (computer science)
