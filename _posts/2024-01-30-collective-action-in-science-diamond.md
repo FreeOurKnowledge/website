@@ -134,6 +134,7 @@ There is a comprehensive database of open-access journals that do not charge art
 * [Open Mind](https://direct.mit.edu/opmi) (cognitive Science)
 * [Clinical Psychology in Europe](https://cpe.psychopen.eu/index.php/cpe) (psychology)
 * [Biolinguistics](https://bioling.psychopen.eu/index.php/bioling/about-the-journal) (linguistics)
+* [Language Documentation & Conservation (LD&C)](https://nflrc.hawaii.edu/ldc/) (linguistics)
 * [Labaratory Phonology](https://www.journal-labphon.org/submissions/) (linguistics)
 * [Isogloss](https://revistes.uab.cat/isogloss/about) (linguistics)
 * [Journal of Machine Learning Research](https://jmlr.org/) (computer science)
@@ -142,7 +143,7 @@ There is a comprehensive database of open-access journals that do not charge art
 * [Theory of Computing](http://theoryofcomputing.org) (computer science)
 * [Philosophy, Theory and Practice in Biology](https://journals.publishing.umich.edu/ptpbio/) (philosophy)
 * [Journal of the Anthropological Society of Oxford](https://www.anthro.ox.ac.uk/jaso) (anthropology)
-* [Cultural Anthropology](https://journal.culanth.org/index.php/ca/about) (anthroplogy)
+* [Cultural Anthropology](https://journal.culanth.org/index.php/ca/about) (anthropology)
 
 ### Why have a threshold for the pledge to activate? <a name="threshold-for-pledge"></a>
 Acting together with a significant proportion of fellow researchers engaged in topics of cognitive science ensures two important things. You will not seem less competitive by choosing not to publish in prestigious for-profit journals, since your decision will be part of a larger scale and more well-known initiative. Additionally, you will be sure of your actions truly having a large impact, from the moment the covenant commences, with so many others alongside you, fostering a more collaborative research community. 
