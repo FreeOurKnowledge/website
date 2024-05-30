@@ -144,6 +144,7 @@ There is a comprehensive database of open-access journals that do not charge art
 * [Semantics & Pragmatics](https://semprag.org/index.php/sp)
 * [Journal of Machine Learning Research](https://jmlr.org/) (computer science)
 * [TheoretiCS](https://theoretics.episciences.org/) (computer science)
+* [Transactions on Graph Data and Knowledge](https://drops.dagstuhl.de/entities/journal/TGDK)
 * [Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair) (computer science)
 * [Theory of Computing](http://theoryofcomputing.org) (computer science)
 * [Philosophy, Theory and Practice in Biology](https://journals.publishing.umich.edu/ptpbio/) (philosophy)
