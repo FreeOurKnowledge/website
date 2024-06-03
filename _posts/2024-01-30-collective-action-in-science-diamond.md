@@ -10,7 +10,7 @@ twitter-img: "https://github.com/FreeOurKnowledge/website/blob/master/assets/img
 twitter-card: "https://github.com/FreeOurKnowledge/website/blob/master/assets/img/cogsci_draft.png?raw=true"
 comments: true
 ---
-Academics are growing tired of the current publishing system which prioritizes profit over knowledge dissemination. We therefore call upon researchers who agree that the current publishing system is unjust. In order to tackle this we start with a broad but interconnected field of cognitive science. We ask cognitive scientists to sign a pledge to promote publishing with diamond open access publishers.
+Academics are growing tired of the current publishing system which prioritizes profit over knowledge dissemination ([see here for a recent discussion](https://www.youtube.com/watch?app=desktop&v=XmttiQnlJfw&feature=youtu.be)). We therefore call upon researchers who agree that the current publishing system is unjust. In order to tackle this we start with a broad but interconnected field of cognitive science. We ask cognitive scientists to sign a pledge to promote publishing with diamond open access publishers.
 
 ## The pledge: 
 
@@ -112,7 +112,7 @@ Note this graph is updated daily.
 
 
 ## FAQ
-
+- [Is there some deeper discussion on this somewhere?](#deeper-discussion)
 - [What is Diamond Open Access](#diamond-open-access)
 - [Where can I publish then?](#where-can-i-publish-then)
 - [Why have a threshold for the pledge to activate?](#threshold-for-pledge)
@@ -124,6 +124,9 @@ Note this graph is updated daily.
 - [What if this project fails, for whatever reason?](#project-fails)
 - [What else can I do to support this cause?](#support-cause)
 - [What is the problem with the current academic publishing system?](#probleman)
+
+### Is there some deeper discussion on this somewhere? <a name="deeper-discussion"></a>
+We recommend watching [https://www.youtube.com/watch?app=desktop&v=XmttiQnlJfw&feature=youtu.be]( this recent academic workshop organized by the Donders Institute at Radboud University) focusing on current status of academic publishing. The workshop host speakers studying scholar publishing, policy makers, and researchers who are working to improve academic publishing.
 
 ### What is Diamond Open Access <a name="diamond-open-access"></a>
 [Diamond open access](https://en.wikipedia.org/wiki/Diamond_open_access) refers to publishers that do not ask for payment for publishing their research articles from the reader, nor ask for payment from the author (or their institution) via so-called article processing fees (APCs). These non-profit journals are possible by funding from universities or by scientific societies. For example, many university press labels are now developing more and more diamond open access journals (e.g., see MIT Press’s journal [OpenMind](https://direct.mit.edu/opmi/pages/submission-guidelines). We can therefore imagine that we can retake the publishing system. A publishing system that is lead and used by the research community rather than commercial publishers.
