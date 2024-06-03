@@ -129,7 +129,7 @@ Note this graph is updated daily.
 We recommend watching a 2024 symposium organized by the Donders Institute at Radboud University focusing on current status of academic publishing. The workshop hosted speakers studying scholarly publishing, policy makers, and researchers who are working to improve academic publishing.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XmttiQnlJfw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### What is Diamond Open Access <a name="diamond-open-access"></a>
+### What is Diamond Open Access? <a name="diamond-open-access"></a>
 [Diamond open access](https://en.wikipedia.org/wiki/Diamond_open_access) refers to publishers that do not ask for payment for publishing their research articles from the reader, nor ask for payment from the author (or their institution) via so-called article processing fees (APCs). These non-profit journals are possible by funding from universities or by scientific societies. For example, many university press labels are now developing more and more diamond open access journals (e.g., see MIT Press’s journal [OpenMind](https://direct.mit.edu/opmi/pages/submission-guidelines). We can therefore imagine that we can retake the publishing system. A publishing system that is lead and used by the research community rather than commercial publishers.
 
 ### Where can I publish then? <a name="where-can-i-publish-then"></a>
