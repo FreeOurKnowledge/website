@@ -110,7 +110,6 @@ Note this graph is updated daily.
 - Patrick Melcher
 - Jiaojing Xu
 
-
 ## FAQ
 - [Is there some deeper discussion on this somewhere?](#deeper-discussion)
 - [What is Diamond Open Access](#diamond-open-access)
@@ -139,7 +138,7 @@ There is a comprehensive database of open-access journals that do not charge art
 * [Meta-Psychology](https://open.lnu.se/index.php/metapsychology/about) (psychology)
 * [Clinical Psychology in Europe](https://cpe.psychopen.eu/index.php/cpe) (psychology)
 * [International Journal of Comparative Psychology](https://escholarship.org/uc/uclapsych_ijcp) (psychology)
-* [Global Environmental Psychology](https://gep.psychopen.eu/index.php/gep)
+* [Global Environmental Psychology](https://gep.psychopen.eu/index.php/gep) (psychology)
 * [Glossa](https://www.glossa-journal.org/) (linguistics)
 * [Biolinguistics](https://bioling.psychopen.eu/index.php/bioling/about-the-journal) (linguistics)
 * [Language Documentation & Conservation (LD&C)](https://nflrc.hawaii.edu/ldc/) (linguistics)
