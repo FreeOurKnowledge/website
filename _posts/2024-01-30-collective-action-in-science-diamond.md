@@ -139,6 +139,7 @@ There is a comprehensive database of open-access journals that do not charge art
 * [Meta-Psychology](https://open.lnu.se/index.php/metapsychology/about) (psychology)
 * [Clinical Psychology in Europe](https://cpe.psychopen.eu/index.php/cpe) (psychology)
 * [International Journal of Comparative Psychology](https://escholarship.org/uc/uclapsych_ijcp) (psychology)
+* [Global Environmental Psychology](https://gep.psychopen.eu/index.php/gep)
 * [Glossa](https://www.glossa-journal.org/) (linguistics)
 * [Biolinguistics](https://bioling.psychopen.eu/index.php/bioling/about-the-journal) (linguistics)
 * [Language Documentation & Conservation (LD&C)](https://nflrc.hawaii.edu/ldc/) (linguistics)
