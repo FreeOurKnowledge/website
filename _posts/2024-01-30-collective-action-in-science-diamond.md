@@ -140,6 +140,7 @@ There is a comprehensive database of open-access journals that do not charge art
 * [International Journal of Comparative Psychology](https://escholarship.org/uc/uclapsych_ijcp) (psychology)
 * [Global Environmental Psychology](https://gep.psychopen.eu/index.php/gep) (psychology)
 * [Glossa](https://www.glossa-journal.org/) (linguistics)
+* [Cadernos de Linguística](https://cadernos.abralin.org/index.php/cadernos)(linguistics)
 * [Biolinguistics](https://bioling.psychopen.eu/index.php/bioling/about-the-journal) (linguistics)
 * [Language Documentation & Conservation (LD&C)](https://nflrc.hawaii.edu/ldc/) (linguistics)
 * [Labaratory Phonology](https://www.journal-labphon.org/submissions/) (linguistics)
