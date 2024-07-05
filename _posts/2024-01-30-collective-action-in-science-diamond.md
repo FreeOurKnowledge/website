@@ -158,7 +158,7 @@ There is a comprehensive database of open-access journals that do not charge art
 * [Cultural Anthropology](https://journal.culanth.org/index.php/ca/about) (anthropology)
 
 #### Books and Monographs (under construction)
-* [Language Science Press](https://langsci-press.org/about)
+* [Language Science Press](https://langsci-press.org/about) (linguistics)
 
 ### Why have a threshold for the pledge to activate? <a name="threshold-for-pledge"></a>
 Acting together with a significant proportion of fellow researchers engaged in topics of cognitive science ensures two important things. You will not seem less competitive by choosing not to publish in prestigious for-profit journals, since your decision will be part of a larger scale and more well-known initiative. Additionally, you will be sure of your actions truly having a large impact, from the moment the covenant commences, with so many others alongside you, fostering a more collaborative research community. 
