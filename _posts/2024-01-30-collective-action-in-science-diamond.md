@@ -146,6 +146,7 @@ There is a comprehensive database of open-access journals that do not charge art
 * [Language Documentation & Conservation (LD&C)](https://nflrc.hawaii.edu/ldc/) (linguistics)
 * [Labaratory Phonology](https://www.journal-labphon.org/submissions/) (linguistics)
 * [Isogloss](https://revistes.uab.cat/isogloss/about) (linguistics)
+* [The Journal of Speech Sciences](https://econtents.bc.unicamp.br/inpec/index.php/joss?searchInitial=P) (linguistics)
 * [Italian Journal of Linguistics](https://www.italian-journal-linguistics.com/submissions/) (linguistics)
 * [Semantics & Pragmatics](https://semprag.org/index.php/sp) (linguistics)
 * [Journal of Machine Learning Research](https://jmlr.org/) (computer science)
