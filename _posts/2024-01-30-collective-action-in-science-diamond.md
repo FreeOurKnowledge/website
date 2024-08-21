@@ -61,54 +61,106 @@ __Under the following conditions:__
 Note this graph is updated daily.
 
 ## Public Signatories
-- Wim Pouw (organizer)
-- Laurens Kemp (organizer)
-- Dan Hudson (organizer)
-- Mihaela Cimpian (organizer)
-- Tomasz Steifer (organizer)
-- Eric-Jan Wagenmakers
-- Zoltan Dienes
-- Limor Raviv
-- Matthieu de Wit
-- Rogier Kievit
-- Peter Gärdenfors
-- Mark Dingemanse
-- Andi Bär
-- Linda Drijvers
-- Hans Rutger Bosker
-- Mirjam Ernestus
-- Bertalan Polner
-- Maria Mos
-- Jeanine Guidry-Drost
-- Emiel Krahmer
-- Schuyler Laparle
-- Renske van Enschot
-- Marloes Mak
-- Sible Andringa
-- Ruth Irwin
-- Sahotra Sarka
-- Joe Slater
-- Marek McGann
-- Sylvie Saget
-- Manuela Irarrazabal
-- Oscar Castro Garcia
-- Alfons Maes
-- Elena Popa
-- Sebastian Musslick
-- Wendy Ross
-- Mili Mathew
-- Spencer Kelly
-- Olivia Guest
-- Marius Werz
-- Christian Bauer
-- Gaelle Ferre
-- Natalie Boll-Avetisyan
-- Mili Mathew
-- Dor Abrahamson
-- Hanna Strandell Simpson
-- Britt Fleischeuer
-- Patrick Melcher
-- Jiaojing Xu
+|	- Wim Pouw (organizer)			|	- Victor Reiner				|
+|	- Laurens Kemp (organizer)		|	- Heidi Harley				|
+|	- Dan Hudson (organizer)		|	- Veli-Matti Karhulahti		|
+|	- Mihaela Cimpian (organizer)	|	- Stefan Müller				|
+|	- Tomasz Steifer (organizer)	|	- Martin Haspelmath			|
+|	- Eric-Jan Wagenmakers			|	- James Steele				|
+|	- Zoltan Dienes					|	- Pier-Marco Bertinetto		|
+|	- Limor Raviv					|	- Istvan Kenesei			|
+|	- Matthieu de Wit				|	- Laura De Vos				|
+|	- Rogier Kievit					|	- Travis Wiltshire			|
+|	- Peter Gärdenfors				|	- Emmanuel Keuleers			|
+|	- Mark Dingemanse				|	- Jin-Dong Kim				|
+|	- Andi Bär						|	- Roberta D'Alessandro		|
+|	- Linda Drijvers				|	- Antonio Fábregas			|
+|	- Hans Rutger Bosker			|	- Eric Bakovic				|
+|	- Mirjam Ernestus				|	- Neil Myler				|
+|	- Bertalan Polner				|	- Heidi Harley				|
+|	- Maria Mos						|	- João M. Veloso			|
+|	- Jeanine Guidry-Drost			|	- Beste Kamali				|
+|	- Emiel Krahmer					|	- Ernesto Jimenez Ruiz		|
+|	- Schuyler Laparle				|	- Robert Henderson			|
+|	- Renske van Enschot			|	- Matlotlisang Tjabaka-Mokapane		|
+|	- Marloes Mak					|	- Barthe Bloom				|
+|	- Sible Andringa				|	- Marina Sokolova			|
+|	- Ruth Irwin					|	- István Kenesei			|
+|	- Sahotra Sarka					|	- Alon Fishman				|
+|	- Joe Slater					|	- Stefan Müller				|
+|	- Marek McGann					|	- Hendrik Buschmeier		|
+|	- Sylvie Saget					|	- Jonah Katz				|
+|	- Manuela Irarrazabal			|	- Yuri Pavlov				|
+|	- Oscar Castro Garcia			|	- Jonas Nölle				|
+|	- Alfons Maes					|	- Famira Racy				|
+|	- Elena Popa					|	- Alain Morin				|
+|	- Sebastian Musslick			|	- Walter Dych				|
+|	- Wendy Ross					|	- julien colomb				|
+|	- Mili Mathew					|	- Sílvia Gabarró-López		|
+|	- Spencer Kelly					|	- Ernesto Jimenez-Ruiz		|
+|	- Olivia Guest					|	- Cameron Brick				|
+|	- Marius Werz					|	- Frederik Aust				|
+|	- Christian Bauer				|	- Flavio Azevedo			|
+|	- Gaelle Ferre					|	- Sara Garofalo				|
+|	- Natalie Boll-Avetisyan		|	- Amy Orben					|
+|	- Mili Mathew					|	- Felipe Vilanova			|
+|	- Dor Abrahamson				|	- Konrad Kording			|
+|	- Hanna Strandell Simpson		|	- Martine Grice				|
+|	- Britt Fleischeuer				|	- Rabeeh Abbasi				|
+|	- Patrick Melcher				|	- Miguel Oliveira Jr		|
+|	- Jiaojing Xu					|	- Thomas Evans				|
+|	- Andi Bär						|	- Jessica Kay Flake			|
+|	- Maria Mos						|	- Matthew Jané				|
+|	- Jeanine Guidry-Drost			|	- Sara Martins Adelino		|
+|	- Emiel Krahmer					|	- Michał Białek				|
+|	- Schuyler Laparle				|	- Joshua Tybur				|	
+|	- Renske van Enschot			|	- Vitória Piai				|	
+|	- Marloes Mak					|	- Gilad Feldman				|
+|	- Sible Andringa				|	- Bert Bakker				|
+|	- Ruth Irwin					|	- Ljerka Ostojic			|
+|	- Sahotra Sarkar				|	- Paul Riesthuis			|
+|	- Joe Slater					|	- Patrícia Arriaga			|
+|	- Marek McGann					|	- Martin Adalberto Tena Espinoza de los Monteros		|
+|	- Sylvie Saget					|	- Rosa Campillo Garrigós	|
+|	- Manuela Irarrazabal			|	- Rajiv Rao					|
+|	- Oscar Castro Garcia			|	- Wendy Elvira-García		|
+|	- Alfons Maes					|	- Ryan Bennett				|
+|	- Elena Popa					|	- Michelina Savino			|
+|	- Bénédicte Coste				|	- Patrizia Noel				|
+|	- Elisa Paganini				|	- Cristel Portes			|
+|	- Dariusz Kalociński			|	- Simon Wehrle				|
+|	- Sarah Creel					|	- Daniel Hirst				|
+|	- Alfredo Tomasetta				|	- Elmar Nöth				|
+|	- Dominic Schmitz				|	- Francesco Cutugno			|
+|	- Jacopo Frascaroli				|	- Oliver Niebuhr			|
+|	- Michael Muhoozi				|	- Luciani Tenani			|
+|	- Lukasz Fura					|	- Aviad Albert				|
+|	- Tineke Snijders				|	- Gairan Pamei				|
+|	- Candice Frances				|	- Jenny Michlich			|
+|	- Andrzej Borkowski				|	- Axel Ekström				|
+|	- Rinus Verdonschot				|	- Marina Vigário			|
+|	- Egon Willighagen				|	- Adam Chong				|
+|	- Aidan Hogan					|	- Noel Nguyen				|
+|	- Guðrún Guðmundsdóttir			|	- Sara Adelino				|
+|	- Tomas Lentz					|	- Stefan Baumann			|
+|	- Patrick C. Trettenbrein		|	- Amalia Arvaniti			|
+|	- Stephanie Forkel				|	- Jürgen Trouvain			|
+|	- Nick Thieberger				|	- Naomi Peck				|
+|	- Garam Jeong					|	- Kristine Yu				|
+|	- Anna van 't Veer				|	- Stefan Hartmann			|
+|	- Cameron Brick					|	- Lisa Matthias				|
+|	- James Trujillo				|			|
+|	- Moritz Reis					|			|
+|	- Peder Isager					|			|
+|	- Chen Zhao						|			|
+|	- Chun-Chia Kung				|			|
+|	- Ernst Pöppel					|			|
+|	- Eva Murillo					|			|
+|	- Miguel Lázaro					|			|
+|	- Jos Baeten					|			|
+|	- Gemma Boleda					|			|
+|	- George Walkden				|			|
+|	- Louise McNally				|			|
 
 ## FAQ
 - [Is there some deeper discussion on this somewhere?](#deeper-discussion)
