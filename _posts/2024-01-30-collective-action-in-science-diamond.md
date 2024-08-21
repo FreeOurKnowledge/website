@@ -61,6 +61,8 @@ __Under the following conditions:__
 Note this graph is updated daily.
 
 ## Public Signatories
+| Name 								| Name							| 
+|     :-------------------------:	|     :-------------------------:		|
 |	- Wim Pouw (organizer)			|	- Victor Reiner				|
 |	- Laurens Kemp (organizer)		|	- Heidi Harley				|
 |	- Dan Hudson (organizer)		|	- Veli-Matti Karhulahti		|
