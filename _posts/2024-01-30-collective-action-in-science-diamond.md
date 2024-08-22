@@ -62,109 +62,197 @@ Note this graph is updated daily.
 
 
 ## Public Signatories
-|Name||
-|------------|------------|
-| Wim Pouw (organizer)| Victor Reiner|
-| Laurens Kemp (organizer)| Heidi Harley|
-| Dan Hudson (organizer)| Veli-Matti Karhulahti|
-| Mihaela Cimpian (organizer)| Stefan Müller|
-| Tomasz Steifer (organizer)| Martin Haspelmath|
-| Eric-Jan Wagenmakers| James Steele|
-| Zoltan Dienes| Pier-Marco Bertinetto|
-| Limor Raviv| Istvan Kenesei|
-| Matthieu de Wit| Laura De Vos|
-| Rogier Kievit| Travis Wiltshire|
-| Peter Gärdenfors| Emmanuel Keuleers|
-| Mark Dingemanse| Jin-Dong Kim|
-| Andi Bär| Roberta D'Alessandro|
-| Linda Drijvers| Antonio Fábregas|
-| Hans Rutger Bosker| Eric Bakovic|
-| Mirjam Ernestus| Neil Myler|
-| Bertalan Polner| Heidi Harley|
-| Maria Mos| João M. Veloso|
-| Jeanine Guidry-Drost| Beste Kamali|
-| Emiel Krahmer| Ernesto Jimenez Ruiz|
-| Schuyler Laparle| Robert Henderson|
-| Renske van Enschot| Matlotlisang Tjabaka-Mokapane|
-| Marloes Mak| Barthe Bloom|
-| Sible Andringa| Marina Sokolova|
-| Ruth Irwin| István Kenesei|
-| Sahotra Sarka| Alon Fishman|
-| Joe Slater| Stefan Müller|
-| Marek McGann| Hendrik Buschmeier|
-| Sylvie Saget| Jonah Katz|
-| Manuela Irarrazabal| Yuri Pavlov|
-| Oscar Castro Garcia| Jonas Nölle|
-| Alfons Maes| Famira Racy|
-| Elena Popa| Alain Morin|
-| Sebastian Musslick| Walter Dych|
-| Wendy Ross| julien colomb|
-| Mili Mathew| Sílvia Gabarró-López|
-| Spencer Kelly| Ernesto Jimenez-Ruiz|
-| Olivia Guest| Cameron Brick|
-| Marius Werz| Frederik Aust|
-| Christian Bauer| Flavio Azevedo|
-| Gaelle Ferre| Sara Garofalo|
-| Natalie Boll-Avetisyan| Amy Orben|
-| Mili Mathew| Felipe Vilanova|
-| Dor Abrahamson| Konrad Kording|
-| Hanna Strandell Simpson| Martine Grice|
-| Britt Fleischeuer| Rabeeh Abbasi|
-| Patrick Melcher| Miguel Oliveira Jr|
-| Jiaojing Xu| Thomas Evans|
-| Andi Bär| Jessica Kay Flake|
-| Maria Mos| Matthew Jané|
-| Jeanine Guidry-Drost| Sara Martins Adelino|
-| Emiel Krahmer| Michał Białek|
-| Schuyler Laparle| Joshua Tybur|
-| Renske van Enschot| Vitória Piai|
-| Marloes Mak| Gilad Feldman|
-| Sible Andringa| Bert Bakker|
-| Ruth Irwin| Ljerka Ostojic|
-| Sahotra Sarkar| Paul Riesthuis|
-| Joe Slater| Patrícia Arriaga|
-| Marek McGann| Martin Adalberto Tena Espinoza de los Monteros|
-| Sylvie Saget| Rosa Campillo Garrigós|
-| Manuela Irarrazabal| Rajiv Rao|
-| Oscar Castro Garcia| Wendy Elvira-García|
-| Alfons Maes| Ryan Bennett|
-| Elena Popa| Michelina Savino|
-| Bénédicte Coste| Patrizia Noel|
-| Elisa Paganini| Cristel Portes|
-| Dariusz Kalociński| Simon Wehrle|
-| Sarah Creel| Daniel Hirst|
-| Alfredo Tomasetta| Elmar Nöth|
-| Dominic Schmitz| Francesco Cutugno|
-| Jacopo Frascaroli| Oliver Niebuhr|
-| Michael Muhoozi| Luciani Tenani|
-| Lukasz Fura| Aviad Albert|
-| Tineke Snijders| Gairan Pamei|
-| Candice Frances| Jenny Michlich|
-| Andrzej Borkowski| Axel Ekström|
-| Rinus Verdonschot| Marina Vigário|
-| Egon Willighagen| Adam Chong|
-| Aidan Hogan| Noel Nguyen|
-| Guðrún Guðmundsdóttir| Sara Adelino|
-| Tomas Lentz| Stefan Baumann|
-| Patrick C. Trettenbrein| Amalia Arvaniti|
-| Stephanie Forkel| Jürgen Trouvain|
-| Nick Thieberger| Naomi Peck|
-| Garam Jeong| Kristine Yu|
-| Anna van 't Veer| Stefan Hartmann|
-| Cameron Brick| Lisa Matthias|
-| James Trujillo||
-| Moritz Reis||
-| Peder Isager||
-| Chen Zhao||
-| Chun-Chia Kung||
-| Ernst Pöppel||
-| Eva Murillo||
-| Miguel Lázaro||
-| Jos Baeten||
-| Gemma Boleda||
-| George Walkden||
-| Louise McNally||
-
+- Wim Pouw (organizer)
+- Laurens Kemp (organizer)
+- Dan Hudson (organizer)
+- Mihaela Cimpian (organizer)
+- Tomasz Steifer (organizer)
+- Eric-Jan Wagenmakers
+- Zoltan Dienes
+- Limor Raviv
+- Matthieu de Wit
+- Rogier Kievit
+- Peter Gärdenfors
+- Mark Dingemanse
+- Andi Bär
+- Linda Drijvers
+- Hans Rutger Bosker
+- Mirjam Ernestus
+- Bertalan Polner
+- Maria Mos
+- Jeanine Guidry-Drost
+- Emiel Krahmer
+- Schuyler Laparle
+- Renske van Enschot
+- Marloes Mak
+- Sible Andringa
+- Ruth Irwin
+- Sahotra Sarka
+- Joe Slater
+- Marek McGann
+- Sylvie Saget
+- Manuela Irarrazabal
+- Oscar Castro Garcia
+<details>
+ <summary>Show All Further Signatories</summary>
+- Alfons Maes
+- Elena Popa
+- Sebastian Musslick
+- Wendy Ross
+- Mili Mathew
+- Spencer Kelly
+- Olivia Guest
+- Marius Werz
+- Christian Bauer
+- Gaelle Ferre
+- Natalie Boll-Avetisyan
+- Mili Mathew
+- Dor Abrahamson
+- Hanna Strandell Simpson
+- Britt Fleischeuer
+- Patrick Melcher
+- Jiaojing Xu
+- Andi Bär
+- Maria Mos
+- Jeanine Guidry-Drost
+- Emiel Krahmer
+- Schuyler Laparle
+- Renske van Enschot
+- Marloes Mak
+- Sible Andringa
+- Ruth Irwin
+- Sahotra Sarkar
+- Joe Slater
+- Marek McGann
+- Sylvie Saget
+- Manuela Irarrazabal
+- Oscar Castro Garcia
+- Alfons Maes
+- Elena Popa
+- Bénédicte Coste
+- Elisa Paganini
+- Dariusz Kalociński
+- Sarah Creel
+- Alfredo Tomasetta
+- Dominic Schmitz
+- Jacopo Frascaroli
+- Michael Muhoozi
+- Lukasz Fura
+- Tineke Snijders
+- Candice Frances
+- Andrzej Borkowski
+- Rinus Verdonschot
+- Egon Willighagen
+- Aidan Hogan
+- Guðrún Guðmundsdóttir
+- Tomas Lentz
+- Patrick C. Trettenbrein
+- Stephanie Forkel
+- Nick Thieberger
+- Garam Jeong
+- Anna van 't Veer
+- Cameron Brick
+- James Trujillo
+- Moritz Reis
+- Peder Isager
+- Chen Zhao
+- Chun-Chia Kung
+- Ernst Pöppel
+- Eva Murillo
+- Miguel Lázaro
+- Jos Baeten
+- Gemma Boleda
+- George Walkden
+- Louise McNally
+- Victor Reiner
+- Heidi Harley
+- Veli-Matti Karhulahti
+- Stefan Müller
+- Martin Haspelmath
+- James Steele
+- Pier-Marco Bertinetto
+- Istvan Kenesei
+- Laura De Vos
+- Travis Wiltshire
+- Emmanuel Keuleers
+- Jin-Dong Kim
+- Roberta D'Alessandro
+- Antonio Fábregas
+- Eric Bakovic
+- Neil Myler
+- Heidi Harley
+- João M. Veloso
+- Beste Kamali
+- Ernesto Jimenez Ruiz
+- Robert Henderson
+- Matlotlisang Tjabaka-Mokapane
+- Barthe Bloom
+- Marina Sokolova
+- István Kenesei
+- Alon Fishman
+- Stefan Müller
+- Hendrik Buschmeier
+- Jonah Katz
+- Yuri Pavlov
+- Jonas Nölle
+- Famira Racy
+- Alain Morin
+- Walter Dych
+- julien colomb
+- Sílvia Gabarró-López
+- Ernesto Jimenez-Ruiz
+- Cameron Brick
+- Frederik Aust
+- Flavio Azevedo
+- Sara Garofalo
+- Amy Orben
+- Felipe Vilanova
+- Konrad Kording
+- Martine Grice
+- Rabeeh Abbasi
+- Miguel Oliveira Jr
+- Thomas Evans
+- Jessica Kay Flake
+- Matthew Jané
+- Sara Martins Adelino
+- Michał Białek
+- Joshua Tybur
+- Vitória Piai
+- Gilad Feldman
+- Bert Bakker
+- Ljerka Ostojic
+- Paul Riesthuis
+- Patrícia Arriaga
+- Martin Adalberto Tena Espinoza de los Monteros
+- Rosa Campillo Garrigós
+- Rajiv Rao
+- Wendy Elvira-García
+- Ryan Bennett
+- Michelina Savino
+- Patrizia Noel
+- Cristel Portes
+- Simon Wehrle
+- Daniel Hirst
+- Elmar Nöth
+- Francesco Cutugno
+- Oliver Niebuhr
+- Luciani Tenani
+- Aviad Albert
+- Gairan Pamei
+- Jenny Michlich
+- Axel Ekström
+- Marina Vigário
+- Adam Chong
+- Noel Nguyen
+- Sara Adelino
+- Stefan Baumann
+- Amalia Arvaniti
+- Jürgen Trouvain
+- Naomi Peck
+- Kristine Yu
+- Stefan Hartmann
+- Lisa Matthias
+</details>
 
 ## FAQ
 - [Is there some deeper discussion on this somewhere?](#deeper-discussion)
