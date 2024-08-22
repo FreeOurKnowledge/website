@@ -94,7 +94,7 @@ Note this graph is updated daily.
 - Manuela Irarrazabal
 - Oscar Castro Garcia
 <details>
- <summary>Show All Signatories</summary>
+ <summary>Show All Further Signatories</summary>
 - Alfons Maes
 - Elena Popa
 - Sebastian Musslick
