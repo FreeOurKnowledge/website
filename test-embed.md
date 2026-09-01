@@ -13,8 +13,6 @@ permalink: /test-embed/
 sitemap: false
 ---
 
-## The survey:
-
 Free Our Knowledge campaigns have historically asked you to take action and be part of a collective effort to enact change, but in this one, we want to hear your perspective about why that might not be possible.
 
 When it comes to making the scholarly publishing system more fair and open, there are many perceived obstacles that are mentioned as reasons why individuals won't take action on their own. Every stakeholder group in scholarly publishing can explain why the move has to come from someone else. We want to find out whether that's true.
