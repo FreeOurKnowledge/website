@@ -71,5 +71,4 @@ The responses from the survey will be mapped along this structure, and the resul
   transform: translateX(-50%);
 }
 .graph-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; border-radius: 6px; }
-body { font-family: sans-serif; margin: 2rem auto; max-width: 800px; }
 </style>
