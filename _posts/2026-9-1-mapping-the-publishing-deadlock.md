@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mapping the Publishing Deadlock
+title: 
 subtitle: A survey of the barriers reported by stakeholders in scholarly publishing
 gh-repo: freeourknowledge/community
 cover-img: /assets/img/stakeholder-blank-2.png
@@ -9,8 +9,7 @@ share-img: /assets/img/stakeholder-fill.png
 twitter-img: "https://github.com/FreeOurKnowledge/website/blob/master/assets/img/stakeholder-fill.png?raw=true"
 twitter-card: "https://github.com/FreeOurKnowledge/website/blob/master/assets/img/stakeholder-fill.png?raw=true"
 comments: true
-permalink: /test-embed/
-sitemap: false
+permalink: /stakeholder-survey/
 ---
 
 Free Our Knowledge campaigns have historically asked you to take action and be part of a collective effort to enact change, but in this one, we want to hear your perspective about why that might not be possible.
@@ -33,6 +32,7 @@ Once you've completed the survey, feel free to examine the interactive stakehold
 
 The responses from the survey will be mapped along this structure, and the results are planned to be presented at the [Open Science Festival in Delft, 14 October 2026](https://opensciencefestival.nl).
 
+[Discuss on LinkedIn](https://lnkd.in/p/ekENeQfH)
 
 <div class="graph-embed">
   <iframe src="https://ltk1.github.io/open-science-graph/?embed=1" style="position:absolute;inset:0;width:100%;height:100%;border:0"></iframe>
