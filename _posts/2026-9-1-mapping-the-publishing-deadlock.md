@@ -72,5 +72,5 @@ The responses from the survey will be mapped along this structure, and the resul
 }
 .graph-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; border-radius: 6px; }
 .partner-logo { margin: 2rem 0 1rem; text-align: center; }
-.partner-logo img { max-width: 260px; width: 100%; height: auto; }
+.partner-logo img { max-width: 500px; width: 100%; height: auto; }
 </style>
