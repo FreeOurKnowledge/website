@@ -30,7 +30,8 @@ If you work on the publisher, funder, university administration, or infrastructu
 
 Once you've completed the survey, feel free to examine the interactive stakeholder map below, which maps the relationships between stakeholders in scholarly publishing. Hovering over the edges between nodes provides a description of the influence between one group and another, including financial, organizational, technical and reputational. Clicking on any node provides more detailed information.
 
-The responses from the survey will be mapped along this structure, and the results are planned to be presented at the [Open Science Festival in Delft, 14 October 2026](https://opensciencefestival.nl).
+The responses from the survey will be mapped along this structure, and the results are planned to be presented at the [Open Science Festival in Delft, 14 October 2026](https://opensciencefestival.nl). The structure and informational content of the map was verified by Maria Constantin at the [Diamond Open Access Expertise Center](https://www.openaccess.nl/en/expertise-centre-diamond-open-access).
+
 
 [Discuss on LinkedIn](https://lnkd.in/p/ekENeQfH)
 
@@ -38,22 +39,21 @@ The responses from the survey will be mapped along this structure, and the resul
   <iframe src="https://ltk1.github.io/open-science-graph/?embed=1" style="position:absolute;inset:0;width:100%;height:100%;border:0"></iframe>
 </div>
 
+<div class="partner-logo">
+  <a href="https://www.openaccess.nl/en/expertise-centre-diamond-open-access" target="_blank" rel="noopener">
+    <img src="{{ '/assets/img/DiamondOpenAccess_expertise-center_logo_RGB_v1BLUE.jpg' | relative_url }}"
+         alt="">
+  </a>
+</div>
+
+
+
 <script>
 (function () {
   var ALLOWED = ['https://ltk1.github.io'];
-  (function () {
-    var wrap = document.querySelector('.graph-embed');
-    window.addEventListener('message', function (e) {
-      if (ALLOWED.indexOf(e.origin) === -1) return;
-      if (!e.data || e.data.type !== 'osg-expand') return;
-      wrap.classList.toggle('expanded', !!e.data.expanded);
-      if (e.data.expanded) wrap.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    });
-  })();
   var wrap = document.querySelector('.graph-embed');
   window.addEventListener('message', function (e) {
     if (ALLOWED.indexOf(e.origin) === -1) return;
-    if (e.origin !== 'https://ltk1.github.io') return;
     if (!e.data || e.data.type !== 'osg-expand') return;
     wrap.classList.toggle('expanded', !!e.data.expanded);
     if (e.data.expanded) wrap.scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -71,4 +71,6 @@ The responses from the survey will be mapped along this structure, and the resul
   transform: translateX(-50%);
 }
 .graph-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; border-radius: 6px; }
+.partner-logo { margin: 2rem 0 1rem; text-align: center; }
+.partner-logo img { max-width: 260px; width: 100%; height: auto; }
 </style>
