@@ -10,13 +10,6 @@ twitter-img: "https://github.com/FreeOurKnowledge/website/blob/master/assets/img
 twitter-card: "https://github.com/FreeOurKnowledge/website/blob/master/assets/img/diamond-reviewer-share-1200x630.png?raw=true"
 comments: true
 ---
-
-# Diamond Reviewer Pledge
-
-## Give your peer review to the journals that give back
-
-This year's Peer Review Week theme is capacity—a fitting moment to reflect on a simple truth: peer review is a finite resource.
-
 As submissions keep rising and qualified reviewers become harder to find, every “agree to review” constitutes a choice about where our limited time goes. The Diamond Reviewer Pledge asks us to make that choice a little more deliberately: commit to reviewing at least one article a year for a diamond open access journal—one that charges nothing to publish and nothing to read, run by and for the scholarly community.
 
 In a system under strain, directing even a fraction of our reviewing capacity toward these journals is a concrete way to give back and help sustain the community that produces the research in the first place.
